@@ -513,7 +513,7 @@
   // 덕메 답변에 "아직 확인되지 않은 정보" 안내가 이미 들어 있는지 언어별로 확인한다.
   const UNVERIFIED_IN_REPLY = /확인되지 않은|not (?:been )?(?:confirmed|verified)|unverified|確認されていない|未確認|未确认|尚未确认/i;
 
-  let uiLang = 'ko';
+  let uiLang = 'ko'; // 서버가 /config로 기본 en을 알려 주면 setUiLang('en')이 화면 문구를 바꾼다
 
   // "사쿠야가 다녀간 곳" / "태산이 다녀간 곳": 한국어는 aliases의 한글 이름에 받침 따라 이/가를 붙이고,
   // 한글 이름이 없으면 "BOYNEXTDOOR 방문"처럼 조사 없이. 다른 언어는 데이터 이름 그대로(번역하지 않음).
@@ -1302,7 +1302,7 @@
     closeDrawer();
     hasSentMessage = false;
     // 다음 관람객을 위한 처음 상태: 서버도 대화 언어를 비웠으니 화면도 기본(한국어)으로 돌리고 안내도 한국어로.
-    setUiLang('ko');
+    setUiLang('en');
     document.getElementById('text').value = '';
     document.getElementById('text').placeholder = t('placeholder.initial');
     renderWelcome();
@@ -1315,7 +1315,7 @@
   document.getElementById('btn-restart').onclick = () => resetAll({ ask: !boothIdleMs });
 
   // 첫 화면 예시 질문 (언어별로 하나씩 보여 주려고 문구는 번역하지 않는다).
-  const EXAMPLE_QUESTIONS = ['사쿠야 손민수템 보여줘', '에스파 손민수 장소 코스 짜줘', 'Plan me a BTS fan-spot course in Seoul'];
+  const EXAMPLE_QUESTIONS = ['My bias is Sion from NCT WISH. Show me what he wore', 'Plan me a BTS fan-spot course in Seoul', 'Plan an aespa fan-spot course', '사쿠야 손민수템 보여줘'];
   function renderWelcome() {
     removeWelcome();
     const box = document.createElement('div');

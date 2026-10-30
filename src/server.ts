@@ -370,7 +370,7 @@ const server = createServer(async (req, res) => {
       const visitedPlaces = appState.visitedPlaces.map((id) => places.find((p) => p.id === id)).filter(Boolean);
       json(res, 200, {
         memory, preferences: appState.preferences, wishlist, owned, visitedPlaces, purchaseClicks: appState.purchaseClicks,
-        replyLanguage: appState.conversationLanguage ?? appState.preferences.language ?? "ko",
+        replyLanguage: appState.conversationLanguage ?? appState.preferences.language ?? "en",
         messagesLeft: Math.max(0, LIMITS.userMessages - appState.messagesSent),
       });
       return;
