@@ -119,11 +119,18 @@ async function chat(config: NebiusConfig, messages: ChatMessage[], tools: unknow
   return { content: stripThinking(message.content ?? ""), toolCalls: message.tool_calls ?? [] };
 }
 
+// 작은 모델용 핵심 규칙(맨 앞에 둔다).
+const FINAL_RULES = `[MOST IMPORTANT RULES]
+1. Reply in the language given by context.replyLanguage (en = English, ko = Korean, ja = Japanese, zh-CN/zh-TW = Chinese). Never switch to Korean when replyLanguage is en.
+2. Act first, ask later. If the user asks for a route/course, call planRoute immediately (put the area like "Seoul" in area, group/member if mentioned; leave others empty). If the user asks for items, call searchItem immediately. Do not ask follow-up questions before calling a tool.
+3. Never ask the user for ids (itemId, placeId). Ids come only from tool results. Never mention ids, tool names or field names in replies.
+4. Keep replies short: 2-5 sentences. Cards and maps are shown separately by the app.`;
+
 export function nebiusOpener(config: NebiusConfig, options: { toolCallsPerTurn: number }): AgentOpener {
   const handlers: Record<string, ToolHandler> = limitToolCallsPerTurn(toolHandlers, options.toolCallsPerTurn);
   const { functions, routes } = buildFunctions(toolDeclarations);
   const tools = [...functions, REMEMBER_FN];
-  const systemPrompt = `${INSTRUCTIONS}\n\n[표정 마커 안내]\n${MARKER_GUIDE}\n\n[장기 기억]\n${MEMORY_POLICY} 저장은 rememberFact 도구로 한다.`;
+  const systemPrompt = `${FINAL_RULES}\n\n${INSTRUCTIONS}\n\n[표정 마커 안내]\n${MARKER_GUIDE}\n\n[장기 기억]\n${MEMORY_POLICY} 저장은 rememberFact 도구로 한다.`;
 
   return async (userId, onEvent) => {
     const store = await loadStore(userId);
@@ -166,7 +173,11 @@ export function nebiusOpener(config: NebiusConfig, options: { toolCallsPerTurn: 
         emit({ type: "state", status: "running" });
         const replyId = `${input.id}-reply`;
         try {
-          const turn: ChatMessage[] = [{ role: "user", content: input.text }];
+          const ctx = (input.context ?? {}) as { replyLanguage?: string; replyInstruction?: string };
+          const lang = ctx.replyLanguage ?? "ko";
+          const langName: Record<string, string> = { ko: "Korean (한국어)", en: "English", ja: "Japanese (日本語)", "zh-CN": "Simplified Chinese (简体中文)", "zh-TW": "Traditional Chinese (繁體中文)" };
+          // 작은 모델이 긴 지침 속 언어 규칙을 놓치지 않게, 사용자 메시지 바로 뒤에 짧게 다시 붙인다.
+          const turn: ChatMessage[] = [{ role: "user", content: `${input.text}\n\n[system note: reply ONLY in ${langName[lang] ?? lang}. Call the tools you need right away instead of asking for ids or extra details.]` }];
           const contextNote = `[이번 메시지 context — 앱이 저장한 실제 정보]\n${JSON.stringify(input.context)}\n[nebiusLongTermMemories]\n${store.memories.map((m) => `- ${m.text}`).join("\n") || "(없음)"}`;
           let finalText = "";
           for (let i = 0; i < config.maxIterations; i += 1) {

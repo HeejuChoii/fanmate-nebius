@@ -1,66 +1,271 @@
 [
  {
-  "id": "place_032",
-  "name": "전주 남부시장 야시장",
-  "area": "전주시",
-  "region": "전북특별자치도 전주시",
-  "address": "전북특별자치도 전주시 완산구 풍남문1길 19-3",
-  "type": "시장",
-  "visits": [],
+  "id": "place_056",
+  "name": "KSPO DOME (올림픽공원)",
+  "area": "송파구",
+  "region": "서울특별시 송파구",
+  "address": "서울특별시 송파구 올림픽로 424",
+  "type": "Venue",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "SVT",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "NCT 127",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "NCT DREAM",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "Stray Kids",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "RIIZE",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "CRAVITY",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "CORTIS",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "ATEEZ",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "TXT",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "ENHYPEN",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "BOYNEXTDOOR",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "BLACKPINK",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "TWICE",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "IVE",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "Red Velvet",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "ILLIT",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "KATSEYE",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "LE SSERAFIM",
+    "member": "단체",
+    "date": null,
+    "context": null
+   }
+  ],
   "openHours": null,
-  "note": "주말 밤이 즐거운 전주 남부시장 야시장",
+  "note": "케이팝 콘서트의 성지, 올림픽공원 KSPO DOME",
   "mustTry": null,
   "context": null,
   "tip": null,
-  "lat": 35.8126868,
-  "lng": 127.1468566,
-  "naverMapUrl": "https://naver.me/xtgpkuDB",
-  "googleMapUrl": "https://www.google.com/maps/place/%EB%82%A8%EB%B6%80%EC%8B%9C%EC%9E%A5/data=!3m1!4b1!4m4!3m3!1s0x357024a1fdbcaabb:0xe2ec33e2df618146!16s%2Fg%2F1tsr12kl!20s8Q79R47W%2B3PHF8W3",
+  "lat": 37.5191503,
+  "lng": 127.1273644,
+  "naverMapUrl": "https://map.naver.com/p/search/KSPO%20DOME%20%28%EC%98%AC%EB%A6%BC%ED%94%BD%EA%B3%B5%EC%9B%90%29",
+  "googleMapUrl": "https://www.google.com/maps/place/KSPO+DOME+%EC%98%AC%EB%A6%BC%ED%94%BD%EC%B2%B4%EC%A1%B0%EA%B2%BD%EA%B8%B0%EC%9E%A5/data=!3m1!4b1!4m5!3m4!1s0x357caf8af3895a03:0x3b6ac5d5d4ff9a9a!15sCgRrc3BvWgYiBGtzcG-SARFneW1uYXN0aWNzX2NlbnRlcpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOQ09XOWhjVVJuRUFF4AEA-gEECAAQHA!16zL20vMGJyNzZ0!20s8Q99G49G%2BMW9448F",
   "recreeUrl": null,
   "sourceUrl": null,
-  "isFandomSpot": false
+  "isFandomSpot": true
  },
  {
-  "id": "place_033",
-  "name": "목포해상케이블카",
-  "area": "목포시",
-  "region": "전남광주통합특별시 목포시",
-  "address": "전라남도 목포시 해양대학로 240 KR",
-  "type": "체험",
-  "visits": [],
+  "id": "place_060",
+  "name": "하이브",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "42 Hangang-daero, Yongsan District, Seoul, South Korea",
+  "type": "Agency",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "SVT",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "TXT",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "ENHYPEN",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "BOYNEXTDOOR",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "ILLIT",
+    "member": "단체",
+    "date": null,
+    "context": null
+   },
+   {
+    "group": "CORTIS",
+    "member": "단체",
+    "date": null,
+    "context": null
+   }
+  ],
   "openHours": null,
-  "note": "바다를 건너는 목포해상케이블카",
+  "note": "대표적인 K-POP 아이돌들의 소속사, 용산 하이브 사옥",
   "mustTry": null,
   "context": null,
   "tip": null,
-  "lat": 34.7994029,
-  "lng": 126.3701226,
-  "naverMapUrl": "https://naver.me/FPn5pq8c",
-  "googleMapUrl": "https://www.google.com/maps/place/%EB%AA%A9%ED%8F%AC%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4+%EB%B6%81%ED%95%AD+%EC%8A%B9%EA%B0%95%EC%9E%A5/data=!3m1!4b1!4m5!3m4!1s0x3573bb2cbbf39d67:0x489aa56de0a4abb1!15sChrrqqntj6wg7ZW07IOBIOy8gOydtOu4lOy5tFocIhrrqqntj6wg7ZW07IOBIOy8gOydtOu4lOy5tJIBEm1vdW50YWluX2NhYmxlX2NhcuABAA!16s%2Fg%2F11d_8cvnx1!20s8Q68Q9XC%2BQ295GXC",
-  "recreeUrl": null,
+  "lat": 37.5244204,
+  "lng": 126.9640498,
+  "naverMapUrl": "https://naver.me/5Kb3d6r6",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Hybe%20Headquarters&query_place_id=ChIJPRnkva2hfDURCqRxaApya7Y",
+  "recreeUrl": "https://recree.io/posts/korea-hybe-building-recree",
   "sourceUrl": null,
-  "isFandomSpot": false
+  "isFandomSpot": true
  },
  {
-  "id": "place_045",
-  "name": "전주한옥마을",
-  "area": "전주시",
-  "region": "전북특별자치도 전주시",
-  "address": "전북특별자치도 전주시 완산구 기린대로 99",
-  "type": "Village",
-  "visits": [],
+  "id": "place_159",
+  "name": "에버랜드",
+  "area": "용인시",
+  "region": "경기도 용인시",
+  "address": "경기도 용인시 처인구 포곡읍 에버랜드로 199",
+  "type": "Theme Park",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
   "openHours": null,
-  "note": "한옥 700여 채가 모인 전주한옥마을",
-  "mustTry": null,
+  "note": "엔시티 위시가 자컨 EVER WISH PICNIC에서 놀이기구를 섭렵한 에버랜드",
+  "mustTry": "위시 픽인 롤링엑스트레인·챔피언쉽로데오·리버트레일 어드벤처·아마존익스프레스 타기 · 놀이공원 간식 먹어 보기 · 머리띠나 모자 같은 소품 쓰고 포토존에서 사진 찍기",
   "context": null,
   "tip": null,
-  "lat": 35.8175376,
-  "lng": 127.1520417,
-  "naverMapUrl": "https://naver.me/GgWkLaqd",
-  "googleMapUrl": "https://www.google.com/maps/place/%EC%A0%84%EC%A3%BC+%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84/data=!3m1!4b1!4m4!3m3!1s0x3570236212eebd4b:0x8ef4be1bc6d0848e!16s%2Fg%2F1tc_zclz!20s8Q79R592%2B2R7FFM3",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "lat": 37.2939104,
+  "lng": 127.2025664,
+  "naverMapUrl": "https://naver.me/x2jQdLls",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C/data=!3m1!4b1!4m6!3m5!1s0x357b5403ce34d773:0x1fa18ab619238098!8m2!3d37.2939104!4d127.2025664!16s%2Fm%2F012dzv65",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-everland-recree",
+  "sourceUrl": "https://youtu.be/RJQZLPmYTnA?t=676",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_160",
+  "name": "건영스파밸리",
+  "area": "노원구",
+  "region": "서울특별시 노원구",
+  "address": "서울특별시 노원구 섬밭로 258",
+  "type": "Wellness",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 위시힐링스파 EP.1에서 양머리를 쓰고 찜질을 즐긴 건영스파밸리",
+  "mustTry": "수건으로 양머리 만들어 써 보고, 식혜와 계란 같은 찜질방 대표 간식 먹으며, 온도가 다른 찜질방을 차례로 들어가 보기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.6388263,
+  "lng": 127.0647546,
+  "naverMapUrl": "https://naver.me/5GpYswN6",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EA%B1%B4%EC%98%81%EC%8A%A4%ED%8C%8C%EB%B0%B8%EB%A6%AC/data=!3m1!4b1!4m6!3m5!1s0x357cb961a7dbd371:0x3de8b22f2daded94!8m2!3d37.6388263!4d127.0647546!16s%2Fg%2F1tfbqv2y",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-geonyeong-spa-valley-recree",
+  "sourceUrl": "https://youtu.be/xO3yAVR-D38?t=19",
+  "isFandomSpot": true
  },
  {
   "id": "place_161",
@@ -206,6 +411,1026 @@
   "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%AB%80%EB%8D%B0%EA%B8%B01973+%EB%AA%A9%ED%8F%AC/data=!3m1!4b1!4m6!3m5!1s0x3573a526ee0cac85:0x8f1fa18f186b066d!8m2!3d34.7892292!4d126.3852348!16s%2Fg%2F11v4yxv1j7",
   "recreeUrl": "https://recree.io/posts/kpop-nct-wish-jjondegi-1973-mokpo-bakery-muan-recree",
   "sourceUrl": "https://youtu.be/XNKqolSSIoE?t=27",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_166",
+  "name": "흥흥제과",
+  "area": "청주시",
+  "region": "충청북도 청주시",
+  "address": "충청북도 청주시 상당구 중앙로 5-3",
+  "type": "베이커리",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 #위시가청주에 4분 32초경 대기실에서 나눠 먹은 케이크를 산 흥흥제과",
+  "mustTry": "멤버들이 대기실에서 나눠 먹은 이곳 케이크 맛보기",
+  "context": null,
+  "tip": null,
+  "lat": 36.6375114,
+  "lng": 127.4886316,
+  "naverMapUrl": "https://naver.me/GfCsxTLm",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%ED%9D%A5%ED%9D%A5%EC%A0%9C%EA%B3%BC/data=!3m1!4b1!4m6!3m5!1s0x356527c816ea2e65:0x6498fb8751695801!8m2!3d36.6374452!4d127.4886336!16s%2Fg%2F11gcfhljk2",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-heungheung-bakery-recree",
+  "sourceUrl": "https://youtu.be/AChLwcbi38I?t=281",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_167",
+  "name": "반지하",
+  "area": "청주시",
+  "region": "충청북도 청주시",
+  "address": "충청북도 청주시 흥덕구 비하동 가로수로1154번길 13",
+  "type": "고깃집",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 #위시가청주에 도입부에서 공연 전날 고기를 구워 먹은 반지하",
+  "mustTry": "위시 픽인 채끝등심과 육회, 육회비빔밥, 물냉면과 비빔냉면, 된장찌개, 계란찜까지 그대로 주문해 보기.",
+  "context": null,
+  "tip": null,
+  "lat": 36.6261049,
+  "lng": 127.4250943,
+  "naverMapUrl": "https://naver.me/F9N465Pz",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%B0%98%EC%A7%80%ED%95%98/data=!4m6!3m5!1s0x35652978a1110c81:0x3dd878fd2a2d33e4!8m2!3d36.6261049!4d127.4250943!16s%2Fg%2F11rc415njg",
+  "recreeUrl": null,
+  "sourceUrl": "https://youtu.be/AChLwcbi38I?t=15",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_168",
+  "name": "수성못",
+  "area": "수성구",
+  "region": "대구광역시 수성구",
+  "address": "대구광역시 수성못",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "재희",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 #위시가대구에 5분 54초경 재희의 추억을 따라 걸은 수성못",
+  "mustTry": "저녁 시간대에 야경 사진 찍기 · 음악분수 공연 보기",
+  "context": null,
+  "tip": null,
+  "lat": 35.8276358,
+  "lng": 128.6177221,
+  "naverMapUrl": "https://naver.me/GeUR216e",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%88%98%EC%84%B1%EB%AA%BB/data=!3m1!4b1!4m6!3m5!1s0x3565e2fb14fc49c9:0xdcc48afa9e80e0d1!8m2!3d35.8276358!4d128.6177221!16s%2Fg%2F1trsvwj2",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-suseongmot-lake-park-suseong-daegu-recree",
+  "sourceUrl": "https://youtu.be/DCtKi0xBdsM?t=385",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_169",
+  "name": "엄용백돼지국밥 수영본점",
+  "area": "수영구",
+  "region": "부산광역시 수영구",
+  "address": "부산광역시 수영구 수영로680번길 39",
+  "type": "한식",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 인스타 게시물 '잘 먹었습니다'에 인증샷을 올린 엄용백돼지국밥 수영본점",
+  "mustTry": "위시가 앉았던 자리에서 인증샷 찍기",
+  "context": null,
+  "tip": null,
+  "lat": 35.1662326,
+  "lng": 129.1172499,
+  "naverMapUrl": "https://naver.me/xIeXnv1r",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%97%84%EC%9A%A9%EB%B0%B1%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EC%88%98%EC%98%81%EB%B3%B8%EC%A0%90/data=!4m6!3m5!1s0x356892d6ba737695:0x633fbe22bf488e1d!8m2!3d35.1662326!4d129.1172499!16s%2Fg%2F11f5q014cg",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-eomyongbaek-dwaeji-gukbap-suyeong-restaurant-gwangan-busan-recree",
+  "sourceUrl": "https://www.instagram.com/p/DKwBgDdJPTd/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_170",
+  "name": "밀양순대돼지국밥 부산본점",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "부산광역시 해운대구 구남로 28",
+  "type": "한식",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 #위시가부산에 2분 35초경 돼지국밥을 먹은 밀양순대돼지국밥 부산본점",
+  "mustTry": "위시 픽인 돼지국밥 주문 · 모듬국밥·순대·수육 곁들이기",
+  "context": null,
+  "tip": null,
+  "lat": 35.1615822,
+  "lng": 129.1604592,
+  "naverMapUrl": "https://naver.me/5T4ABsWP",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%B0%80%EC%96%91%EC%88%9C%EB%8C%80%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%ED%95%B4%EC%9A%B4%EB%8C%80%EC%A0%90/data=!4m6!3m5!1s0x35688d5ddd154afb:0x6d00bfdcf3277eae!8m2!3d35.1615822!4d129.1604592!16s%2Fg%2F11c0t91xht",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-miryang-sundae-dwaeji-gukbap-busan-restaurant-haeundae-recree",
+  "sourceUrl": "https://youtu.be/P6mO6C8HRnk?t=196",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_171",
+  "name": "부산 송정해수욕장",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "송정해수욕장",
+  "type": "해변",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 #위시가부산에 첫 장면에서 바닷가를 걸은 부산 송정해수욕장",
+  "mustTry": "멤버들이 걸었던 해안을 배경으로 바다 사진 찍기",
+  "context": null,
+  "tip": null,
+  "lat": 35.1786125,
+  "lng": 129.1997133,
+  "naverMapUrl": "https://naver.me/xv3D1uWX",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%86%A1%EC%A0%95%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5/data=!3m1!4b1!4m6!3m5!1s0x35688c4c4855e201:0x32193b3ac37b2925!8m2!3d35.1786125!4d129.1997133!16s%2Fg%2F11bwdqn_1m",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-songjeong-beach-busan-recree",
+  "sourceUrl": "https://youtu.be/P6mO6C8HRnk?t=85",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_172",
+  "name": "반포한강공원",
+  "area": "서초구",
+  "region": "서울특별시 서초구",
+  "address": "서울특별시 서초구 신반포로11길 40",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 위시네 한강 나들이에서 배달 음식으로 피크닉을 즐긴 반포한강공원",
+  "mustTry": "배달 음식 시키고 편의점 라면 끓여 먹은 뒤 노을 보기",
+  "context": null,
+  "tip": null,
+  "lat": 37.5103503,
+  "lng": 126.9952372,
+  "naverMapUrl": "https://naver.me/FV7Yf78J",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%B0%98%ED%8F%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90/data=!3m1!4b1!4m6!3m5!1s0x357b4515dd278e39:0xedac66f15585f616!8m2!3d37.5103503!4d126.9952372!16s%2Fm%2F0nbdl4y",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-banpo-hangang-park-recree",
+  "sourceUrl": "https://youtu.be/TbHJNUM7EHA?t=107",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_173",
+  "name": "벨포레리조트",
+  "area": "증평군",
+  "region": "충청북도 증평군",
+  "address": "충청북도 증평군 도안면 벨포레길 346",
+  "type": "숙소",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 WISH's Wish EP.1에서 목장 체험과 루지를 즐긴 벨포레리조트",
+  "mustTry": "양 먹이주기 체험, 카트 타며 리쿠 유행어 '내 인생처럼 천천히~!' 외치기",
+  "context": null,
+  "tip": null,
+  "lat": 36.8452603,
+  "lng": 127.5837056,
+  "naverMapUrl": "https://naver.me/xgNEIAtO",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%B2%A8%ED%8F%AC%EB%A0%88+%EB%A6%AC%EC%A1%B0%ED%8A%B8/data=!3m1!4b1!4m7!3m6!1s0x3564c3d6dc9516b9:0x150f6a5b50ec4bfb!5m2!4m1!1i2!16s%2Fg%2F11gh_t7m72!20s8Q89RHWM%2B4F4G37C",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-belforet-resort-recree",
+  "sourceUrl": "https://youtu.be/vB4E8QJwgh0?t=708",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_174",
+  "name": "동대문 종합시장",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 종로 272",
+  "type": "시장",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "사쿠야",
+    "date": null,
+    "context": "vlog"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시 사쿠야가 사꾸DAY에서 멤버 선물용 부자재를 산 동대문 종합시장",
+  "mustTry": "한국 유행템 쇼핑 함께 즐기기",
+  "context": null,
+  "tip": null,
+  "lat": 37.5707806,
+  "lng": 127.0081119,
+  "naverMapUrl": "https://naver.me/xUw1rx2F",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%8F%99%EB%8C%80%EB%AC%B8%EC%A2%85%ED%95%A9%EC%8B%9C%EC%9E%A5/data=!4m7!3m6!1s0x357ca322d29cc2e3:0x36df4e2aefb0e66!8m2!3d37.5707806!4d127.0081119!15sChvrj5nrjIDrrLgg7KKF7ZWp7Iuc7J6lIGHrj5laHyId64-Z64yA66y4IOyihe2VqSDsi5zsnqUgYSDrj5mSAQZtYXJrZXSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmxYemhRVW1aUkVBReABAPoBBAgAECQ!16s%2Fm%2F043rj7d",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-dongdaemun-comprehensive-market-recree",
+  "sourceUrl": "https://youtu.be/sQgE-jCuwwg?t=84",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_175",
+  "name": "행복추풍령 칼 삼겹살",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 도산대로51길 41",
+  "type": "고깃집",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "시온",
+    "date": null,
+    "context": "Variety"
+   },
+   {
+    "group": "NCT WISH",
+    "member": "리쿠",
+    "date": null,
+    "context": "Variety"
+   },
+   {
+    "group": "NCT WISH",
+    "member": "유우시",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시 시온·유우시·리쿠가 〈먹2U〉에서 식사하며 토크한 추풍령칼삼겹살 압구정점",
+  "mustTry": "시온 픽 김치찌개, 리쿠 픽 냉면, 유우시 픽 계란찜을 그대로 주문해 볼 것 · 입구에 걸린 친필 사인 앞에서 인증샷을 남기기 좋다.",
+  "context": null,
+  "tip": null,
+  "lat": 37.5259541,
+  "lng": 127.0381005,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/12021444?placePath=%2Fhome",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%95%95%EA%B5%AC%EC%A0%95+%EC%B9%BC+%EC%82%BC%EA%B2%B9%EC%82%B4/data=!3m1!4b1!4m4!3m3!1s0x357ca38877720f19:0xeccb762369bf333f!16s%2Fg%2F1xgz8qyg!20s8Q99G2GQ%2B96Q2X3H",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-chupungnyeong-kal-samgyeopsal-apgujeong-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=_FOm1HamXJ8",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_224",
+  "name": "한국의 집 고호재",
+  "area": "중구",
+  "region": "서울특별시 중구",
+  "address": "서울특별시 중구 퇴계로36길 10",
+  "type": "Cultural Space",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 지젤이 비짓서울 서울 여행 브이로그에서 다과와 전통예술 공연을 즐긴 한국의 집 고호재",
+  "mustTry": "영상 속 지젤처럼 전통 다과를 맛보고 이어지는 한국 전통예술 공연까지 관람하기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.5601722,
+  "lng": 126.9946883,
+  "naverMapUrl": "https://naver.me/FafyrZiR",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%95%9C%EA%B5%AD%EC%9D%98+%EC%A7%91/data=!3m1!4b1!4m6!3m5!1s0x357ca29433662bd7:0x540c2f813a78c49e!8m2!3d37.5602041!4d126.9947198!16s%2Fg%2F1q5blgddm",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-hanguk-ui-jip-goho-jae-recree",
+  "sourceUrl": "https://youtu.be/MQ9RvQ4LUQk?t=1042",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_225",
+  "name": "선녀바위",
+  "area": "영종구",
+  "region": "인천광역시 영종구",
+  "address": "인천 중구 을왕동 678-51",
+  "type": "Nature",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "MV"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 윈터가 〈Beyond the Studio〉에서 솔로곡 'Blue'를 부른 선녀바위",
+  "mustTry": "선녀바위 앞에 서서 영상 속 그 자리에서 윈터의 솔로곡 'Blue' 직접 들어 보기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.43854,
+  "lng": 126.378615,
+  "naverMapUrl": "https://naver.me/xWTY5ZQU",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%84%A0%EB%85%80%EB%B0%94%EC%9C%84/data=!4m7!3m6!1s0x357b974cb91726c7:0x7c9f50899971cecd!8m2!3d37.43854!4d126.378615!15sCgzshKDrhYDrsJTsnISSARJ0b3VyaXN0X2F0dHJhY3Rpb27gAQA!16s%2Fg%2F1tknyqm6",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-seonnyeobawi-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=eZiCkuXnTRQ&t=12",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_226",
+  "name": "강릉역",
+  "area": "강릉시",
+  "region": "강원특별자치도 강릉시",
+  "address": "강원특별자치도 강릉시 용지로 176",
+  "type": "Station",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나가 인스타그램 강릉 여행 게시물에 사진을 남긴 강릉역",
+  "mustTry": "카리나처럼 강릉역에서 기차 여행 시작하기",
+  "context": null,
+  "tip": null,
+  "lat": 37.7644776,
+  "lng": 128.8995536,
+  "naverMapUrl": "https://naver.me/5kksyhHR",
+  "googleMapUrl": "https://www.google.com/maps/place/%EA%B0%95%EB%A6%89%EC%97%AD/data=!4m7!3m6!1s0x3561e5479567f2e5:0xf585e2c4b557e75a!8m2!3d37.7644776!4d128.8995536!15sCgnqsJXrponsl62SARByYWlsd2F5X3NlcnZpY2Vz4AEA!16s%2Fg%2F11kgrkkb7y",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-gangneung-station-recree",
+  "sourceUrl": "https://www.instagram.com/p/C0RLtfhya9R",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_227",
+  "name": "국립수목원",
+  "area": "포천시",
+  "region": "경기도 포천시",
+  "address": "경기도 포천시 소흘읍 광릉수목원로 509",
+  "type": "Nature",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파가 자컨 aesParty EP.13에서 무전기 미션을 수행한 국립수목원",
+  "mustTry": "멤버들이 처음 배치됐던 지점을 찾아 인증샷 남기기",
+  "context": null,
+  "tip": null,
+  "lat": 37.7597568,
+  "lng": 127.1688829,
+  "naverMapUrl": "https://naver.me/xJiddnEs",
+  "googleMapUrl": "https://www.google.com/maps/place/%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90/data=!4m7!3m6!1s0x357ccf289ac5d1d1:0x22d9fbb09a787eb8!8m2!3d37.7597568!4d127.1688829!15sCg_qta3rpr3siJjrqqnsm5BaEiIQ6rWt66a9IOyImOuqqeybkJIBCWFyYm9yZXR1beABAA!16s%2Fm%2F0gvtz3x",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-korea-national-arboretum-recree",
+  "sourceUrl": "https://youtu.be/N2-CkkMZH6E?t=53",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_228",
+  "name": "오잇",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 신흥로 95",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나·지젤이 찾아서 투어 첫 편에서 카이막을 맛본 오잇",
+  "mustTry": "두 사람이 먹은 카이막과 아이스 아메리카노 주문 · 카페에 들어서면 입구 거울 앞에서 사진 남기기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.5455025,
+  "lng": 126.9850359,
+  "naverMapUrl": "https://naver.me/Gq846rr8",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%98%A4%EC%9E%87/data=!3m1!4b1!4m6!3m5!1s0x357ca3284dc1dc17:0x586ae4dc07df3662!8m2!3d37.5455025!4d126.9850359!16s%2Fg%2F11fnwfnp4g",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-oit-recree",
+  "sourceUrl": "https://youtu.be/7Yw_uwNvVKQ?t=349",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_229",
+  "name": "해성막창집 서면점",
+  "area": "부산진구",
+  "region": "부산광역시 부산진구",
+  "address": "부산광역시 부산진구 동성로49번길 32 1층",
+  "type": "고깃집",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 지젤·닝닝이 인스타그램 부산 게시물에서 소곱창전골을 먹은 해성막창집 서면점",
+  "mustTry": "두 사람이 먹은 소곱창전골 주문하고 매장에 걸린 사인 앞에서 인증샷 남기기",
+  "context": null,
+  "tip": null,
+  "lat": 35.1550801,
+  "lng": 129.0667006,
+  "naverMapUrl": "https://naver.me/FN7X3RcS",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%95%B4%EC%84%B1%EB%A7%89%EC%B0%BD%EC%A7%91+%EC%84%9C%EB%A9%B4%EC%A0%90/data=!3m1!4b1!4m6!3m5!1s0x3568eb90ae918a31:0xf5b59ec7571c94a!8m2!3d35.1550801!4d129.0667006!16s%2Fg%2F11h84qsd67",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-haeseong-makchang-seomyeon-recree",
+  "sourceUrl": "https://www.instagram.com/p/C7_Xn0cS1B1",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_230",
+  "name": "법기수원지",
+  "area": "양산시",
+  "region": "경상남도 양산시",
+  "address": "양산시 법기저수지",
+  "type": "Nature",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 윈터가 인스타그램 Home sweet home 게시물에서 사진을 남긴 법기수원지",
+  "mustTry": "윈터 사진 속 풍경을 찾아 같은 구도로 사진 찍기",
+  "context": null,
+  "tip": null,
+  "lat": 35.3514514,
+  "lng": 129.1044674,
+  "naverMapUrl": "https://naver.me/F3TXGABu",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%B2%95%EA%B8%B0%EC%A0%80%EC%88%98%EC%A7%80/data=!3m1!4b1!4m6!3m5!1s0x35689a52da5106bd:0xc9c81a82b0924172!8m2!3d35.3514514!4d129.1044674!16s%2Fg%2F1230pgxw",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-beopgi-reservoir-recree",
+  "sourceUrl": "https://www.instagram.com/p/DX9LLv0E20Y?img_index=18",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_231",
+  "name": "사과깡패",
+  "area": "포천시",
+  "region": "경기도 포천시",
+  "address": "경기도 포천시 영중면 금주리 731-3",
+  "type": "체험",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나가 〈장도바리바리〉 시즌3에서 사과를 직접 딴 사과깡패",
+  "mustTry": "카리나처럼 사과 수확 체험해 보기",
+  "context": null,
+  "tip": null,
+  "lat": 37.9798961,
+  "lng": 127.2478339,
+  "naverMapUrl": "https://naver.me/5ZJplyvA",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%82%AC%EA%B3%BC%EA%B9%A1%ED%8C%A8/data=!3m1!4b1!4m6!3m5!1s0x357d2bb0dc6fb29d:0xb434c64aa15edfe8!8m2!3d37.9798961!4d127.2478339!16s%2Fg%2F11j3x19g63",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-sagwa-kkangpae-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=6_sFGZGE12g&t=1151",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_232",
+  "name": "솟대",
+  "area": "포천시",
+  "region": "경기도 포천시",
+  "address": "경기도 포천시 영북면 산정호수로 366",
+  "type": "고깃집",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나가 〈장도바리바리〉 시즌3에서 포천 여행 중 식사한 솟대",
+  "mustTry": "방송에 등장한 자리를 찾아 인증사진 남기기",
+  "context": null,
+  "tip": null,
+  "lat": 38.0676173,
+  "lng": 127.3115677,
+  "naverMapUrl": "https://naver.me/FW6GAbQW",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%86%9F%EB%8C%80+%EC%9D%B4%EB%8F%99%EC%88%AF%EB%B6%88%EA%B0%88%EB%B9%84/data=!3m1!4b1!4m6!3m5!1s0x3562cd5b3e79943d:0x51ed508abd366615!8m2!3d38.0676173!4d127.3115677!16s%2Fg%2F1xcbmgpv",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-sotdae-recree",
+  "sourceUrl": "https://www.youtube.com/shorts/ya8MY37HGzc?t=1",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_233",
+  "name": "해운대 영화의 거리",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "부산광역시 해운대구 우동",
+  "type": "거리",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 윈터가 버블에서 어린이날 나들이 사진을 공개한 해운대 영화의 거리",
+  "mustTry": "윈터 사진 속 거리를 걸으며 같은 구도로 사진 찍기",
+  "context": null,
+  "tip": null,
+  "lat": 35.1563978,
+  "lng": 129.1411027,
+  "naverMapUrl": "https://naver.me/5fIxVKDF",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%95%B4%EC%9A%B4%EB%8C%80+%EC%98%81%ED%99%94%EC%9D%98+%EA%B1%B0%EB%A6%AC/data=!4m6!3m5!1s0x356892b3d5a765ef:0xc92ed9ffc970681e!8m2!3d35.1563978!4d129.1411027!16s%2Fg%2F11cjhlch9v",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-haeundae-cinema-street-recree",
+  "sourceUrl": "https://www.instagram.com/p/DYE5qh0mUDr",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_234",
+  "name": "양산 삼성초등학교",
+  "area": "양산시",
+  "region": "경상남도 양산시",
+  "address": "경상남도 양산시 북정로 28",
+  "type": "School",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 윈터가 인스타그램 Home sweet home 게시물에서 모교를 다시 찾은 양산 삼성초등학교",
+  "mustTry": "게시물 속 6번째 사진처럼 학교 앞 문구점 삼성문구&팬시도 함께 방문해 인증사진 남기기.",
+  "context": null,
+  "tip": null,
+  "lat": 35.3644488,
+  "lng": 129.0474724,
+  "naverMapUrl": "https://naver.me/GyYTkXmM",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%82%BC%EC%84%B1%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/data=!3m1!4b1!4m6!3m5!1s0x356899bcd5cb15dd:0x89eddb93b88b6d2!8m2!3d35.3644488!4d129.0474724!16s%2Fg%2F11bbxmm8dp",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-yangsan-samsung-elementary-school-recree",
+  "sourceUrl": "https://www.instagram.com/p/DX9LLv0E20Y",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_235",
+  "name": "에버랜드",
+  "area": "용인시",
+  "region": "경기도 용인시",
+  "address": "경기도 용인시 처인구 포곡읍 에버랜드로 199",
+  "type": "Theme Park",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "MV"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파가 'KISS N TELL' MV에서 밤의 놀이기구를 타며 촬영한 에버랜드",
+  "mustTry": "뮤직비디오 속 더블락스핀·비룡열차·범퍼카·로얄쥬빌리캐로셀 타기 · 촬영 기간에 카리나와 닝닝이 탄 피터팬·주토피아·아마존 익스프레스도 타 보기",
+  "context": null,
+  "tip": null,
+  "lat": 37.2939104,
+  "lng": 127.2025664,
+  "naverMapUrl": "https://naver.me/x2jQdLls",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C/data=!3m1!4b1!4m6!3m5!1s0x357b5403ce34d773:0x1fa18ab619238098!8m2!3d37.2939104!4d127.2025664!16s%2Fm%2F012dzv65",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-everland-recree",
+  "sourceUrl": "https://youtu.be/inxzQt78lOk?t=86",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_236",
+  "name": "풀노리 소품샵",
+  "area": "강릉시",
+  "region": "강원특별자치도 강릉시",
+  "address": "강원특별자치도 강릉시 토성로 133 2층",
+  "type": "매장",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나가 인스타그램 강릉 여행 게시물에서 소품을 둘러본 풀노리 소품샵",
+  "mustTry": "카리나의 인스타그램 4번째 사진처럼 돋보기를 들고 같은 구도로 사진 남기기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.7544589,
+  "lng": 128.8914469,
+  "naverMapUrl": "https://naver.me/F0z237c4",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%92%80%EB%85%B8%EB%A6%AC/data=!3m1!4b1!4m6!3m5!1s0x3561e53a1672e541:0x710407e1b4cade95!8m2!3d37.7544589!4d128.8914469!16s%2Fg%2F11ksp8tj82",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-pullnori-recree",
+  "sourceUrl": "https://www.instagram.com/p/DUGUMr3En24/",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_237",
+  "name": "고센인코퍼레이티드 청담점",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 청담동 88-23",
+  "type": "식당",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나·윈터가 혼자 타면 안 탈래에서 롯데월드 일정 뒤 식사한 고센인코퍼레이티드 청담점",
+  "mustTry": "두 사람이 마신 배주스와 오렌지 에이드, 페퍼민트 아이스 주문해 보기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.5250966,
+  "lng": 127.041409,
+  "naverMapUrl": "https://naver.me/FDnCK674",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%B2%AD%EB%8B%B4+%EA%B3%A0%EC%84%BC/data=!4m7!3m6!1s0x357ca47822057c51:0xd02a207d2a448e7a!8m2!3d37.5250966!4d127.041409!15sCiLqs6DshLzsnbjsvZTtjbzroIjsnbTrk5wg7LKt64u07KCQWigiJuqzoOyEvCDsnbgg7L2UIO2NvOugiOydtOuTnCDssq3ri7Qg7KCQkgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSelozTkllRkpCRUFF4AEA-gEECAAQFA!16s%2Fg%2F1tpb8y62",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-gosen-incorporated-cheongdam-recree",
+  "sourceUrl": "https://youtu.be/F-phI7k8gLU?t=791",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_238",
+  "name": "낀라오",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 용산동2가 번지 2층 1-512 좌측상가",
+  "type": "세계음식",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나·지젤이 찾아서 투어 EP.06에서 태국 음식을 즐긴 낀라오",
+  "mustTry": "두 사람이 주문한 똠양꿍·팟타이·모닝글로리·쌀국수 그대로 맛보기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.5449809,
+  "lng": 126.9848098,
+  "naverMapUrl": "https://naver.me/5EnkJ2Wi",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%82%80%EB%9D%BC%EC%98%A4/data=!3m1!4b1!4m6!3m5!1s0x357ca24537738aa1:0x88546eddb501b625!8m2!3d37.5449809!4d126.9848098!16s%2Fg%2F11k3n9vj7d",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-kinlao-recree",
+  "sourceUrl": "https://youtu.be/CzLEs3rihFs?t=1363",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_239",
+  "name": "아소토베이커리",
+  "area": "중구",
+  "region": "서울특별시 중구",
+  "address": "서울특별시 중구 수표로10길 19",
+  "type": "베이커리",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 윈터가 버블에서 메론빵을 샀다고 전한 아소토베이커리",
+  "mustTry": "윈터가 사 간 메론빵 사 보기",
+  "context": null,
+  "tip": null,
+  "lat": 37.5636864,
+  "lng": 126.9914576,
+  "naverMapUrl": "https://naver.me/Fy2Fb0UY",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%95%84%EC%86%8C%ED%86%A0%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC/data=!3m1!4b1!4m6!3m5!1s0x357ca300144840d7:0xa18ea1b63c566344!8m2!3d37.5637104!4d126.9914137!16s%2Fg%2F11ld84zs24",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-asoto-bakery-recree",
+  "sourceUrl": "https://x.com/wtloverclub/status/1802235130322522516?s=46",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_240",
+  "name": "까폼",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 선릉로153길 18 B1",
+  "type": "세계음식",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 카리나가 배우 한수아 인스타그램 사진에서 지인들과 식사한 까폼",
+  "mustTry": "카리나가 버블에서 직접 추천한 쌀국수·모닝글로리·그린커리·팟타이 주문해 보기.",
+  "context": null,
+  "tip": null,
+  "lat": 37.5248605,
+  "lng": 127.0379908,
+  "naverMapUrl": "https://naver.me/G8s9jJpO",
+  "googleMapUrl": "https://www.google.com/maps/place/%EA%B9%8C%ED%8F%BC+%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A1+Krappom/data=!3m1!4b1!4m6!3m5!1s0x357ca3885cd83b8f:0xf3ac1e7a5e7897e5!8m2!3d37.5248554!4d127.0380967!16s%2Fg%2F11f54z74th",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-kapom-recree",
+  "sourceUrl": "https://www.instagram.com/p/DQjbR3QkSFA/?img_index=15",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_241",
+  "name": "덕일생고기 삼덕직영점",
+  "area": "중구",
+  "region": "대구광역시 중구",
+  "address": "대구광역시 중구 공평로8길 14-9",
+  "type": "한식",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "vlog"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 지젤이 Happy GISELLE's Day 생일 여행에서 생고기를 맛본 덕일생고기 삼덕직영점",
+  "mustTry": "생고기·육회·양지·오드레기·산낙지 맛보기 · 참고 게시물의 10번째 사진과 같은 구도로 인증샷 남기기.",
+  "context": null,
+  "tip": null,
+  "lat": 35.8665643,
+  "lng": 128.600731,
+  "naverMapUrl": "https://naver.me/FK5vXQE0",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%8D%95%EC%9D%BC%EC%83%9D%EA%B3%A0%EA%B8%B0+%EC%82%BC%EB%8D%95%EC%A0%90/data=!4m6!3m5!1s0x3565e3b70a0b1f53:0xccd326f651ce2d3d!8m2!3d35.8665643!4d128.600731!16s%2Fg%2F11gmzmwg2c",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-deogil-saenggogi-recree",
+  "sourceUrl": "https://youtu.be/Sz5A7hsqhQU?t=1224",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_242",
+  "name": "두류공원",
+  "area": "달서구",
+  "region": "대구광역시 달서구",
+  "address": "대구광역시 달서구 공원순환로 36",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "vlog"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 지젤이 Happy GISELLE's Day 생일 여행에서 사진을 남긴 두류공원",
+  "mustTry": "참고 인스타그램 게시물 속 3번째·4번째·15번째 사진과 같은 구도를 찾아 사진 남기기.",
+  "context": null,
+  "tip": null,
+  "lat": 35.8490831,
+  "lng": 128.5590797,
+  "naverMapUrl": "https://naver.me/xX7OrPWK",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%91%90%EB%A5%98%EA%B3%B5%EC%9B%90/data=!3m1!4b1!4m6!3m5!1s0x3565e490656677cf:0x9ccdc5b16eef593b!8m2!3d35.8490831!4d128.5590797!16s%2Fm%2F0h3lzdw",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-duryu-park-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=Sz5A7hsqhQU&t=595",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_243",
+  "name": "산수화티하우스",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 한남대로20길 21-14",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "vlog"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 지젤이 GiGi-log에서 직접 차를 내려 마시며 필사한 산수화티하우스",
+  "mustTry": "지젤이 고른 백서향 무이암차 주문",
+  "context": null,
+  "tip": null,
+  "lat": 37.5353133,
+  "lng": 127.0089019,
+  "naverMapUrl": "https://naver.me/G0DX72Rz",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%82%B0%EC%88%98%ED%99%94+%ED%8B%B0%ED%95%98%EC%9A%B0%EC%8A%A4/data=!3m1!4b1!4m6!3m5!1s0x357ca3ba93ed99fb:0x1b8dcc46610dbc7f!8m2!3d37.5353133!4d127.0089019!16s%2Fg%2F11c1qcm0kq",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-sansuhwa-tea-house-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=MECeFkZbkRs&t=262",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_244",
+  "name": "한남작업실",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 이태원로55나길 7",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "vlog"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 닝닝이 NING'S LOG 한남동 브이로그에서 커피를 마시며 무물을 진행한 한남작업실",
+  "mustTry": "닝닝이 마신 루이보스 티와 보늬밤 바스크 치즈케이크 주문",
+  "context": null,
+  "tip": null,
+  "lat": 37.5364896,
+  "lng": 126.998775,
+  "naverMapUrl": "https://naver.me/Fio7BqKq",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%95%9C%EB%82%A8%EC%9E%91%EC%97%85%EC%8B%A4/data=!3m1!4b1!4m6!3m5!1s0x357ca3b368c8baed:0xa92b67f890c4a3bf!8m2!3d37.5364896!4d126.998775!16s%2Fg%2F11fjrbwcyh",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-hannam-studio-recree",
+  "sourceUrl": "https://youtu.be/tEl-ijPKFUg?t=910",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_245",
+  "name": "라도집",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 독서당로20길 9",
+  "type": "한식",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "vlog"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 닝닝이 NING'S LOG 한남동 브이로그에서 김치찌개와 냉동삼겹살을 먹은 라도집",
+  "mustTry": "닝닝의 상추쌈 조합인 고기·쌈장·김치·구운마늘·파무침 그대로 싸 먹기",
+  "context": null,
+  "tip": null,
+  "lat": 37.5335819,
+  "lng": 127.0091032,
+  "naverMapUrl": "https://naver.me/F6lTMeGQ",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%9D%BC%EB%8F%84%EC%A7%91/data=!3m1!4b1!4m6!3m5!1s0x357ca3baec27ad2d:0x868f705bbd88efb0!8m2!3d37.5335819!4d127.0091032!16s%2Fg%2F11ddwxlth0",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-radojip-recree",
+  "sourceUrl": "https://youtu.be/tEl-ijPKFUg?t=609",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_246",
+  "name": "블루도어북스",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 한남동 738-20",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "vlog"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 닝닝이 NING'S LOG 한남동 브이로그에서 필사하며 시간을 보낸 블루도어북스",
+  "mustTry": "닝닝이 남긴 방명록 찾아보고 닝닝이 필사한 책 읽어보기",
+  "context": null,
+  "tip": null,
+  "lat": 37.5364152,
+  "lng": 126.999684,
+  "naverMapUrl": "https://naver.me/5l7kC9mo",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%B8%94%EB%A3%A8%EB%8F%84%EC%96%B4%EB%B6%81%EC%8A%A4/data=!3m1!4b1!4m6!3m5!1s0x357ca30043ec7e5b:0x390ff2a80f0ce6c8!8m2!3d37.5364152!4d126.999684!16s%2Fg%2F11vj_v327f",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-blue-door-books-recree",
+  "sourceUrl": "https://youtu.be/tEl-ijPKFUg?t=181",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_247",
+  "name": "윈터숲",
+  "area": "성동구",
+  "region": "서울특별시 성동구",
+  "address": "서울특별시 성동구 성수동1가",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "SNS, Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 윈터가 인스타그램에서 직접 인증샷을 남긴 윈터숲",
+  "mustTry": "W 디자인 벤치 위에 굿즈와 포토카드를 올려두고 사진 찍기",
+  "context": null,
+  "tip": null,
+  "lat": 37.543957,
+  "lng": 127.0387705,
+  "naverMapUrl": "https://naver.me/5fIbdvBe",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%84%9C%EC%9A%B8%EC%88%B2+%EC%9C%88%ED%84%B0%EC%88%B2%EB%B2%A4%EC%B9%98%EC%A0%95%EC%9B%90/data=!4m6!3m5!1s0x357ca367c99b5ebd:0x567418b5500c4ffe!8m2!3d37.543957!4d127.0387705!16s%2Fg%2F11ssd3g0yf",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-winter-forest-recree",
+  "sourceUrl": "https://x.com/nano_winter/status/1924278145865363703?s=46",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_342",
+  "name": "녹양구이 두산동점",
+  "area": "대전광역시",
+  "region": "대전광역시",
+  "address": "21 Muhak-ro 17-gil, Suseong District, Daegu, South Korea",
+  "type": "고깃집",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 #위시가대구에 4분경 모듬구이를 먹은 녹양구이 두산동점",
+  "mustTry": "wish's pick - 녹양모듬(대 - 생고기, 육회, 대창, 불고기)",
+  "context": "멤버들이 직접 방문해 식사한 곳으로 같은 메뉴를 주문하여 따라 먹어볼수 있음 , 팬덤 투어와 더불어 지역 미식 여행을 동시에 즐길 수 있음, 특히 멤버 재희의 고향으로 팬들은 재희가 자란 도시의 분위기를 직접 느껴볼 수 있음. ",
+  "tip": null,
+  "lat": 35.8304476,
+  "lng": 128.6180265,
+  "naverMapUrl": "https://naver.me/xxY2to3d",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%85%B9%EC%96%91%EA%B5%AC%EC%9D%B4%20%EB%91%90%EC%82%B0%EB%8F%99%EC%A0%90&query_place_id=ChIJs1qv3PviZTURG4WTCAsPVsE",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-nogyang-gui-dusan-dong-restaurant-suseong-daegu-recree",
+  "sourceUrl": "https://youtu.be/DCtKi0xBdsM?t=244",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_343",
+  "name": "서문시장",
+  "area": "대구광역시",
+  "region": "대구광역시",
+  "address": "45 Keunjang-ro 26-gil, Jung-gu, Daegu, South Korea",
+  "type": "시장",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 자컨 #위시가대구에 초반부에서 떡볶이와 빙수를 맛본 서문시장",
+  "mustTry": "wish's pick - 대박떡볶이(떡볶이, 납작만두), 돌쇠떡집(대구 꿀떡), 서문빙수(서문빙수, 단무지빙수)",
+  "context": "멤버들이 직접 방문해 식사한 곳으로 같은 메뉴를 주문하여 따라 먹어볼수 있음 , 팬덤 투어와 더불어 지역 미식 여행을 동시에 즐길 수 있음, 한국의 전통시장 문화도 체험 가능, 특히 멤버 재희의 고향으로 팬들은 재희가 자란 도시의 분위기를 직접 느껴볼 수 있음. ",
+  "tip": null,
+  "lat": 35.8688875,
+  "lng": 128.5807946,
+  "naverMapUrl": "https://naver.me/GwpM3aeO",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Seomun%20Market&query_place_id=ChIJ03GJQ-3jZTURWTMfm2jPZBs",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-seomun-market-restaurant-jung-daegu-recree",
+  "sourceUrl": "https://youtu.be/DCtKi0xBdsM?t=56",
   "isFandomSpot": true
  },
  {
@@ -405,6 +1630,62 @@
   "isFandomSpot": true
  },
  {
+  "id": "place_354",
+  "name": "황매산 군립공원",
+  "area": "합천군",
+  "region": "경상남도 합천군",
+  "address": "South Korea, Gyeongsangnam-do, Hapcheon, Gahoe-myeon, Hwangmaesangongwon-gil, 331 황매산군립공원",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "MV"
+   }
+  ],
+  "openHours": null,
+  "note": "RM '들꽃놀이' 뮤비 촬영지, 합천 황매산군립공원",
+  "mustTry": "계절이 담긴 황매평전 풍경 사진 남기기",
+  "context": "BTS RM 솔로 타이틀곡 '들꽃놀이' 뮤직비디오 촬영지. 경남 합천의 군립공원.",
+  "tip": "대중교통이 거의 없어 자가용이나 택시 이용 권장",
+  "lat": 35.481869,
+  "lng": 128.0034777,
+  "naverMapUrl": "https://naver.me/xNLcda52",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Hwangmaesan%20County%20Park&query_place_id=ChIJya196WCnbzURKgfgdy5Crso",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-wild-flower-mv-filming-location-hwangmaesan-county-park-hapcheon-recree",
+  "sourceUrl": "https://youtu.be/u18be_kRmC0?t=119",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_355",
+  "name": "KPOP 스타의 거리",
+  "area": "동구",
+  "region": "전남광주통합특별시 동구",
+  "address": "43 Hwanggeum-dong, Dong-gu, Kwangju, South Korea",
+  "type": "Cultural Space",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "제이홉이 직접 앉아 인증샷을 남긴 광주 K-POP 스타의 거리",
+  "mustTry": "제이홉이 앉았던 BTS 테마 벤치에서 인증샷 찍기",
+  "context": "BTS 제이홉이 방문해 인증샷을 남긴 뒤 아미의 성지가 된 거리. 광주 출신 K-POP 스타들을 테마로 조성됐다.",
+  "tip": "핸드프린팅과 벽화도 함께 둘러보기",
+  "lat": 35.1473076,
+  "lng": 126.9170194,
+  "naverMapUrl": "https://naver.me/xtgCwZuo",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=KPOP%20%EC%8A%A4%ED%83%80%EC%9D%98%20%EA%B1%B0%EB%A6%AC&query_place_id=ChIJ1T61AwCNcTURC_h-cENEuEQ",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jhope-kpop-star-street-chungjangno-gwangju-recree",
+  "sourceUrl": "https://www.instagram.com/p/CaEfPfopXSB/?utm_source=ig_web_copy_link&img_index=5",
+  "isFandomSpot": true
+ },
+ {
   "id": "place_358",
   "name": "PNB 풍년제과 본점",
   "area": "전주시",
@@ -433,528 +1714,2311 @@
   "isFandomSpot": true
  },
  {
-  "id": "place_001",
-  "name": "남대문시장",
-  "area": "중구",
-  "region": "서울특별시 중구",
-  "address": "서울특별시 중구 남대문시장4길 21",
-  "type": "시장",
-  "visits": [],
-  "openHours": null,
-  "note": "먹거리와 쇼핑이 가득한 서울의 대형 전통시장, 남대문시장",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.559277,
-  "lng": 126.9777029,
-  "naverMapUrl": "https://naver.me/xFLuqbn8",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A5/data=!3m1!4b1!4m4!3m3!1s0x357ca2f516e5887d:0xcd371b16a3ec2061!16zL20vMGd3bnB3!20s8Q98HX5H%2BP38",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_002",
-  "name": "더현대 서울",
-  "area": "영등포구",
-  "region": "서울특별시 영등포구",
-  "address": "서울특별시 영등포구 여의대로 108",
-  "type": "Mall",
-  "visits": [],
-  "openHours": null,
-  "note": "실내 정원과 팝업스토어로 유명한 여의도 백화점, 더현대 서울",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5260497,
-  "lng": 126.928296,
-  "naverMapUrl": "https://naver.me/5tJtlWR8",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%8D%94%ED%98%84%EB%8C%80+%EC%84%9C%EC%9A%B8/data=!4m8!1m2!2m1!1z642U7ZiE64yAIOyEnOyauA!3m4!1s0x357c9f007ca383cf:0xeb069748f6201a76!15sChDrjZTtmITrjIAg7ISc7Jq4WhMiEeuNlCDtmITrjIAg7ISc7Jq4kgEQZGVwYXJ0bWVudF9zdG9yZZoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeE9hMkp0VGxKU1YyUjNWa1pDY0dReFFqTk9WM1I0V0ROV1UxWXdSUkFC4AEA-gEECAAQGg!16s%2Fg%2F11w3mh_j8v!20s8Q98GWGH%2BC87",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_003",
-  "name": "교보문고 광화문점",
-  "area": "종로구",
-  "region": "서울특별시 종로구",
-  "address": "서울특별시 종로구 B1F, 종로 1",
-  "type": "매장",
-  "visits": [],
-  "openHours": null,
-  "note": "광화문의 대형 서점, 교보문고 광화문점",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5709413,
-  "lng": 126.977787,
-  "naverMapUrl": "https://naver.me/xtgpqcS3",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0+%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%90/data=!3m1!4b1!4m4!3m3!1s0x357ca2eb7d883001:0x4c787fc765780c23!16s%2Fg%2F1w8w7yz3!20s8Q98HXCH%2B94F",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_004",
-  "name": "서울광장",
-  "area": "중구",
-  "region": "서울특별시 중구",
-  "address": "서울특별시 중구 세종대로 110",
-  "type": "Square",
-  "visits": [],
-  "openHours": null,
-  "note": "서울시청 앞 잔디 광장, 서울광장",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5655675,
-  "lng": 126.978014,
-  "naverMapUrl": "https://naver.me/GDa2FFZ3",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%84%9C%EC%9A%B8%EA%B4%91%EC%9E%A5/data=!3m1!4b1!4m4!3m3!1s0x357ca2f28c0038c9:0xa12ebe6a46a1ed40!16s%2Fm%2F043l9mw!20s8Q98HX8H%2B66C",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_005",
-  "name": "여의도한강공원",
-  "area": "영등포구",
-  "region": "서울특별시 영등포구",
-  "address": "서울특별시 영등포구 여의동로 330",
-  "type": "명소",
-  "visits": [],
-  "openHours": null,
-  "note": "치맥 피크닉의 성지, 여의도한강공원",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5267106,
-  "lng": 126.9347112,
-  "naverMapUrl": "https://map.naver.com/p/search/%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
-  "googleMapUrl": "https://maps.app.goo.gl/qbnHBGWn6XMcLzRc8",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_006",
-  "name": "하늘공원",
-  "area": "마포구",
-  "region": "서울특별시 마포구",
-  "address": "서울특별시 마포구 하늘공원로 95",
+  "id": "place_359",
+  "name": "무릉별유천지",
+  "area": "동해시",
+  "region": "강원특별자치도 동해시",
+  "address": "380 Samhwa-ro, Donghae-si, Gangwon-do, South Korea",
   "type": "공원",
-  "visits": [],
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
   "openHours": null,
-  "note": "가을 억새로 유명한 언덕 위 공원, 하늘공원",
+  "note": "에스파가 하늘에 매달려 사투리 퀴즈를 푼 곳",
   "mustTry": null,
   "context": null,
   "tip": null,
-  "lat": 37.5674533,
-  "lng": 126.8854782,
-  "naverMapUrl": "https://naver.me/5HkadHtS",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%ED%95%98%EB%8A%98%EA%B3%B5%EC%9B%90/data=!4m8!1m2!2m1!1z7ZWY64qY6rO17JuQ!3m4!1s0x357b4552b993615f:0xa96d9d254b05ae18!15sCgztlZjripjqs7Xsm5BaDyIN7ZWY64qYIOqzteybkJIBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUnJOVjkxYlVoM0VBReABAPoBBQiuAxAl!16s%2Fg%2F1vqtdqxf!20s8Q98HV8P%2BX5Q",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "lat": 37.4698431,
+  "lng": 129.0320103,
+  "naverMapUrl": "https://naver.me/5IS9MnbS",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Mureung%20Byeolyucheonji&query_place_id=ChIJUfbY5oq9YTURfxmaPorrNzU",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-synk-road-filming-location-mureung-byeolyu-cheonji-donghae-gangwon-recree",
+  "sourceUrl": "https://youtu.be/xZqJvMu3e3E?t=30",
+  "isFandomSpot": true
  },
  {
-  "id": "place_007",
-  "name": "별마당도서관 (스타필드 코엑스몰)",
-  "area": "강남구",
-  "region": "서울특별시 강남구",
-  "address": "서울특별시 강남구 영동대로 513 스타필드 코엑스몰 B1",
+  "id": "place_362",
+  "name": "머메이드레시피",
+  "area": "광주시",
+  "region": "경기도 광주시",
+  "address": "경기 광주시 파발로 207-7",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "MV, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "에스파 'Thirsty' 트랙 비디오 촬영지, 경기 광주 하이틴 감성 카페 '머메이드 레시피'",
+  "mustTry": "에스파 멤버들이 촬영한 소파 자리에서 인증샷 남기기, 비주얼이 예쁜 시그니처 레트로 케이크 맛보기.",
+  "context": "에스파 'Thirsty' 트랙 비디오 촬영지입니다. 90년대 미국 하이틴 영화를 그대로 옮겨놓은 듯한 독보적인 레트로 빈티지 인테리어로 인생샷을 건질 수 있는 핫플레이스입니다.",
+  "tip": "주말에는 인기가 많으니 오픈 시간에 맞춰 방문하는 것을 추천하며, Y2K나 하이틴 룩을 입으면 사진이 더 잘 나옵니다.",
+  "lat": 37.4165471,
+  "lng": 127.2486827,
+  "naverMapUrl": "https://naver.me/Gxk1cBW7",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Mermaid%E2%80%99s%20recipe&query_place_id=ChIJazVf01WrfDURpK7CpEm_koE",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-thirsty-mv-filming-location-cafe-mermaid-recipe-gwangju-recree",
+  "sourceUrl": "https://youtu.be/i0RCcSBPjuU?t=52",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_363",
+  "name": "거북바위",
+  "area": "영종구",
+  "region": "인천광역시 영종구",
+  "address": "san 69-8 Yongyu-dong, Jung-gu, Incheon",
+  "type": "해변",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "MV"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시 'Baby Blue' 뮤비 촬영지, 인천 영종도 '거북바위'",
+  "mustTry": "뮤직비디오 2:57 구간처럼 탁 트인 동해 바다와 거북바위를 배경으로 NCT WISH 멤버들 특유의 자유롭고 청량한 무드를 담아 인증샷 남기기",
+  "context": "NCT WISH의 싱글 수록곡 'Baby Blue' 뮤직비디오 2:57 구간에 등장하는 주요 배경. 푸른 바다와 독특한 바위 지형이 어우러져 청량하고 자유로운 청춘의 감성을 담아내기에 최적인 야외 촬영 명소.",
+  "tip": "인천 해변에 위치한 자연 명소로 상시 개방되어 있으며 입장료는 없음. 조석 간만의 차가 있는 서해 특성상 만조와 간조 시간을 미리 확인하고 방문하는 것이 좋으며, 파도가 강하거나 기상이 악화될 경우 바위 주변 접근이 위험할 수 있으니 주의해야 함.",
+  "lat": 37.4360091,
+  "lng": 126.3821875,
+  "naverMapUrl": "https://naver.me/xv3wOkfU",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Turtle%20Rock&query_place_id=ChIJ9cP4oJ-RezURvG_rtZHu9mw",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-baby-blue-mv-filming-location-geobukbawi-rock-incheon-junggu-recree",
+  "sourceUrl": "https://youtu.be/FBr4hA9L90s?t=177",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_368",
+  "name": "더마구",
+  "area": "양평군",
+  "region": "경기도 양평군",
+  "address": "경기도 양평군 서종면 사랑제길 11-107",
   "type": "Cultural Space",
-  "visits": [],
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "MV"
+   }
+  ],
   "openHours": null,
-  "note": "거대한 책장이 있는 쇼핑몰 속 도서관, 별마당도서관",
+  "note": "엔시티 위시 'Missing Bird in Cupid Museum' 촬영지: 이국적인 감성의 '더마구'",
+  "mustTry": "타임라인 따라 숨은 큐피드 스팟 찾기: 영상의 흐름을 따라 더마구 곳곳에 숨겨진 NCT WISH의 흔적을 보물찾기하듯 즐겨보세요. 초반부(0:30~0:54) 멤버들이 뛰어놀던 고풍스러운 계단과 복도를 시작으로, 하늘이 뚫린 거대한 원형 중정이 등장하는 중반부(1:50~1:54) 안내 데스크 스팟을 거쳐, 영상의 하이라이트(2:17) 구간 속 장소까지 차례로 찾아내며 나만의 동화 같은 인증샷을 완성해 보세요.",
+  "context": "2024년 6월 20일 공개된 NCT WISH의 'Missing Bird in Cupid Museum' 영상 속 메인 촬영지입니다. 멤버들이 요정으로 변신했던 동화 같은 공간의 실제 배경입니다.",
+  "tip": "이곳은 상업 촬영이나 대관 위주로 운영되는 공간이므로 방문 전에 반드시 사전 예약을 완료해야 합니다. 외부 일정이나 대관 현황에 따라 이용 가능한 요일과 시간이 상시 변동되니 미리 일정을 조율해 예약 후 방문하시는 것을 권장합니다. 햇살이 잘 드는 낮 시간대를 공략해 예약하면 영상 특유의 화사하고 따뜻한 색감을 그대로 사진에 담아낼 수 있습니다.",
+  "lat": 37.5958822,
+  "lng": 127.3579182,
+  "naverMapUrl": "https://naver.me/5b0uI5hu",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%8D%94%EB%A7%88%EA%B5%AC/data=!3m1!4b1!4m6!3m5!1s0x35634b000a72925d:0xfaa62980f1af4f22!8m2!3d37.5958822!4d127.3579182!16s%2Fg%2F11zh_f7xjr?authuser=0&entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-missing-bird-cupid-museum-trailer-filming-location-the-magu-yangpyeong-recree",
+  "sourceUrl": "https://youtu.be/EYrWpERE-3M?t=139",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_369",
+  "name": "나가하마만게츠",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "57 Udong 1-ro, Haeundae, Busan, South Korea",
+  "type": "Noodles",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "뷔의 부산 픽: BTS 'ARIRANG' 월드투어 중 방문한 미쉐린 라멘집",
+  "mustTry": "나가하마 라멘 교자 세트 & 제로 콜라: 뷔가 인스타그램 스토리에 올린 사진 속 메뉴 조합입니다. 진한 국물의 나가하마 라멘과 바삭한 교자가 함께 나오는 세트에 제로 콜라를 곁들여 뷔와 똑같은 구성으로 즐겨보세요.",
+  "context": "BTS 뷔가 2026년 6월 18일 인스타그램 스토리에 라멘 사진을 업로드한 곳입니다. 해당 장소는 부산에 위치한 라멘집인 '나가하마만게츠'로, 미쉐린 가이드에 선정된 곳입니다. 뷔는 부산 콘서트 2일차에 이곳을 방문했습니다.",
+  "tip": "원격 줄서기 활용: 미쉐린 가이드 선정 매장이므로 평소에도 대기가 있습니다. 방문 전 테이블링 등 앱을 통해 웨이팅 현황을 확인하는 것을 권장합니다.",
+  "lat": 35.1666425,
+  "lng": 129.1574833,
+  "naverMapUrl": "https://naver.me/GzE9tcMS",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Nagahama%20Mangetsu&query_place_id=ChIJH9vDHGGNaDUR2GrUTQC42RU",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-nagahama-mangetsu-ramen-restaurant-busan-recree",
+  "sourceUrl": null,
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_371",
+  "name": "언양불고기",
+  "area": "수영구",
+  "region": "부산광역시 수영구",
+  "address": "32 Namcheonbada-ro, Suyeong-gu, Busan, South Korea",
+  "type": "고깃집",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": null
+   }
+  ],
+  "openHours": null,
+  "note": "BTS가 콘서트 날 찾은 광안리 언양불고기",
+  "mustTry": "언양불고기 - 다진 양념 소고기를 숯불에 구워내는 부산식 불고기.",
+  "context": "2026년 6월 12일, BTS 'ARIRANG' 월드투어 부산 공연 당일 멤버들이 찾은 광안리 숯불 언양불고기 전문점. '미쉐린 가이드 부산 2026'에 이름을 올린 곳이다.",
+  "tip": "미쉐린 등재 이후 주말·저녁 대기가 길다. 방문 전 예약·문의를 권한다.",
+  "lat": 35.1478022,
+  "lng": 129.113475,
+  "naverMapUrl": "https://naver.me/FPn5tOXO",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Eonyang%20Bulgogi%20Busangib&query_place_id=ChIJtxL-OCftaDURwbrLPYvUTFk",
+  "recreeUrl": "https://recree.io/posts/local-bts-eonyang-bulgogi-busan-concert-day-gwangalli-suyeong-recree",
+  "sourceUrl": null,
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_372",
+  "name": "자매국밥",
+  "area": "수영구",
+  "region": "부산광역시 수영구",
+  "address": "56 Millakbondong-ro 27beon-gil, Suyeong-gu, Busan, South Korea",
+  "type": "한식",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "자매국밥: \"부산 야호~\" — V가 콘서트 당일 들른 민락동 돼지국밥 노포",
+  "mustTry": "돼지국밥 (쌈장 다대기 베이스) — 정구지 무침 듬뿍 넣어 먹기",
+  "context": " 2026년 6월 12일 BTS 월드투어 'ARIRANG' 부산 콘서트 당일, V가 인스타그램 스토리에 \"부산 야호~\"와 함께 올린 국밥을 먹은 국밥집",
+  "tip": "1992년 오픈 - 34년 노포\n쌈장 베이스 다대기 특유의 달큰하고 진한 맛 - 맑은 국밥 선호자는 호불호 가능",
+  "lat": 35.158299,
+  "lng": 129.125699,
+  "naverMapUrl": "https://naver.me/F6lTAlCx",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9E%90%EB%A7%A4%EA%B5%AD%EB%B0%A5&query_place_id=ChIJDzSDJ82SaDURDekON_3c4sw",
+  "recreeUrl": "https://recree.io/posts/local-bts-v-jamae-gukbap-busan-concert-day-minlak-suyeong-recree",
+  "sourceUrl": "https://www.instagram.com/thv/",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_373",
+  "name": "부산 아시아드 주경기장",
+  "area": "연제구",
+  "region": "부산광역시 연제구",
+  "address": "344 World cup-daero, Yeonje-gu, Busan, South Korea",
+  "type": "체험",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "부산아시아드주경기장: BTS가 3년 8개월 만에 부산으로 돌아온 그 무대",
+  "mustTry": "• BTS THE CITY ARIRANG IN BUSAN 프로그램 참여\n• Weverse 스탬프 랠리 5개 미션 완료 → 부산 스페셜 배지 수령\n",
+  "context": " 2026년 6월 12·13일 월드투어 'ARIRANG' 개최. 13일은 BTS 데뷔 13주년 기념일.",
+  "tip": "스탬프 랠리 WORLD TOUR 'ARIRANG' 미션 완료 시 선착순 10,000명 BTS Digital Membership 1개월 체험권 제공\n",
+  "lat": 35.1901024,
+  "lng": 129.0583136,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%20%EC%95%84%EC%8B%9C%EC%95%84%EB%93%9C%20%EC%A3%BC%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Busan%20Asiad%20Main%20Stadium&query_place_id=ChIJNZaDqbGUaDUR-AYy_sMgQaM",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-world-tour-arirang-busan-asiad-main-stadium-yeonjesu-recree",
+  "sourceUrl": "https://youtu.be/c7wByYDxktE?t=1390",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_374",
+  "name": "용문각",
+  "area": "금정구",
+  "region": "부산광역시 금정구",
+  "address": "경주시",
+  "type": "Noodles",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "용문각: \"오랫동안 같은 자리에서 제 추억을 지켜주셔서 감사합니다\" — BTS 지민 친필 사인",
+  "mustTry": "• 유니짜장 + 탕수육 + 군만두 세트 ('지민 세트', 28,000원)",
+  "context": "부산 금정구 회동동에서 30년 넘게 한자리를 지킨 중국집. 지민이 어린 시절부터 단골로 다니던 곳. 데뷔 이후에도 방문하며 친필 사인과 감사 메시지를 남겼다.",
+  "tip": "지민이 앉았던 자리는 좌식 구역",
+  "lat": 35.2251525,
+  "lng": 129.1155738,
+  "naverMapUrl": "https://naver.me/Gn04ylgv",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%9A%A9%EB%AC%B8%EA%B0%81/@35.2164344,129.0908537,15z/data=!4m7!3m6!1s0x356892325bf88f03:0xe2c3e7e6bbc0b8c5!8m2!3d35.2251525!4d129.1155738!15sCgnsmqnrrLjqsIFaDCIK7Jqp66y4IOqwgZIBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F1w4f5zzh?entry=tts&g_ep=EgoyMDI2MDYwMy4xIPu8ASoASAFQAw%3D%3D&skid=4b26c927-23fc-4f2e-b544-1d490faab12b",
+  "recreeUrl": "https://recree.io/posts/local-bts-jimin-yongmungak-childhood-chinese-restaurant-hoeodong-busan-recree",
+  "sourceUrl": null,
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_375",
+  "name": "맛나분식",
+  "area": "금정구",
+  "region": "부산광역시 금정구",
+  "address": "부산광역시 금정구 서동시장길 42-4",
+  "type": "Street Food",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "맛나분식: 지민이 중학교 시절 단골로 다니던 서동미로시장 그 분식집",
+  "mustTry": "계란만두 (1,500원) — 떡볶이 국물에 찍어먹기\n떡볶이·순대·부침개·김밥 한 상 (2인 기준 12,000원)\n벽면 가득한 세계 각국 ARMY 낙서 구경",
+  "context": "부산 금정구 서동미로시장 안에 40년 넘게 자리를 지킨 분식집. 지민이 중학교 시절 자주 찾던 곳으로 알려지면서 전 세계 ARMY 순례지가 됐다. 계란만두가 대표 메뉴.",
+  "tip": "현금, 계좌이체만 가능 \n4인 테이블 3개 소규모 — 식사 시간대 줄 가능\n포장 가능 — 자리 없으면 포장 추천\n",
+  "lat": 35.2164348,
+  "lng": 129.1006695,
+  "naverMapUrl": "https://naver.me/Fr7pxpMb",
+  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%A7%9B%EB%82%98%EB%B6%84%EC%8B%9D/@36.3788928,126.7100017,8z/data=!4m7!3m6!1s0x356893ba5bfdb919:0x98bf77f418129378!8m2!3d35.2164348!4d129.1006695!15sCgzrp5vrgpjrtoTsi51aDyIN66eb64KYIOu2hOyLnZIBFXR0ZW9rYm9ra2lfcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeHNWRk51VWtsVk1YQktUakZHWm1ReVZuSk5SMUV6VDBkMGRGZHNSUkFC4AEA-gEFCOUBEBs!16s%2Fg%2F11d_cxlf4h?entry=tts&g_ep=EgoyMDI2MDYwMy4xIPu8ASoASAFQAw%3D%3D&skid=96de1497-3df5-4c9d-8ea7-0000c225d5cd",
+  "recreeUrl": "https://recree.io/posts/local-bts-jimin-manna-bunsik-childhood-favorite-seodong-market-busan-recree",
+  "sourceUrl": null,
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_376",
+  "name": "백양초등학교",
+  "area": "북구",
+  "region": "부산광역시 북구",
+  "address": "",
+  "type": "School",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Local, Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "백양초등학교: 정국이 6년 동안 뛰어놀던 그 운동장",
+  "mustTry": "• 정국이 매일 오갔을 등굣길 걸어보기\n• 인근 만덕 레고마을 방문 (도보 10분)\n• 백양중학교까지 이어지는 '정국 코스' 완주",
+  "context": "부산 북구 만덕동에 위치한 정국의 초등학교 모교. 정국이 1학년부터 6학년까지 다닌 곳. 가수의 꿈을 키우기 시작한 어린 시절의 공간. 인근 백양중학교, 만덕 레고마을과 함께 '정국 코스'로 알려진 ARMY 순례길의 출발점.",
+  "tip": "• 실제 운영 중인 초등학교 — 수업 중 방문 자제, 외부 관람만\n",
+  "lat": 35.2069989,
+  "lng": 129.0340853,
+  "naverMapUrl": "https://naver.me/Gq9Ps6bv",
+  "googleMapUrl": "https://maps.app.goo.gl/pJzBpA7Eo91ptVc1A",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jungkook-baekyang-elementary-school-childhood-mandeok-busan-recree",
+  "sourceUrl": "https://kr.pinterest.com/pin/724305552557470752/",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_377",
+  "name": "광안대교",
+  "area": "수영구",
+  "region": "부산광역시 수영구",
+  "address": "Busan, South Korea",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "지민이 자정에 보라빛 야경에 감동받아 아미들 깨운 '광안대교'",
+  "mustTry": "보랏빛 광안대교 배경 인생샷 찍기",
+  "context": "BTS 지민이 보랏빛 광안대교에 감동해 V LIVE를 켠 그곳! 아미들의 성지.",
+  "tip": "야경은 일몰 후~자정 가장 화려, 민락수변공원이 광안대교 정면 조망 최적 포인트",
+  "lat": 35.147551,
+  "lng": 129.1302088,
+  "naverMapUrl": "https://naver.me/56RKT0v9",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Gwangan%20Bridge&query_place_id=ChIJm7q1izntaDURsE73CHRyKWc",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jimin-gwangan-bridge-purple-night-vlive-suyeong-busan-recree",
+  "sourceUrl": "https://www.vlive.tv/video/134640",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_378",
+  "name": "지밀레니얼",
+  "area": "남구",
+  "region": "부산광역시 남구",
+  "address": "부산광역시 남구 진남로 135",
+  "type": "디저트",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 지민's 아버님이 운영하는 부산 카페",
+  "mustTry": "지민 굿즈 구경하며 엄선된 커피 & 베이커리(소금빵, 블루베리 크림치즈 케이크) 즐기기",
+  "context": "BTS 지민 아버지가 운영하는 대형 카페. 지민 굿즈와 팬아트 전시로 팬심 충전!",
+  "tip": "주말 황금시간대는 만석! 평일 방문으로 여유롭게 즐겨보세요.",
+  "lat": 35.1388747,
+  "lng": 129.0801719,
+  "naverMapUrl": "https://naver.me/5GpYhDnb",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%A7%80%EB%B0%80%EB%A0%88%EB%8B%88%EC%96%BC/@35.1388747,129.077597,17z/data=!3m1!4b1!4m6!3m5!1s0x3568edc2abe67db7:0xbad7957c64fa40b0!8m2!3d35.1388747!4d129.0801719!16s%2Fg%2F11flg28486?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=30e633e3-26b3-4596-918e-96df13005325",
+  "recreeUrl": "https://recree.io/posts/local-bts-jimin-zimillennial-cafe-parent-owned-yeondongrequest-busan-recree",
+  "sourceUrl": "https://www.instagram.com/zmillennial_cafe/",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_379",
+  "name": "해운대해수욕장",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "해운대해수욕장",
+  "type": "해변",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "RM의 발자취 따라 해운대 산책",
+  "mustTry": "RM처럼 커피 들고 넓은 백사장 걷기",
+  "context": "BTS RM이 커피 들고 거닐던 해운대! 그의 힐링 산책길을 따라 걸어보세요.",
+  "tip": "RM 감성엔 한산한 겨울/초봄 방문 추천!",
+  "lat": 35.1586975,
+  "lng": 129.1603842,
+  "naverMapUrl": "https://naver.me/F0z2RxAs",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%95%B4%EC%9A%B4%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5/@35.1586966,129.1500845,15z/data=!4m6!3m5!1s0x35688d5c0efe075f:0x9963b1d5c163ac98!8m2!3d35.1586975!4d129.1603842!16s%2Fm%2F03bx6xl?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=79dbdd1c-df8c-4573-baa7-81c31ffb027f",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-haeundae-beach-walk-photo-spot-haeundae-busan-recree",
+  "sourceUrl": "https://x.com/waveform912/status/2059208693460385858/photo/2",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_380",
+  "name": "파크 하얏트 부산",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "부산광역시 해운대구 마린시티1로 51",
+  "type": "숙소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "방탄소년단이 머문 광안대교 뷰 호텔",
+  "mustTry": "RM처럼 통창 앞에서 광안대교 배경 휴식 사진",
+  "context": "2019년 6월 16일, 방탄소년단 RM은 부산 머스터 공연 시기 공식 트위터에 “오늘도 재밌게 놀아봅시당😁😇 #RM”이라는 글과 함께 파크 하얏트 부산에서 찍은 사진을 올렸다. 사진 속에는 통창 너머로 광안대교와 부산 바다가 한눈에 펼쳐져 있다",
+  "tip": "고층 광안대교 오션뷰 객실 요청 필수!",
+  "lat": 35.1565445,
+  "lng": 129.1419018,
+  "naverMapUrl": "https://naver.me/GJTijpiu",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%8C%8C%ED%81%AC+%ED%95%98%EC%96%8F%ED%8A%B8+%EB%B6%80%EC%82%B0/@35.1565445,129.1393269,17z/data=!3m1!4b1!4m9!3m8!1s0x356892afa1951005:0x9a03dca49a5366e5!5m2!4m1!1i2!8m2!3d35.1565445!4d129.1419018!16s%2Fg%2F1hm4vlbg1?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=c5503621-18ec-4b89-8ebe-80506d796e77",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-park-hyatt-busan-stay-hotel-haeundae-recree",
+  "sourceUrl": "https://x.com/BTS_twt/status/1140085747002646528?s=20",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_381",
+  "name": "달맞이길 전망대",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "South Korea, Busan, Haeundae, 중제1동 991-5",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "SNS, Photo Spot, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 뷔의 우정여행! 부산 달맞이길",
+  "mustTry": "해운대 노을 배경으로 뷔처럼 양팔을 벌린 포즈로 사진 찍기",
+  "context": "BTS 뷔가 박서준, 박형식과 우정여행을 즐긴 부산 달맞이길!",
+  "tip": "인생샷 찍으려면 해 질 녘 방문, 평일이 좋아요!",
+  "lat": 35.1571367,
+  "lng": 129.1760379,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%8B%AC%EB%A7%9E%EC%9D%B4%EA%B8%B8%20%EC%A0%84%EB%A7%9D%EB%8C%80",
+  "googleMapUrl": "https://maps.app.goo.gl/zSbU25A18NT3Wvvz5",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-haeundae-dalmajiroad-sunset-friendship-trip-busan-recree",
+  "sourceUrl": "https://x.com/BTS_twt/status/961804017230692353",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_383",
+  "name": "Gwanaksan Summit",
+  "area": "과천시",
+  "region": "경기도 과천시",
+  "address": "85-2 Jungang-dong, Gwacheon-si, Gyeonggi-do, South Korea",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "RM의 단풍 포토존! 관악산 바위 위에서 인생샷",
   "mustTry": null,
   "context": null,
   "tip": null,
-  "lat": 37.5102133,
-  "lng": 127.0600186,
-  "naverMapUrl": "https://naver.me/FqWtKj05",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%B3%84%EB%A7%88%EB%8B%B9+%EB%8F%84%EC%84%9C%EA%B4%80/data=!3m1!4b1!4m4!3m3!1s0x357ca415daa091bb:0x2b9e455aec4db397!16s%2Fg%2F1tdmyfz7!20s8Q99G366%2B32J",
-  "recreeUrl": null,
+  "lat": 37.4447888,
+  "lng": 126.9646467,
+  "naverMapUrl": "https://map.naver.com/p/search/Gwanaksan%20Summit",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Gwanaksan%20Summit&query_place_id=ChIJna5McPpfezURfXLYl-26Xm8",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-gwanaksan-summit-trail-autumn-foliage-recree",
   "sourceUrl": null,
-  "isFandomSpot": false
+  "isFandomSpot": true
  },
  {
-  "id": "place_008",
-  "name": "성수동 카페거리",
+  "id": "place_384",
+  "name": "대한불교조계종 연주암",
+  "area": "과천시",
+  "region": "경기도 과천시",
+  "address": "경기도 과천시 자하동길 63",
+  "type": "Temple",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "RM 따라 힐링! 관악산 연주암",
+  "mustTry": "RM처럼 툇마루에서 휴식 & 아이스크림 먹기.",
+  "context": "BTS RM이 인스타에 올려 화제가 된 관악산 정상 인근 암자, 연주대",
+  "tip": "컵라면 현금/계좌이체만 가능!",
+  "lat": 37.4447771,
+  "lng": 126.964654,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%8C%80%ED%95%9C%EB%B6%88%EA%B5%90%EC%A1%B0%EA%B3%84%EC%A2%85%20%EC%97%B0%EC%A3%BC%EC%95%94",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%8C%80%ED%95%9C%EB%B6%88%EA%B5%90%EC%A1%B0%EA%B3%84%EC%A2%85+%EC%97%B0%EC%A3%BC%EC%95%94/@37.4423217,126.963913,18z/data=!4m7!3m6!1s0x357b5ff01d1f743d:0x9e553d01fe80bc34!8m2!3d37.4418617!4d126.9653131!15sChPqtIDslYXsgrAg7Jew7KO864yAWhUiE-q0gOyVheyCsCDsl7Dso7zrjICSAQ9idWRkaGlzdF90ZW1wbGWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTkdkbVpZZFdKUkVBReABAPoBBQjQARAj!16s%2Fm%2F0472gb8?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=53ec25ff-64b0-425e-a1c3-ab881119af68",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-gwanaksan-yeonjuam-temple-stay-gwanak-seoul-recree",
+  "sourceUrl": null,
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_385",
+  "name": "부산시립미술관 별관 이우환 공간",
+  "area": "해운대구",
+  "region": "부산광역시 해운대구",
+  "address": "부산광역시 해운대구 APEC로 58",
+  "type": "전시",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "RM이 \"저는 '바람'을 좋아합니다\" 남긴 그 미술관",
+  "mustTry": "RM 방명록 찾아보고 작품들 감상하기",
+  "context": "BTS RM이 감동받아  방문 후 방명록에 \"잘 보고 갑니다 선생님, 저는 '바람'을 좋아합니다\"라고 남긴 이우환 작가의 상설 전시 공간",
+  "tip": "작품 이해를 위한 오디오 가이드 필수!",
+  "lat": 35.165838,
+  "lng": 129.1367763,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80%20%EB%B3%84%EA%B4%80%20%EC%9D%B4%EC%9A%B0%ED%99%98%20%EA%B3%B5%EA%B0%84",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%B6%80%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80+%EB%B3%84%EA%B4%80+%EC%9D%B4%EC%9A%B0%ED%99%98+%EA%B3%B5%EA%B0%84/@35.165838,129.1342014,17z/data=!3m1!4b1!4m6!3m5!1s0x356892b9166b3515:0x5fbe5fc6cbd3bf16!8m2!3d35.165838!4d129.1367763!16s%2Fg%2F11g897n3_m?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=26aa7a11-136e-44eb-a22c-4437b5338ba6",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-lee-ufan-space-busan-museum-of-art-haeundae-recree",
+  "sourceUrl": "https://www.facebook.com/100060918441664/posts/1301752696673181/",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_387",
+  "name": "다대포해수욕장",
+  "area": "사하구",
+  "region": "부산광역시 사하구",
+  "address": "다대포해수욕장",
+  "type": "해변",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 지민의 소원 담긴 다대포 일몰",
+  "mustTry": "지민처럼 일몰 보며 소원 빌기, 지민의 동생 '현이'처럼 점프샷 남기기",
+  "context": "2016년 1월 7일, BTS 지민이 1년 만의 휴가로 고향 부산에 내려와 동생과 함께 일몰을 보며 새해 소원을 빌던 곳. 유튜브 'BANGTANTV' 지민의 로그 영상 촬영지.",
+  "tip": "일몰 1~2시간 전 도착, 주변 산책 추천,  겨울 방문 시 방한 필수 — 지민도 \"코랑 입이 다 얼었다\"",
+  "lat": 35.0469015,
+  "lng": 128.9662387,
+  "naverMapUrl": "https://naver.me/5qDjUYYp",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%8B%A4%EB%8C%80%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5/@35.0462468,128.9631538,16z/data=!4m6!3m5!1s0x3568dd135a34fc47:0xdd030811c62c5196!8m2!3d35.0462468!4d128.9631538!16s%2Fg%2F12hkfhr7c?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=e5b13008-0155-49c8-90b0-38b54d2b970a",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jimin-dadaepo-beach-sunset-vlog-photo-spot-saha-busan-recree",
+  "sourceUrl": "https://youtu.be/C_CWm5cYX_s?t=458",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_388",
+  "name": "오륙도",
+  "area": "남구",
+  "region": "부산광역시 남구",
+  "address": "부산광역시 남구 용호동 936",
+  "type": "해변",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "오륙도: 지민의 약속 '부산아 또 올게'",
+  "mustTry": "지민처럼 오륙도 해안 산책로 걷기, 지민처럼 검지손가락으로 섬을 가리키며 셀카 찍기",
+  "context": "2015년 1월 7일, 데뷔 직후 BTS 지민이 3일 휴가 중 아버지와 방문해서 부산 바다를 보며 휴가를 보낸 추억의 장소",
+  "tip": "포토존은 철거, 맑은 날 섬 5개 보며 일몰 감상",
+  "lat": 35.1006767,
+  "lng": 129.1244009,
+  "naverMapUrl": "https://naver.me/xBwVFueB",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%98%A4%EB%A5%99%EB%8F%84/@35.0984874,129.1212824,17.17z/data=!4m7!3m6!1s0x3568edad9c61725f:0x4ca8c357d043471e!8m2!3d35.0937934!4d129.1264236!15sCgnsmKTrpZnrj4RaCyIJ7Jik66WZ64-EkgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16s%2Fm%2F0nbf3rw?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=90f304f0-b54f-4b5c-9244-823dbe0551dd",
+  "recreeUrl": "https://recree.io/posts/oryukdo-skywalk-wvsgmw",
+  "sourceUrl": "https://youtu.be/Bbn-R7xGx8I?t=93",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_389",
+  "name": "부산 시민공원",
+  "area": "부산진구",
+  "region": "부산광역시 부산진구",
+  "address": "부산 부산진구 시민공원로 73",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "SNS, Photo Spot, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 뷔의 우산 산책로, 뷔 로드",
+  "mustTry": "뷔처럼 우산 들고 바로 그 스팟에서 같은 포즈로 인증샷 찍기",
+  "context": "2019년 뷔의 우산 사진 한 장으로 탄생! 부산시민공원 '뷔 로드'를 걸어보세요.",
+  "tip": "해당 스팟 바닥에 표시 되어있음, 무료 입장, 뷔 감성 재현을 위해 우산을 꼭 챙겨가세요!",
+  "lat": 35.1673525,
+  "lng": 129.0586087,
+  "naverMapUrl": "https://naver.me/GlJIPqAb",
+  "googleMapUrl": "https://www.google.com/maps?q=Busan+Citizens+Park,+73+Simingongwon-ro,+Busanjin+District,+Busan&ftid=0x3568eb41fdb8ba3d:0x7a2af1771124ab48&entry=gps&shh=CAE&lucs=,94297699,100795621,94231188,94280568,47071704,94218641,94282134,100813464,94286869&g_ep=CAISEjI2LjIzLjUuOTI0MzY0MTg2MBgAIO-qBypTLDk0Mjk3Njk5LDEwMDc5NTYyMSw5NDIzMTE4OCw5NDI4MDU2OCw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MTM0NjQsOTQyODY4NjlCAktS&skid=224a0a97-50fe-47b2-8b83-c1d69c30cef4&g_st=com.iwilab.KakaoTalk.Share",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-busan-citizen-park-v-road-photo-spot-busanjin-recree",
+  "sourceUrl": "https://x.com/BTS_twt/status/1139743038006185984",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_390",
+  "name": "이피디픽처",
+  "area": "파주시",
+  "region": "경기도 파주시",
+  "address": "626-7 Munbal-dong, Paju-si, Gyeonggi-do, South Korea",
+  "type": "Filming Studio",
+  "visits": [
+   {
+    "group": "NCT WISH",
+    "member": "단체",
+    "date": null,
+    "context": "MV, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "엔시티 위시가 세상을 자기 색으로 물들이러 나선 그 건물 — 이피디픽처스",
+  "mustTry": "MV에서 멤버 퍼포먼스 앵글 재현 인증샷 (건물 외벽 배경), 파주 출판단지 책마을 산책과 연계 방문",
+  "context": "NCT WISH 미니 3집 'COLOR' 타이틀곡 MV 촬영지. 경기도 파주시 문발동 출판단지 인근 소재 영상제작사 이피디픽처스(YIPD Pictures) 건물 외관 및 주변 일대로, MV 에서 멤버들이 건물 외벽을 배경으로 퍼포먼스를 펼치는 장면이 이곳에서 촬영됐다. 파주 출판단지 특유의 깔끔한 현대식 건물 외관이 MV의 비비드한 컬러 컨셉과 맞아떨어진 K-pop MV filming location",
+  "tip": "실제 운영 중인 영상제작사 건물 — 내부 무단 출입 금지, 건물 외관 주변 공개 공간에서만 촬영 가능. 파주 출판단지 내 카페·식당 다수 있어 방문 전후 연계 가능. 인근 헤이리 예술마을 도보 접근권.",
+  "lat": 37.7239197,
+  "lng": 126.6936,
+  "naverMapUrl": "https://naver.me/5fddNyqH",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=626-7&query_place_id=ChIJCRc_cs2IfDURqJdnWDmAzZ4",
+  "recreeUrl": "https://recree.io/posts/kpop-nct-wish-color-mv-filming-location-epd-pictures-paju-recree",
+  "sourceUrl": "https://youtu.be/28dAfmIAlCo?t=177",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_394",
+  "name": "방탄소년단(BTS) 정국&지민 벽화",
+  "area": "사하구",
+  "region": "부산광역시 사하구",
+  "address": "부산광역시 사하구 감내2로 154",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot, Photo Spot, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 정국&지민 벽화: 부산이 낳은 두 아이돌을 기념하는 팬 메이드 성지",
+  "mustTry": "정국·지민 벽화 앞에서 인증샷, 맞은편에 있는 BTS 7명 전체 벽화도 함께 촬영",
+  "context": "감천문화마을에 있는 BTS 부산 출신 멤버 지민·정국 초상화 벽화. ",
+  "tip": "벽화 2개 (정국·지민 / BTS 7명 전체) 서로 마주보고 있음, 어린왕자 포토존·하늘마루 전망대 같이 돌기 추천",
+  "lat": 35.0987499,
+  "lng": 129.0093244,
+  "naverMapUrl": "https://naver.me/Gxk14DQ9",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8(BTS)+%EC%A0%95%EA%B5%AD%26%EC%A7%80%EB%AF%BC+%EB%B2%BD%ED%99%94/@35.0987238,129.0109014,17.63z/data=!4m6!3m5!1s0x3568e9001e39fd87:0x679c0d3a1a447159!8m2!3d35.0987499!4d129.0093244!16s%2Fg%2F11m6n828wq?entry=tts&g_ep=EgoyMDI2MDUyMC4wIPu8ASoASAFQAw%3D%3D&skid=c3bf915e-fa6a-4888-810f-84f171131dce",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jimin-jungkook-mural-photo-location-gamcheon-culture-village-busan-recree",
+  "sourceUrl": null,
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_396",
+  "name": "경춘선숲길",
+  "area": "노원구",
+  "region": "서울특별시 노원구",
+  "address": "서울특별시 노원구 노원로1길 121",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "SNS, Photoshoot, Photo Spot, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS RM의 겨울 산책길 — 경춘선숲길  | BTS RM winter walk Gyeongchunline Forest Trail Seoul Nowon Gongneung pilgrimage",
+  "mustTry": "RM 벤치 포토존에서 뻥튀기 먹으며 인증샷 찍기",
+  "context": "RM이 겨울날 뻥튀기 먹으며 산책했던 폐철길 공원. ARMY 필수 성지순례 코스!",
+  "tip": "RM 스팟은 지도 확인, 숲길 전체 길이는 6km니 산책해도 좋아요",
+  "lat": 37.6197458,
+  "lng": 127.081482,
+  "naverMapUrl": "https://map.naver.com/p/search/%EA%B2%BD%EC%B6%98%EC%84%A0%EC%88%B2%EA%B8%B8",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EB%85%B8%EC%9B%90%EA%B5%AC+%EA%B3%B5%EB%A6%89%EB%8F%99+350-4/@37.6240248,127.077094,19z/data=!3m1!4b1!4m6!3m5!1s0x357cbbd227cf5901:0xedf29f0540411fb!8m2!3d37.6240248!4d127.0777377!16s%2Fg%2F11bz0z5v64?entry=tts&g_ep=EgoyMDI2MDUwNi4wIPu8ASoASAFQAw%3D%3D&skid=b123427d-e333-4a8e-8d81-16a9c8e6beb6",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-winter-photo-location-gyeongchunline-nowon-recree",
+  "sourceUrl": "https://x.com/BTS_twt/status/956065451070586880",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_400",
+  "name": "메이힐펜션",
+  "area": "평창군",
+  "region": "강원특별자치도 평창군",
+  "address": "강원특별자치도 평창군 봉평면 원길리 489",
+  "type": "Guesthouse",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS가 힐링했던 숲속 별장 — 인더숲 BTS 평창 촬영지 | BTS In the SOOP Season 2 Pyeongchang filming location Gangwon pilgrimage",
+  "mustTry": "RM 독서방·헬스장 체험, 진 유니콘 튜브 수영장 포토존, 슈가 기타·정국 노래방 재현, 제이홉 폴라로이드·뷔 그림 그리기, 지민 웨이트 트레이닝, 정국 트램폴린·농구코트, 공식 굿즈 획득",
+  "context": "BTS featured in HYBE original content 'In the SOOP BTS ver. Season 2' at Pyeongchang filming location in Gangwon Special Self-Governing Province, South Korea as the forest healing retreat where seven members rested and recharged. This K-pop pilgrimage spot showcases the private mansion, swimming pool, basketball court, and camping caravan visited by BTS, becoming a must-visit destination for ARMY fans worldwide.",
+  "tip": "🕐 운영시간: 투어 상품을 통해서만 방문 가능 (개인 방문 불가) \n🚇 교통: KTX 평창역에서 차량 20분 (투어 패키지 포함 셔틀버스 제공) \n💡 TIP: 하나투어ITC 또는 KKday 등 공식 투어 상품 사전 예약 필수, 90분 자유시간 제공, BTS 공식 굿즈 포함 \n📸 포토존: 수영장 유니콘 튜브, 농구코트, 독서방, 노래방, 멤버 사인 벽면",
+  "lat": 37.6412183,
+  "lng": 128.3829697,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%A9%94%EC%9D%B4%ED%9E%90%ED%8E%9C%EC%85%98",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%A9%94%EC%9D%B4%ED%9E%90%ED%8E%9C%EC%85%98/@37.6412225,128.3803948,17z/data=!4m6!3m5!1s0x3562374166eded67:0x2f8650ad408273ef!8m2!3d37.6412183!4d128.3829697!16s%2Fg%2F1ts_4fw6?entry=tts&g_ep=EgoyMDI2MDQyMi4wIPu8ASoASAFQAw%3D%3D&skid=1d8b75ba-8fa5-42c0-a61d-b2b3d5f98e3a",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-in-the-soop-season-2-filming-location-forest-villa-pyeongchang-recree",
+  "sourceUrl": "https://youtu.be/RG2k7aWm_6Q?t=15",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_401",
+  "name": "Richensia",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "60 Hannam-daero, Yongsan District, Seoul, South Korea",
+  "type": "Street Food",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "SNS, Local, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 뷔 pick! 겨울 잉어빵 성지",
+  "mustTry": "뷔가 사먹은 뜨끈한 황금잉어빵",
+  "context": "BTS 뷔가 인스타에 올린, 황금잉어빵 먹방의 바로 그 장소!",
+  "tip": "뷔처럼 머리부터 베어 물고 인증샷!",
+  "lat": 37.5342512,
+  "lng": 127.0079105,
+  "naverMapUrl": "https://map.naver.com/p/search/Richensia",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Richensia&query_place_id=ChIJlRPWfrqjfDUREreNtKisgFk",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-winter-bungeoppang-street-food-hannam-yongsan-recree",
+  "sourceUrl": "https://www.instagram.com/p/DUcpDYfCEdt/?igsh=MWdoN2JyOHRtM3BnbA==",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_403",
+  "name": "슈퍼스타 떡볶이",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "58 Hangang-daero, Yongsan District, Seoul, South Korea",
+  "type": "Street Food",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "사장님이 아미인 신용산 즉석떡볶이집",
+  "mustTry": "즉석떡볶이 (라면사리 추가, 마지막에 볶음밥으로 마무리하는 것이 정석), BTS Meal 세트 — 주문 시 BTS 굿즈 제공",
+  "context": "하이브 사옥 근처 신용산에 위치한 즉석떡볶이 가게. 사장님이 BTS 팬(아미)이라 매장 벽 전체가 BTS 사진과 굿즈로 채워져 있고, 매장 음악과 테이블 태블릿 영상 모두 BTS로 구성되어 있다.",
+  "tip": "매장 전체가 BTS로 꾸며져 있어 팬들에게 특별한 경험. 하이브 사옥에서 도보 거리.",
+  "lat": 37.5257449,
+  "lng": 126.9650256,
+  "naverMapUrl": "https://naver.me/xrSM2Zm2",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%83%80%20%EB%96%A1%EB%B3%B6%EC%9D%B4&query_place_id=ChIJ5fns2_ahfDURR2K5QV8OW_I",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-army-jeukseok-tteokbokki-restaurant-street-food-yongsan-recree",
+  "sourceUrl": null,
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_417",
+  "name": "롤링엑스트레인",
+  "area": "용인시",
+  "region": "경기도 용인시",
+  "address": "경기도 용인시 처인구 포곡읍 에버랜드로 199",
+  "type": "체험",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "MV, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 다이너마이트 춤 춘 그 거리! 에버랜드 락스빌 | BTS Dynamite America's Got Talent performance filming location Everland Rocksville kpop pilgrimage",
+  "mustTry": "BTS 동선 따라 인증샷 찍기!",
+  "context": "BTS 다이너마이트 '아메리카 갓 탤런트' 무대 촬영지, 에버랜드 락스빌  Iconic BTS Dynamite filming location at Everland, Yongin, South Korea — once the Everland trending #1 worldwide on Twitter.",
+  "tip": "에버랜드 입장권 구매 필수, 지도 참고",
+  "lat": 37.2930206,
+  "lng": 127.201537,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%A1%A4%EB%A7%81%EC%97%91%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B8",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%A1%A4%EB%A7%81%EC%97%91%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B8/@37.2927332,127.2011772,18.86z/data=!4m6!3m5!1s0x357b57a5fdff4d87:0x1539a3f47e11b97e!8m2!3d37.2930206!4d127.201537!16s%2Fm%2F0j8g4z8?entry=tts&g_ep=EgoyMDI2MDQwOC4wIPu8ASoASAFQAw%3D%3D&skid=e8399e59-319a-4faa-9429-1166f217ce8f",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-dynamite-agt-performance-filming-location-everland-rocksville-yongin-recree",
+  "sourceUrl": "https://youtu.be/e81ad5MpfQ0?t=97",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_418",
+  "name": "용인 대장금파크",
+  "area": "용인시",
+  "region": "경기도 용인시",
+  "address": "경기도 용인시 처인구 백암면 용천리 778-1",
+  "type": "Filming Studio",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "SUGA",
+    "date": null,
+    "context": "MV, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "슈가 '대취타' MV 촬영지 그 궁궐 | BTS Suga Agust D Daechwita MV filming location Yongin Daejanggeum Park kpop pilgrimage",
+  "mustTry": "슈가 '대취타' 곤룡포 착용 인정전 배경 인증샷",
+  "context": "BTS 슈가 '대취타' MV 촬영지. 궁궐, 저잣거리에서 K-POP 스타 흔적을 찾아보세요! iconic K-pop MV filming location in Yongin, Gyeonggi-do, South Korea.",
+  "tip": "투어카 필수! 넓은 부지 편하게 둘러보세요.",
+  "lat": 37.1212087,
+  "lng": 127.3368503,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%9A%A9%EC%9D%B8%20%EB%8C%80%EC%9E%A5%EA%B8%88%ED%8C%8C%ED%81%AC",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%9A%A9%EC%9D%B8+%EB%8C%80%EC%9E%A5%EA%B8%88%ED%8C%8C%ED%81%AC/@37.1212087,127.3342754,17z/data=!3m1!4b1!4m6!3m5!1s0x3564b307d0934827:0x3ff637eaf7f693c3!8m2!3d37.1212087!4d127.3368503!16s%2Fm%2F0_82t74?entry=tts&g_ep=EgoyMDI2MDMyOS4wIPu8ASoASAFQAw%3D%3D&skid=0bf36256-6aaa-4b9c-a3f5-aee579a46bc1",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-suga-daechwita-mv-filming-location-daejanggeum-park-yongin-recree",
+  "sourceUrl": "https://youtu.be/qGjAWJ2zWWI?t=80",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_419",
+  "name": "일영역",
+  "area": "양주시",
+  "region": "경기도 양주시",
+  "address": "양주시",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "Photo Spot, MV, Local, Vintage&Retro"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 봄날 MV 뷔가 섰던, 일영역  | BTS Spring Day MV filming location Iryeong Station Yangju kpop pilgrimage",
+  "mustTry": "MV 속 뷔처럼 철길 밖에서 감성 인증샷",
+  "context": "BTS '봄날' MV 뷔가 눈 쌓인 철길 위를 걸어가다 레일에 볼을 대는 장면",
+  "tip": "2025년 재개통! 선로 진입 금지, 박물관 무료 관람",
+  "lat": 37.6994285,
+  "lng": 126.9309695,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%9D%BC%EC%98%81%EC%97%AD",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%9D%BC%EC%98%81%EC%97%AD/@37.7003908,126.9263363,17z/data=!4m6!3m5!1s0x357c95535f3d2d55:0xb1602c5303c09956!8m2!3d37.700967!4d126.9292077!16s%2Fg%2F11ghzlqyfj?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=ef430d93-3d9e-48d4-b569-6259fcf033fa",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-spring-day-mv-filming-location-ilyeong-station-yangju-recree",
+  "sourceUrl": "https://youtu.be/xEeFrLSkMm8?t=17",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_432",
+  "name": "KWANGYA",
   "area": "성동구",
   "region": "서울특별시 성동구",
-  "address": "서울특별시 성동구 성수이로",
-  "type": "거리",
-  "visits": [],
+  "address": "서울특별시 성동구 왕십리로 83-21",
+  "type": "Agency",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Fan Spot"
+   },
+   {
+    "group": "NCT 127",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Fan Spot"
+   }
+  ],
   "openHours": null,
-  "note": "공장을 개조한 카페와 팝업스토어의 거리, 성수동",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5446148,
-  "lng": 127.0580149,
-  "naverMapUrl": "https://naver.me/GpCTjgdA",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%84%B1%EC%88%98%EB%8F%99+%EC%B9%B4%ED%8E%98%EA%B1%B0%EB%A6%AC/data=!3m1!4b1!4m4!3m3!1s0x357ca5999810679b:0x459f8f1f5447327a!16s%2Fg%2F11l5qcshm6!20s8Q99G3V5%2BR6R",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "note": "SM 아이돌 세계관 속으로, KWANGYA!",
+  "mustTry": "투명 OLED 미디어존 인증샷 & 광야네컷!",
+  "context": "SM 아이돌 세계관이 현실로! 공식 MD, 특별한 팬 경험이 가득한 곳.",
+  "tip": "컴백/기념일 팝업은 인스타(@kwangya_seoul) 확인!",
+  "lat": 37.5448781,
+  "lng": 127.0437127,
+  "naverMapUrl": "https://map.naver.com/p/search/KWANGYA",
+  "googleMapUrl": "https://www.google.com/maps/place/KWANGYA/@37.5521175,126.9423381,13z/data=!4m7!3m6!1s0x357ca5ef9bb73da3:0x50f49196e90eb352!8m2!3d37.5448781!4d127.0437127!15sCg3qtJHslbwg7ISc7Jq4Wg8iDeq0keyVvCDshJzsmriSAQlnaWZ0X3Nob3CaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlVNV1JMTTFKbkVBReABAPoBBAgAEBw!16s%2Fg%2F11nxf8qwms?entry=tts&g_ep=EgoyMDI2MDMyOS4wIPu8ASoASAFQAw%3D%3D&skid=e800383c-51a2-4977-92f1-037453257376",
+  "recreeUrl": "https://recree.io/posts/kpop-sm-artists-kwangya-official-goods-visited-spot-seongsu-recree",
+  "sourceUrl": "https://www.instagram.com/kwangya_seoul/",
+  "isFandomSpot": true
  },
  {
-  "id": "place_009",
-  "name": "해방촌 신흥시장",
-  "area": "용산구",
-  "region": "서울특별시 용산구",
-  "address": "서울특별시 용산구 신흥로 95-9",
-  "type": "Village",
-  "visits": [],
+  "id": "place_433",
+  "name": "실비옥",
+  "area": "성동구",
+  "region": "서울특별시 성동구",
+  "address": "서울특별시 성동구 성수동2가 273-52",
+  "type": "해산물",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
   "openHours": null,
-  "note": "남산 아래 언덕 동네의 레트로 시장, 해방촌 신흥시장",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5452795,
-  "lng": 126.9850689,
-  "naverMapUrl": "https://naver.me/GPdowgGH",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%ED%95%B4%EB%B0%A9%EC%B4%8C+%EC%8B%A0%ED%9D%A5%EC%8B%9C%EC%9E%A5/data=!3m1!4b1!4m4!3m3!1s0x357ca24534d13151:0xebdc1c98b1d2b3c0!16s%2Fg%2F11gcm6wb3b!20s8Q98GXWP%2B428",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "note": "에스파 카리나·지젤의 맛집! 실비옥 미역수제비",
+  "mustTry": "카리나·지젤 루틴! 소고기미역수제비전골+죽",
+  "context": "에스파 카리나·지젤이 찾은 소고기미역수제비전골 맛집! SM 사옥 인근 단골집.",
+  "tip": "지하 입구! 카리나와 지젤이 앉은 자리는 주방과 가장 가까운 테이블.",
+  "lat": 37.5434075,
+  "lng": 127.0582301,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%8B%A4%EB%B9%84%EC%98%A5",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%8B%A4%EB%B9%84%EC%98%A5/@37.5434075,127.0556552,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca500706df265:0xcd417c4fe6324d89!8m2!3d37.5434075!4d127.0582301!16s%2Fg%2F11xfs9vrzf?entry=tts&g_ep=EgoyMDI2MDMyOS4wIPu8ASoASAFQAw%3D%3D&skid=c51378fe-c51b-4acc-8942-055b80bee9bc",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-karina-giselle-find-tour-restaurant-silbiok-seongsu-recree",
+  "sourceUrl": "https://youtu.be/xJDMMcY8-1U?t=378",
+  "isFandomSpot": true
  },
  {
-  "id": "place_010",
-  "name": "이태원",
-  "area": "용산구",
-  "region": "서울특별시 용산구",
-  "address": "서울특별시 용산구 이태원동",
-  "type": "거리",
-  "visits": [],
+  "id": "place_434",
+  "name": "파라다이스골프클럽",
+  "area": "순천시",
+  "region": "전남광주통합특별시 순천시",
+  "address": "Suncheon-si, South Korea",
+  "type": "관광지",
+  "visits": [
+   {
+    "group": "aespa",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, MV, Vintage&Retro"
+   }
+  ],
   "openHours": null,
-  "note": "세계 각국의 음식과 문화가 모인 거리, 이태원",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5385051,
-  "lng": 126.9925224,
-  "naverMapUrl": "https://naver.me/GTnqkCUC",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%9A%A9%EC%82%B0%EA%B5%AC+%EC%9D%B4%ED%83%9C%EC%9B%90%EB%8F%99/data=!4m4!3m3!1s0x357ca24c0510be8f:0x1ad07db728bb9103!16s%2Fm%2F013d9h99!20s8Q98GXQV%2BC22",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "note": "에스파 'Dirty Work' 촬영지, 순천 성",
+  "mustTry": "성 외벽 아치·탑 배경 인증샷 / 에스파 Dirty Work 영상 속 각도 그대로 재현",
+  "context": "aespa 'Dirty Work' Dirty Work 영상 촬영지. 전라남도 순천시 소재 폐예식장으로, 1층은 예식장·2층은 레스토랑·연회장이었던 건물.",
+  "tip": "전라남도 순천시 왕지로 331. 관리인이 매일 상주하며 CCTV 모니터 가동 중 — 외부 촬영은 가능하나 내부 접근 불가.  구글 맵에 장소등록이 되어있지 않아 바로 옆 파라다이스 골프 클럽 네비찍고 가면 됨",
+  "lat": 34.9797417,
+  "lng": 127.5528601,
+  "naverMapUrl": "https://naver.me/5B0f7PAM",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Next%20to%20the%20Castle%20La%20Continental&query_place_id=ChIJPzVpIQgObjURH_GwShrYppw",
+  "recreeUrl": "https://recree.io/posts/kpop-aespa-dirty-work-mv-filming-location-castle-suncheon-recree",
+  "sourceUrl": "https://youtu.be/UDaYOw22TYc?t=4",
+  "isFandomSpot": true
  },
  {
-  "id": "place_011",
-  "name": "망원시장",
-  "area": "마포구",
-  "region": "서울특별시 마포구",
-  "address": "서울특별시 마포구 포은로6길 27",
-  "type": "시장",
-  "visits": [],
+  "id": "place_473",
+  "name": "국립현대미술관",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "30 Samcheong-ro, Jongno District, Seoul, South Korea",
+  "type": "전시",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "Event, Photo Spot"
+   }
+  ],
   "openHours": null,
-  "note": "저렴한 길거리 음식으로 유명한 동네 시장, 망원시장",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5559018,
-  "lng": 126.9062854,
-  "naverMapUrl": "https://naver.me/5eUcpKva",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%A7%9D%EC%9B%90%EC%8B%9C%EC%9E%A5/data=!3m1!4b1!4m4!3m3!1s0x357c9928af31a803:0xf6cfdd1b789bf926!16s%2Fg%2F11c60jfvk0!20s8Q98HW44%2B9G7",
+  "note": "국립현대미술관 BTS 사운드 큐브 — RM의 미술관에서 SWIM을 온몸으로",
+  "mustTry": "사운드 큐브 내부 몰입 체험은 필수. MMCA 자체도 RM이 미술 도서 보급을 위해 1억 원을 기부한 곳이니, 큐브 체험 후 전시도 같이 둘러보기. 4월 19일까지 외국인 대상 작품 해설 'MMCA: Meet the K아트'도 운영 중.",
+  "context": "국립현대미술관(MMCA) 서울관 미술관마당에서 BTS '러브쿼터(Love Quarter)'가 운영 중이다. 384㎥ 규모의 'BTS 사운드 큐브' 안에 들어가면 정규 5집 타이틀곡 'SWIM' 등 BTS 음악을 온몸으로 체험할 수 있다. 4월 19일까지.",
+  "tip": "매일 10:00~21:00 운영. 단, 월·화·목·금 18:00 이후는 외부 파사드만 관람 가능하고 내부 입장 불가. 사운드 큐브 안까지 들어가려면 수·토·일에 가거나, 평일은 18시 전에 방문할 것.",
+  "lat": 37.5788333,
+  "lng": 126.9804281,
+  "naverMapUrl": "https://naver.me/GDa2FKhZ",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Modern%20and%20Contemporary%20Art%2C%20Seoul&query_place_id=ChIJRynTqcaifDURBaSFx8HncPs",
   "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "sourceUrl": "https://www.newspim.com/news/view/20260320001279",
+  "isFandomSpot": true
  },
  {
-  "id": "place_012",
-  "name": "경의선숲길 (연남동)",
-  "area": "마포구",
-  "region": "서울특별시 마포구",
-  "address": "서울특별시 마포구 동교로51길 133",
-  "type": "공원",
-  "visits": [],
-  "openHours": null,
-  "note": "옛 철길 위에 만든 연남동 산책 공원, 경의선숲길",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5588868,
-  "lng": 126.9254274,
-  "naverMapUrl": "https://naver.me/5JpyTdPU",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EA%B2%BD%EC%9D%98%EC%84%A0%EC%88%B2%EA%B8%B8%EA%B3%B5%EC%9B%90/data=!4m8!1m2!2m1!1z6rK97J2Y7ISg7Iiy6ri4!3m4!1s0x357c98e9c388ecc1:0x72c931e6724faeb8!15sCg_qsr3snZjshKDsiLLquLhaEiIQ6rK97J2Y7ISgIOyIsuq4uJIBCWNpdHlfcGFya-ABAA!16s%2Fg%2F11bzq369zz!20s8Q98HW5G%2BH53",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_013",
-  "name": "홍대거리",
-  "area": "마포구",
-  "region": "서울특별시 마포구",
-  "address": "서울특별시 마포구 서교동 347-20",
-  "type": "명소",
-  "visits": [],
-  "openHours": null,
-  "note": "버스킹과 인디 문화의 거리, 홍대",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5561973,
-  "lng": 126.9250341,
-  "naverMapUrl": "https://map.naver.com/p/search/%ED%99%8D%EB%8C%80%EA%B1%B0%EB%A6%AC",
-  "googleMapUrl": "https://www.google.com/maps/place/%ED%99%8D%EB%8C%80%EA%B1%B0%EB%A6%AC/@37.551048,126.946492,13z/data=!4m7!3m6!1s0x357c98c52a22c0eb:0xd5c6adb2b4dc943a!8m2!3d37.5561973!4d126.9250341!15sCgbtmY3rjIAiA4gBAVoIIgbtmY3rjICSARJ0b3VyaXN0X2F0dHJhY3Rpb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUjRjbUpsY21wUlJSQULgAQD6AQQIRhAl!16s%2Fg%2F11bwm5q2sv?entry=tts&g_ep=EgoyMDI2MDMyNC4wIPu8ASoASAFQAw%3D%3D&skid=661938f6-7b57-4cf0-9ed9-3ab8abda4431",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_014",
+  "id": "place_474",
   "name": "Dongdaemun Design Plaza (DDP)",
   "area": "중구",
   "region": "서울특별시 중구",
   "address": "서울특별시 중구 을지로 281",
   "type": "명소",
-  "visits": [],
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Event, Lighting, Photo Spot"
+   }
+  ],
   "openHours": null,
-  "note": "자하 하디드가 설계한 곡선 건축물, 동대문디자인플라자 DDP",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
+  "note": "DDP 아미마당 — BTS 컴백과 함께 팬덤 거점으로 변신한 DDP",
+  "mustTry": "아미마당 내부 체험 콘텐츠 참여는 기본. 야간 DDP 외벽 앞 포토스팟은 필수 — 곡선형 건축물이 보라색 조명으로 물드는 야경이 어디서 찍어도 화보급이다. 계단 조명 연출도 놓치지 말 것.",
+  "context": "BTS 컴백을 기념해 DDP 전시1관이 통째로 아미 전용 공간으로 변신한다. 이름부터 '아미마당'. 2026년 4월 6일~12일, 딱 일주일간 운영. 전 세계 아미가 한자리에 모여 컴백을 함께 축하하는 체험형 공간이다.",
+  "tip": "동대문역사문화공원역 1번 출구 바로 앞이라 접근 쉬움. 무조건 해 진 후에 가기 — 조명 연출이 밤에 극대화됨.",
   "lat": 37.5665256,
   "lng": 127.0092236,
   "naverMapUrl": "https://map.naver.com/p/search/Dongdaemun%20Design%20Plaza%20%28DDP%29",
   "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Dongdaemun%20Design%20Plaza%20(DDP)&query_place_id=ChIJ8xRYr29FezUR3AtFqx2pIlw",
   "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "sourceUrl": "https://www.the-pr.co.kr/news/articleView.html?idxno=60875",
+  "isFandomSpot": true
  },
  {
-  "id": "place_015",
-  "name": "마로니에공원",
-  "area": "종로구",
-  "region": "서울특별시 종로구",
-  "address": "서울특별시 종로구 대학로8길 1",
-  "type": "공원",
-  "visits": [],
-  "openHours": null,
-  "note": "소극장이 모인 대학로의 중심, 마로니에공원",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5802039,
-  "lng": 127.0027912,
-  "naverMapUrl": "https://naver.me/xP8mLJbS",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%A7%88%EB%A1%9C%EB%8B%88%EC%97%90+%EA%B3%B5%EC%9B%90/data=!3m1!4b1!4m4!3m3!1s0x357ca32eaa0a5e6d:0x67c35d345635ed7a!16s%2Fm%2F02p__1c!20s8Q99H2J3%2B34M",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_016",
-  "name": "낙산공원",
-  "area": "종로구",
-  "region": "서울특별시 종로구",
-  "address": "서울특별시 종로구 낙산길 41",
-  "type": "명소",
-  "visits": [],
-  "openHours": null,
-  "note": "한양도성 성곽을 따라 걷는 야경 명소, 낙산공원",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5806571,
-  "lng": 127.0074835,
-  "naverMapUrl": "https://map.naver.com/p/search/%EB%82%99%EC%82%B0%EA%B3%B5%EC%9B%90",
-  "googleMapUrl": "https://www.google.com/maps/place/%EB%82%99%EC%82%B0%EA%B3%B5%EC%9B%90/@37.5806571,127.0049086,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca32d72d213e9:0x9f6263b27f9d345d!8m2!3d37.5806571!4d127.0074835!16s%2Fg%2F1tdqfdp7?entry=tts&g_ep=EgoyMDI2MDMyNC4wIPu8ASoASAFQAw%3D%3D&skid=fb806545-0ea5-458e-a810-125878564caf",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_017",
-  "name": "흥인지문",
-  "area": "종로구",
-  "region": "서울특별시 종로구",
-  "address": "서울특별시 종로구 종로 288",
-  "type": "Heritage",
-  "visits": [],
-  "openHours": null,
-  "note": "한양도성의 동쪽 문, 동대문 흥인지문",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5710717,
-  "lng": 127.0096571,
-  "naverMapUrl": "https://naver.me/x9BNLJCY",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%ED%9D%A5%EC%9D%B8%EC%A7%80%EB%AC%B8(%EB%8F%99%EB%8C%80%EB%AC%B8)/data=!4m8!1m2!2m1!1z7Z2l7J247KeA66y4!3m4!1s0x357ca33b1d74ac9b:0x6027edc05f62ff6d!15sCgztnaXsnbjsp4DrrLhaDiIM7Z2l7J247KeA66y4kgETaGlzdG9yaWNhbF9sYW5kbWFya5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOS0xVMVhVaTFSUlJBQuABAPoBBAgxEBw!16zL20vMDNodmpy!20s8Q99H2C5%2BCVF",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_018",
-  "name": "조계사",
-  "area": "종로구",
-  "region": "서울특별시 종로구",
-  "address": "서울특별시 종로구 우정국로 55",
-  "type": "Temple",
-  "visits": [],
-  "openHours": null,
-  "note": "인사동 옆, 한국 불교 조계종의 중심 사찰 조계사",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5738369,
-  "lng": 126.982202,
-  "naverMapUrl": "https://naver.me/GMmgWYQ4",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%8C%80%ED%95%9C%EB%B6%88%EA%B5%90%EC%A1%B0%EA%B3%84%EC%A2%85+%EC%B4%9D%EB%B3%B8%EC%82%B0+%EC%A1%B0%EA%B3%84%EC%82%AC/data=!3m1!4b1!4m4!3m3!1s0x357ca2e9e449881d:0x5694ba3fd890e430!16zL20vMGM4cWJs!20s8Q98HXFJ%2BGVP",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_019",
-  "name": "봉은사",
-  "area": "강남구",
-  "region": "서울특별시 강남구",
-  "address": "서울특별시 강남구 봉은사로 531",
-  "type": "Temple",
-  "visits": [],
-  "openHours": null,
-  "note": "코엑스 맞은편, 강남 한복판의 천년 사찰 봉은사",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.514852,
-  "lng": 127.0573766,
-  "naverMapUrl": "https://naver.me/GTn3tTCu",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%8C%80%ED%95%9C%EB%B6%88%EA%B5%90%EC%A1%B0%EA%B3%84%EC%A2%85+%EB%B4%89%EC%9D%80%EC%82%AC/data=!3m1!4b1!4m4!3m3!1s0x357ca46941fa9981:0x45689c57c2e44d69!16s%2Fg%2F11bc61qc2r!20s8Q99G374%2BWXR",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_020",
-  "name": "명동성당",
+  "id": "place_475",
+  "name": "HiKR GROUND",
   "area": "중구",
   "region": "서울특별시 중구",
-  "address": "서울특별시 중구 명동길 74",
-  "type": "명소",
-  "visits": [],
+  "address": "40 Cheonggyecheon-ro, Jung District, Seoul, South Korea",
+  "type": "Cultural Space",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Event, Photo Spot"
+   }
+  ],
   "openHours": null,
-  "note": "1898년에 완공된 붉은 벽돌의 고딕 성당, 명동성당",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5633851,
-  "lng": 126.987436,
-  "naverMapUrl": "https://naver.me/GeUR2NxG",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EB%AA%85%EB%8F%99%EB%8C%80%EC%84%B1%EB%8B%B9/data=!3m1!4b1!4m4!3m3!1s0x357ca2e54c5068b3:0x44b42da266a7c893!16zL20vMGM4bG16!20s8Q98HX7P%2B9X3",
+  "note": "하이커 그라운드 (HiKR GROUND) — K-컬처를 오감으로 체험하는 서울의 관광 놀이터",
+  "mustTry": "2층 XR 스튜디오에서 나만의 K-POP 뮤직비디오 촬영. 5층 라운지에서 청계천 뷰 감상.",
+  "context": "BTS 광화문 컴백 공연 때 보랏빛으로 물들었던 바로 그 공간.",
+  "tip": "체험존(2~4층)은 월요일 휴무. 종각역 5번 출구 도보 2분.",
+  "lat": 37.5685891,
+  "lng": 126.9818622,
+  "naverMapUrl": "https://naver.me/GfCsEhXY",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=HiKR%20GROUND&query_place_id=ChIJ_xCS_d-jfDURgqxl66H3dd8",
   "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "sourceUrl": "https://www.instagram.com/hikrground_official/",
+  "isFandomSpot": true
  },
  {
-  "id": "place_021",
-  "name": "전쟁기념관",
-  "area": "용산구",
-  "region": "서울특별시 용산구",
-  "address": "서울특별시 용산구 이태원로 29",
-  "type": "전시",
-  "visits": [],
-  "openHours": null,
-  "note": "한국전쟁의 역사를 돌아보는 박물관, 전쟁기념관",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5366131,
-  "lng": 126.9771068,
-  "naverMapUrl": "https://naver.me/FSSmMtmK",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%A0%84%EC%9F%81%EA%B8%B0%EB%85%90%EA%B4%80/data=!4m8!1m2!2m1!1z7KCE7J-B6riw64WQ6rSA!3m4!1s0x357ca23fb451c4f1:0xe196919c152a17a0!15sCg_soITsn4HquLDrhZDqtIBaEiIQ7KCE7J-BIOq4sOuFkOq0gJIBCndhcl9tdXNldW3gAQA!16zL20vMDhqNWRu!20s8Q98GXPG%2BJRX",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_022",
-  "name": "국립중앙박물관",
-  "area": "용산구",
-  "region": "서울특별시 용산구",
-  "address": "서울특별시 용산구 서빙고로 137",
-  "type": "전시",
-  "visits": [],
-  "openHours": null,
-  "note": "한국 역사를 한 번에 보는 국내 최대 박물관, 국립중앙박물관",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5238506,
-  "lng": 126.9804702,
-  "naverMapUrl": "https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80",
-  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Korea&query_place_id=ChIJN2x0fu2ifDUR51BupseGYmE",
-  "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
- },
- {
-  "id": "place_023",
-  "name": "청계천",
+  "id": "place_476",
+  "name": "신세계스퀘어",
   "area": "중구",
   "region": "서울특별시 중구",
-  "address": "Jongno District, Seoul, South Korea",
+  "address": "서울특별시 중구 소공로 63",
   "type": "명소",
-  "visits": [],
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Event"
+   }
+  ],
   "openHours": null,
-  "note": "도심을 가로지르는 산책 하천, 청계천",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5691015,
-  "lng": 126.9786692,
-  "naverMapUrl": "https://map.naver.com/p/search/%EC%B2%AD%EA%B3%84%EC%B2%9C",
-  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Cheonggyecheon&query_place_id=ChIJIwCT4-yifDUR1E63iG76hr0",
+  "note": "신세계스퀘어 BTS Swim 뮤직비디오 대형 스크린 상영",
+  "mustTry": "해 진 후(18시 이후)에 보면 스크린이 훨씬 선명하게 보인다. 농구 코트 세 개보다 큰 화면으로 보는 Swim MV는 현장에서만 느낄 수 있는 스케일.",
+  "context": "신세계백화점 본점 '신세계스퀨어'에서 BTS 정규 5집 'ARIRANG' 타이틀곡 'Swim' MV가 1,353㎡ 미디어 파사드로 상영 중이다. 5월 10일까지 매일 07:00~23:00 운영.",
+  "tip": "명동역 7번 출구에서 도보 2분. 현장 인파 밀집 시 상영이 취소될 수 있으니 참고.",
+  "lat": 37.5609223,
+  "lng": 126.9811389,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/1183492085",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Sinsegye%20Square&query_place_id=ChIJa1stJQCjfDURDd2nSjxPQeI",
   "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "sourceUrl": "https://www.hankyung.com/article/202603204672i",
+  "isFandomSpot": true
  },
  {
-  "id": "place_024",
-  "name": "인사동 쌈지길",
+  "id": "place_477",
+  "name": "폴바셋 코리아나호텔점",
+  "area": "중구",
+  "region": "서울특별시 중구",
+  "address": "서울특별시 중구 태평로1가 61-1",
+  "type": "디저트",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Food Event"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 보라색 한정 — 폴바셋 라벤더 아이스크림 (코리아나 호텔점)",
+  "mustTry": "라벤더 아이스크림",
+  "context": "3월 16일~22일까지 폴바셋 코리아나 호텔점에서 BTS 아미의 상징색 보라색을 담은 라벤더 아이스크림 한정 판매. 광화문·시청 사이 동선상 위치.",
+  "tip": "3/22까지 한정 운영. 코리아나 호텔 1층 입점. 시청역 인근 동선 연계 방문 가능.",
+  "lat": 37.5681867,
+  "lng": 126.9765134,
+  "naverMapUrl": "https://map.naver.com/p/search/%ED%8F%B4%EB%B0%94%EC%85%8B%20%EC%BD%94%EB%A6%AC%EC%95%84%EB%82%98%ED%98%B8%ED%85%94%EC%A0%90",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%8F%B4%EB%B0%94%EC%85%8B+%EC%BD%94%EB%A6%AC%EC%95%84%EB%82%98%ED%98%B8%ED%85%94%EC%A0%90/@37.5681867,126.9739385,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca2ed389679eb:0x76b7fb089737c584!8m2!3d37.5681867!4d126.9765134!16s%2Fg%2F11c2psb6l7?entry=tts&g_ep=EgoyMDI2MDMxNy4wIPu8ASoASAFQAw%3D%3D&skid=d01a6cb6-8000-4574-9fc4-0c052e9e8e1c",
+  "recreeUrl": null,
+  "sourceUrl": "https://www.instagram.com/p/DWDe3IZk-yA/?img_index=1",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_478",
+  "name": "Paul Bassett",
   "area": "종로구",
   "region": "서울특별시 종로구",
-  "address": "서울특별시 종로구 인사동길 44",
-  "type": "거리",
-  "visits": [],
+  "address": "서울특별시 종로구 청진동 종로3길 17",
+  "type": "디저트",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Food Event"
+   }
+  ],
   "openHours": null,
-  "note": "전통 공예품과 찻집이 모인 거리, 인사동과 쌈지길",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
-  "lat": 37.5743024,
-  "lng": 126.9849036,
-  "naverMapUrl": "https://naver.me/5apDBOVt",
-  "googleMapUrl": "https://www.google.co.kr/maps/place/%EC%8C%88%EC%A7%80%EA%B8%B8/data=!3m1!4b1!4m4!3m3!1s0x357ca2c295ad1b41:0x7e5926f6501aca88!16s%2Fg%2F11gnrxc08q!20s8Q98HXFM%2BPXC",
+  "note": "BTS 보라색 한정 — 폴바셋 라벤더 아이스크림 (디타워점)",
+  "mustTry": "라벤더 아이스크림",
+  "context": "3월 16일~22일까지 폴바셋 광화문 디타워점에서 BTS 아미의 상징색 보라색을 담은 라벤더 아이스크림 한정 판매. 광화문광장에서 도보 거리.",
+  "tip": "3/22까지 한정 운영. 광화문광장과 가장 가까운 폴바셋 매장 중 하나. 구글맵에는 폐업했다고 뜨지만 그 정보는 잘못된 정보이다. 영업 중이므로 지도를 보고 따라가면 된다.",
+  "lat": 37.5705469,
+  "lng": 126.9788077,
+  "naverMapUrl": "https://map.naver.com/p/search/Paul%20Bassett",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20Bassett%20branch%20D%20tower&query_place_id=ChIJwWaomuuifDURKztAsj-n67E",
   "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "sourceUrl": "https://www.instagram.com/p/DWDe3IZk-yA/?img_index=1",
+  "isFandomSpot": true
  },
  {
-  "id": "place_025",
+  "id": "place_479",
+  "name": "폴바셋 종각역점",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 종로 47",
+  "type": "디저트",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Food Event"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 보라색 한정 — 폴바셋 라벤더 아이스크림 (종각역점)",
+  "mustTry": "라벤더 아이스크림",
+  "context": "3월 16일~22일까지 폴바셋 종각역점에서 BTS 아미의 상징색 보라색을 담은 라벤더 아이스크림 한정 판매. 광화문·종각 일대 이동 동선상 들르기 좋은 위치.",
+  "tip": "3/22까지 한정 운영. 종각역 1번 출구 인근. 광화문 공연 전후 동선상 편리.",
+  "lat": 37.570845,
+  "lng": 126.9825587,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/1683144019",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%8F%B4%EB%B0%94%EC%85%8B+%EC%A2%85%EA%B0%81%EC%97%AD%EC%A0%90/@37.570845,126.9799838,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca2ebfd9b483b:0x900796533a9958f1!8m2!3d37.570845!4d126.9825587!16s%2Fg%2F11ckq_7_6c?entry=tts&g_ep=EgoyMDI2MDMxNy4wIPu8ASoASAFQAw%3D%3D&skid=ec047cc4-c416-45fa-874f-803b9cbfc140",
+  "recreeUrl": null,
+  "sourceUrl": "https://www.instagram.com/p/DWDe3IZk-yA/?img_index=1",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_480",
+  "name": "폴바셋 광화문점 폴&밀도",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 종로1길 50",
+  "type": "디저트",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Food Event"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 보라색 한정 — 폴바셋 라벤더 아이스크림 (광화문점)",
+  "mustTry": "라벤더 아이스크림",
+  "context": "3월 16일~22일까지 폴&밀도 광화문점에서 BTS 아미의 상징색 보라색을 담은 라벤더 아이스크림 한정 판매. BTS 공연 날짜에 맞춰 일주일간 선보이는 시즌 한정 메뉴.",
+  "tip": "3/22까지 한정 운영. 광화문 공연 전 들러서 아이스크림 들고 광화문광장 인증샷 추천.",
+  "lat": 37.5746203,
+  "lng": 126.978861,
+  "naverMapUrl": "https://map.naver.com/p/search/%ED%8F%B4%EB%B0%94%EC%85%8B%20%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%90%20%ED%8F%B4%26%EB%B0%80%EB%8F%84",
+  "googleMapUrl": "https://www.google.com/maps/place/%ED%8F%B4%EB%B0%94%EC%85%8B+%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%90+%ED%8F%B4%26%EB%B0%80%EB%8F%84/@37.5746203,126.9762861,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca2ea6fd8b547:0x16a772e0ffabdc6f!8m2!3d37.5746203!4d126.978861!16s%2Fg%2F11bx0f1mqp?entry=tts&g_ep=EgoyMDI2MDMxNy4wIPu8ASoASAFQAw%3D%3D&skid=b562b543-ca41-4e2e-946e-c93a9b93b2c3",
+  "recreeUrl": null,
+  "sourceUrl": "https://www.instagram.com/p/DWDe3IZk-yA/?img_index=1",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_481",
+  "name": "광화문면옥 | Gwanghwamun Myeonok | クァンファムンミョノク | 光化门面屋",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 새문안로 92 1 층 101 호",
+  "type": "Noodles",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Food Event, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "공연 당일 선착순 100그릇 — 광화문면옥 냉면",
+  "mustTry": "물냉면 또는 비빔냉면",
+  "context": "BTS 광화문 컴백 공연 당일인 3월 21일, 공연을 찾는 팬과 시민을 위해 광화문면옥에서 선착순 100그릇 냉면 무료 제공. 광화문 공연장과 인접한 위치.",
+  "tip": "선착순 100그릇 한정. 공연 당일 광화문 일대 극심한 인파 예상 — 최대한 일찍 방문 추천.",
+  "lat": 37.56977,
+  "lng": 126.9748887,
+  "naverMapUrl": "https://map.naver.com/p/search/%EA%B4%91%ED%99%94%EB%AC%B8%EB%A9%B4%EC%98%A5%20%7C%20Gwanghwamun%20Myeonok%20%7C%20%E3%82%AF%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%A0%E3%83%B3%E3%83%9F%E3%83%A7%E3%83%8E%E3%82%AF%20%7C%20%E5%85%89%E5%8C%96%E9%97%A8%E9%9D%A2%E5%B1%8B",
+  "googleMapUrl": "https://www.google.com/maps/place/%EA%B4%91%ED%99%94%EB%AC%B8%EB%A9%B4%EC%98%A5+%7C+Gwanghwamun+Myeonok+%7C+%E3%82%AF%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%A0%E3%83%B3%E3%83%9F%E3%83%A7%E3%83%8E%E3%82%AF+%7C+%E5%85%89%E5%8C%96%E9%97%A8%E9%9D%A2%E5%B1%8B/@37.5697091,126.973467,18.23z/data=!4m7!3m6!1s0x357ca3000032803d:0x792393cd35a2c7c7!8m2!3d37.56977!4d126.9748887!15sChDqtJHtmZTrrLgg66m07JilWhIiEOq0ke2ZlOusuCDrqbTsmKWSARFrb3JlYW5fcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycEdkVk5HWkhsVVZrSklUV3RrUkdNd01XOVVWR2h2V2tkMGNHTXpZeEFC4AEA-gEECGcQGw!16s%2Fg%2F11mrlj47zg?entry=tts&g_ep=EgoyMDI2MDMxNy4wIPu8ASoASAFQAw%3D%3D&skid=d5ac9a59-4eb2-4e0a-934b-59007c34dadd",
+  "recreeUrl": null,
+  "sourceUrl": "https://weverse.io/bts/notice/34162",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_482",
+  "name": "엠플레이그라운드 성수점 MPLAYGROUND Seongsu Store",
+  "area": "성동구",
+  "region": "서울특별시 성동구",
+  "address": "서울특별시 성동구 연무장길 77",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Event"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 아리랑 넷플릭스 성수 팝업",
+  "mustTry": "넷플릭스 BTS 콘텐츠 연계 전시 및 포토존 체험",
+  "context": "BTS 아리랑 컴백을 기념해 성수동에서 운영된 넷플릭스 팝업. 구체적 위치 및 운영 기간 공식 출처 확인 후 업데이트 예정.",
+  "tip": "방문 전 공식 SNS에서 운영 일정 및 예약 여부 확인 필수.",
+  "lat": 37.5418448,
+  "lng": 127.0578839,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%97%A0%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20%EC%84%B1%EC%88%98%EC%A0%90%20MPLAYGROUND%20Seongsu%20Store",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%97%A0%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C+%EC%84%B1%EC%88%98%EC%A0%90+MPLAYGROUND+Seongsu+Store/@37.542633,127.0537397,17z/data=!4m7!3m6!1s0x357ca599e483d55f:0x7aa60cffca2253ad!8m2!3d37.5418448!4d127.0578839!15sCifshJzsmrgg7ISx64-Z6rWsIOyXsOustOyepeq4uCA3NyDshLHsiJhaKiIo7ISc7Jq4IOyEseuPmeq1rCDsl7DrrLTsnqUg6ri4IDc3IOyEseyImJIBD3Nob3BwaW5nX2NlbnRlcuABAA!16s%2Fg%2F11xvndphr6?entry=tts&g_ep=EgoyMDI2MDMxNy4wIPu8ASoASAFQAw%3D%3D&skid=3f70cf7f-4e84-4334-af42-4399bd996571",
+  "recreeUrl": null,
+  "sourceUrl": "https://weverse.io/bts/notice/34162",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_483",
+  "name": "신세계백화점본점 더헤리티지",
+  "area": "중구",
+  "region": "서울특별시 중구",
+  "address": "서울특별시 중구 남대문로 42",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Event"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS POP-UP : ARIRANG — 신세계백화점 본점",
+  "mustTry": "아리랑 앨범 타이틀을 시각화한 대형 조형물 앞 인증샷, 국립박물관문화재단 뮷즈 협업 굿즈 구매",
+  "context": "신세계백화점과 HYBE가 공동 기획한 BTS 정규 5집 아리랑 발매 기념 팝업스토어. 3월 20일~4월 12일까지 본점 더 헤리티지 4층 헤리티지 뮤지엄(약 125평)에서 운영. 국내 유통사 중 유일한 BTS 공식 팝업. 앨범 조형물, 전시, 공식 굿즈, 공식 응원봉 현장 구매 가능. 사전예약제 운영.",
+  "tip": "사전예약 필수. 위버스 스팟 예약 시스템 통해 방문 가능. 4월 12일까지 운영이라 고양 콘서트 전후로도 방문 가능.",
+  "lat": 37.5609619,
+  "lng": 126.9804888,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90%EB%B3%B8%EC%A0%90%20%EB%8D%94%ED%97%A4%EB%A6%AC%ED%8B%B0%EC%A7%80",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90+%EB%B3%B8%EC%A0%90/@37.5609766,126.9796391,17.98z/data=!4m6!3m5!1s0x357ca2f1587c7819:0xd74d3707fbcde464!8m2!3d37.5609223!4d126.9811389!16s%2Fg%2F1tkjj3ng?entry=tts&g_ep=EgoyMDI2MDMxNy4wIPu8ASoASAFQAw%3D%3D&skid=2983c97b-9a48-4757-b090-8f9b2a488fbc",
+  "recreeUrl": null,
+  "sourceUrl": "",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_484",
+  "name": "Banpo Bridge Moonlight Rainbow Fountain",
+  "area": "서초구",
+  "region": "서울특별시 서초구",
+  "address": "South Korea, 서울특별시 서초구 반포2동",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Lighting, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 아리랑 컴백 기념 달빛무지개분수 라이트쇼",
+  "mustTry": "반포한강공원 잔디에 자리 잡고 분수쇼 감상",
+  "context": "3월 21~22일 양일간 반포대교 달빛무지개분수가 BTS 아리랑 컴백 기념 뮤직 라이트쇼로 운영. 19:30~20:30 관람 가능.",
+  "tip": "날씨에 따라 취소될 수 있으니 당일 현황 확인 필수. 동작대교와 도보 거리라 연계 방문 가능.",
+  "lat": 37.5126335,
+  "lng": 126.9984783,
+  "naverMapUrl": "https://map.naver.com/p/search/Banpo%20Bridge%20Moonlight%20Rainbow%20Fountain",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Banpo%20Bridge%20Moonlight%20Rainbow%20Fountain&query_place_id=ChIJeVnK5X-hfDURv2fEEK-332M",
+  "recreeUrl": null,
+  "sourceUrl": "https://weverse.io/bts/notice/34162",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_485",
+  "name": "Dongdaemun Design Plaza (DDP)",
+  "area": "중구",
+  "region": "서울특별시 중구",
+  "address": "서울특별시 중구 을지로 281",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Lighting"
+   }
+  ],
+  "openHours": null,
+  "note": "DDP를 물들인 BTS 아리랑 뮤직 라이트쇼",
+  "mustTry": "DDP 외벽 정면에서 라이트쇼 타이밍 맞춰 관람 및 인증샷",
+  "context": "3월 20일부터 4월 12일까지 DDP 외벽에서 BTS 아리랑 컴백 기념 뮤직 라이트쇼 진행. 30분 간격으로 운영되어 방문 시간 맞추기 수월. 콘서트 이후에도 방문 가능.",
+  "tip": "30분 간격 운영. 4월 12일까지라 고양 콘서트 전후로도 방문 가능.",
+  "lat": 37.5665256,
+  "lng": 127.0092236,
+  "naverMapUrl": "https://map.naver.com/p/search/Dongdaemun%20Design%20Plaza%20%28DDP%29",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Dongdaemun%20Design%20Plaza%20(DDP)&query_place_id=ChIJ8xRYr29FezUR3AtFqx2pIlw",
+  "recreeUrl": null,
+  "sourceUrl": "https://weverse.io/bts/notice/34162",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_486",
   "name": "광화문광장",
   "area": "종로구",
   "region": "서울특별시 종로구",
   "address": "서울특별시 종로구 세종대로 172",
   "type": "명소",
-  "visits": [],
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Lighting"
+   }
+  ],
   "openHours": null,
-  "note": "세종대왕과 이순신 장군 동상이 있는 서울의 중심 광장, 광화문광장",
-  "mustTry": null,
-  "context": null,
-  "tip": null,
+  "note": "광화문광장을 물들인 BTS 컴백 전광판",
+  "mustTry": "매시 5분/25분/45분에 맞춰 광장 앞에서 대기 후 전광판 인증샷",
+  "context": "BTS 아리랑 컴백 기념으로 3월 20~21일 양일간 광화문광장 일대 전광판에서 BTS 콘텐츠가 매시 5분/25분/45분에 송출. 공연 전날부터 공연 당일까지 광장 자체가 이미 축제 현장.",
+  "tip": "매체사별 운영에 따라 송출 시간 다소 상이할 수 있음. 3월 21일 공연 당일 광화문 일대 차량 통제 및 인파 극심 — 이동 동선 미리 확인 필수.",
   "lat": 37.572389,
   "lng": 126.9769117,
   "naverMapUrl": "https://map.naver.com/p/search/%EA%B4%91%ED%99%94%EB%AC%B8%EA%B4%91%EC%9E%A5",
   "googleMapUrl": "https://www.google.com/maps/place/%EA%B4%91%ED%99%94%EB%AC%B8%EA%B4%91%EC%9E%A5/@37.572389,126.9743368,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca2eb421c44ad:0xe955a50c118085f8!8m2!3d37.572389!4d126.9769117!16s%2Fm%2F0r8p49w?entry=tts&g_ep=EgoyMDI2MDMxNy4wIPu8ASoASAFQAw%3D%3D&skid=dc66b660-8448-4a89-bdf4-6e68bee607a2",
   "recreeUrl": null,
-  "sourceUrl": null,
-  "isFandomSpot": false
+  "sourceUrl": "https://weverse.io/bts/notice/34162",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_487",
+  "name": "N Seoul Tower",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 남산공원길 105",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Lighting"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 컴백을 맞이한 남산타워 미디어 파사드",
+  "mustTry": "남산공원 팔각정 방향이나 남산 케이블카 탑승 전 타워 정면에서 파사드 감상",
+  "context": "BTS THE CITY ARIRANG SEOUL의 일환으로 2026년 3월 20일 하루, 남산서울타워 전체가 BTS 아리랑 컴백 기념 미디어 파사드로 물드는 날. 별도 예약 없이 누구나 관람 가능.",
+  "tip": "19:00~22:30 운영. 날씨에 따라 변경될 수 있으니 당일 위버스 공지 확인.",
+  "lat": 37.5511694,
+  "lng": 126.9882266,
+  "naverMapUrl": "https://map.naver.com/p/search/N%20Seoul%20Tower",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=N%20Seoul%20Tower&query_place_id=ChIJqWqOqFeifDURpYJ5LnxX-Fw",
+  "recreeUrl": null,
+  "sourceUrl": "https://weverse.io/bts/notice/34162",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_488",
+  "name": "LOTTE Department Store Main Store",
+  "area": "중구",
+  "region": "서울특별시 중구",
+  "address": "서울특별시 중구 남대문로 81",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Lighting, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "롯데타운 명동 웰컴라이트 — BTS 보라색으로 물든 명동",
+  "mustTry": null,
+  "context": null,
+  "tip": null,
+  "lat": 37.5647073,
+  "lng": 126.9816637,
+  "naverMapUrl": "https://map.naver.com/p/search/LOTTE%20Department%20Store%20Main%20Store",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=LOTTE%20Department%20Store%20Main%20Store&query_place_id=ChIJ91oV-fGifDURtBoizcsB2Hc",
+  "recreeUrl": null,
+  "sourceUrl": "https://www.hani.co.kr/arti/economy/economy_general/1250305.html",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_489",
+  "name": "BTS 버스정류장",
+  "area": "강릉시",
+  "region": "강원특별자치도 강릉시",
+  "address": "강원특별자치도 강릉시 주문진읍 향호리 8-55",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Photoshoot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 봄날 그 버스정류장, 감성 성지순례",
+  "mustTry": "벤치에 앉아 '봄날' 앨범 자켓 포즈 재현샷",
+  "context": "강릉 주문진해변 바닷가 버스정류장. YOU NEVER WALK ALONE 컨셉포토 'left' 버전과 봄날 앨범 자켓 촬영지. 현재 강릉시에서 공식 포토존으로 재현해놓아 누구나 같은 구도로 찍을 수 있음.",
+  "tip": "바람이 강하니 머리 스타일링에 유의하세요!",
+  "lat": 37.9123383,
+  "lng": 128.8170945,
+  "naverMapUrl": "https://map.naver.com/p/search/BTS%20%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5",
+  "googleMapUrl": "https://www.google.com/maps/place/BTS+%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/@37.9123383,128.8145196,17z/data=!3m1!4b1!4m6!3m5!1s0x3561fd2bed10b28d:0xb5ff23ee04c3d96b!8m2!3d37.9123383!4d128.8170945!16s%2Fg%2F11fs8jyk2j?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=fd79de51-5e7c-4be5-af24-c9a724c2827c",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-spring-day-album-jacket-photo-location-jumunjin-beach-gangneung-recree",
+  "sourceUrl": "https://youtu.be/DG6DtnDnQu4?list=RDDG6DtnDnQu4&t=1",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_490",
+  "name": "Hongje-dong Gaemi Village",
+  "area": "서대문구",
+  "region": "서울특별시 서대문구",
+  "address": "서울특별시 서대문구 홍제동 9-83",
+  "type": "Village",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Photoshoot, Vintage&Retro"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 정국 'LOVE YOURSELF' 포스터 속 개미마을",
+  "mustTry": "정국처럼 벽화옆에서 하늘 올려다보기",
+  "context": "BTS 정국 'LOVE YOURSELF' 포스터 속, 흰 꽃 든 정국이 있던 그 고요한 골목.",
+  "tip": "조용히 둘러보고 정상 뷰포인트 놓치지 마세요!",
+  "lat": 37.590248,
+  "lng": 126.9540634,
+  "naverMapUrl": "https://map.naver.com/p/search/Hongje-dong%20Gaemi%20Village",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Hongje-dong%20Gaemi%20Village&query_place_id=ChIJFRmQ3wmYfDURuu4VqzKi7mA",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jungkook-love-yourself-poster-photo-location-gaemi-village-seodaemun-recree",
+  "sourceUrl": "https://x.com/BIGHIT_MUSIC/status/895661021041352705?s=20",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_491",
+  "name": "서빙고 낚시터",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 서빙고동 서빙고로 62",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Photoshoot, Local, MV"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS RUN MV: 멤버들처럼 달려보자!",
+  "mustTry": "멤버들처럼 한강변 잔디밭을 힘껏 달려보기",
+  "context": "BTS RUN MV 속 멤버들이 질주하던 그 한강변 잔디밭! 아미라면 필수 코스",
+  "tip": "MV 1:43, 3:32–3:42 씬 확인! 낚시터 옆 위치",
+  "lat": 37.5168532,
+  "lng": 126.9925956,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%84%9C%EB%B9%99%EA%B3%A0%20%EB%82%9A%EC%8B%9C%ED%84%B0",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%84%9C%EB%B9%99%EA%B3%A0+%EB%82%9A%EC%8B%9C%ED%84%B0/@37.5168532,126.9925956,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca3d72b9c33db:0x5a0397595172ffaa!8m2!3d37.5168532!4d126.9925956!16s%2Fg%2F11fk3vkvf3?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=c6788b46-87a1-476e-8cd3-1311f3db1ee0",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-run-mv-filming-location-hangang-seobinggo-yongsan-recree",
+  "sourceUrl": "https://youtu.be/wKysONrSmew?t=101",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_492",
+  "name": "(주)코리아세븐한남3호점",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 한남동 657-45",
+  "type": "Convenience Store",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "MV, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "뷔의 편의점: 하이라이트 릴 그곳",
+  "mustTry": "뷔처럼 문앞에 서서 사진찍기, 편의점 간식 사먹어보기",
+  "context": "뷔의 하이라이트 릴 촬영지! 그 감성 그대로 창가에 앉아 컵라면을 즐길 수 있는 곳.",
+  "tip": "일반 편의점이니 다른 손님 배려 부탁해요.",
+  "lat": 37.5338486,
+  "lng": 127.003616,
+  "naverMapUrl": "https://map.naver.com/p/search/%28%EC%A3%BC%29%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%B8%EB%B8%90%ED%95%9C%EB%82%A83%ED%98%B8%EC%A0%90",
+  "googleMapUrl": "https://www.google.com/maps/place/(%EC%A3%BC)%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%B8%EB%B8%90%ED%95%9C%EB%82%A83%ED%98%B8%EC%A0%90/@37.5338486,127.003616,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca3b6b4349f75:0x637c91d71ba2934c!8m2!3d37.5338486!4d127.003616!16s%2Fg%2F11grbxkx31?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=c71cb99e-9850-4a9f-8147-fd42c764a2dd",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-highlight-reel-filming-location-7eleven-hannam-yongsan-recree",
+  "sourceUrl": "https://youtu.be/EHdK5U2hf4o?list=RDEHdK5U2hf4o&t=220",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_493",
+  "name": "잠원한강공원 압구정나들목",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 압구정동",
+  "type": "거리",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photoshoot, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS <SKOOL LUV AFFAIR> 컨셉포토 촬영지!",
+  "mustTry": "BTS 컨셉 포토처럼 벽 앞에서 포즈 취하기!",
+  "context": "방탄소년단 <SKOOL LUV AFFAIR> 컨셉 포토 촬영지, a tunnel covered floor-to-ceiling in graffiti that does all the work as a backdrop.",
+  "tip": "오후 늦게 방문하면 더 풍부한 색감을 담을 수 있어요!",
+  "lat": 37.5307878,
+  "lng": 127.0417524,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%9E%A0%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90%20%EC%95%95%EA%B5%AC%EC%A0%95%EB%82%98%EB%93%A4%EB%AA%A9",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%95%95%EA%B5%AC%EC%A0%95+%EB%82%98%EB%93%A4%EB%AA%A9+(%EC%95%95%EA%B5%AC%EC%A0%95+%ED%86%A0%EB%81%BC%EA%B5%B4)/@37.5305937,127.0416351,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca5a22dcb56f1:0x688f9c96526467b5!8m2!3d37.5305937!4d127.0416351!16s%2Fg%2F11f9x15txf?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=144d6f61-d1b7-4ebc-a279-e181548be70b",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-skool-luv-affair-concept-photo-location-graffiti-wall-recree",
+  "sourceUrl": "https://youtu.be/5VgUSjMEcTM?t=310",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_494",
+  "name": "동작대교",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 이촌동 386",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "Photo Spot, Photoshoot"
+   }
+  ],
+  "openHours": null,
+  "note": "뷔가 포스터 사진을 찍은 동작대교! LOVE YOURSELF 포스터 촬영지",
+  "mustTry": "다리 구조물과 한강 배경으로 뷔처럼 인생샷 남기기",
+  "context": "BTS 뷔의 LOVE YOURSELF 포스터 속 그 분위기! 한강을 배경으로 한 낭만적인 다리.",
+  "tip": "반포 한강공원과 연결! 해 질 녘 방문 후 야경 감상 추천",
+  "lat": 37.5104939,
+  "lng": 126.9817655,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%8F%99%EC%9E%91%EB%8C%80%EA%B5%90",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%8F%99%EC%9E%91%EB%8C%80%EA%B5%90/@37.5104939,126.9817655,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca16ba55cece3:0x70a5e72300a1767e!8m2!3d37.5104939!4d126.9817655!16s%2Fm%2F03nr0b0?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=499cf530-db20-4a99-b23e-2779894e2c68",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-love-yourself-poster-photo-location-dongjak-bridge-dongjak-recree",
+  "sourceUrl": "https://x.com/BIGHIT_MUSIC/status/895993210316533760?s=20",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_495",
+  "name": "남산3호터널보도육교",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 녹사평대로",
+  "type": "거리",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, SNS, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 제이홉이 담아낸 남산 뷰 육교",
+  "mustTry": "제이홉처럼 난간에 서서 서울 뷰 인생샷 찍기!",
+  "context": "BTS 제이홉이 사진 찍은, 남산과 서울의 일상을 담은 특별한 육교!",
+  "tip": "맑은 날 방문하면 더욱 선명한 남산 뷰를 즐길 수 있어요!",
+  "lat": 37.5395022,
+  "lng": 126.9872176,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%82%A8%EC%82%B03%ED%98%B8%ED%84%B0%EB%84%90%EB%B3%B4%EB%8F%84%EC%9C%A1%EA%B5%90",
+  "googleMapUrl": "https://www.google.com/maps/place/%EB%82%A8%EC%82%B03%ED%98%B8%ED%84%B0%EB%84%90%EB%B3%B4%EB%8F%84%EC%9C%A1%EA%B5%90/@37.5395022,126.9872176,15z/data=!4m6!3m5!1s0x357ca3310458b72f:0x3e4055bee98ce794!8m2!3d37.5395022!4d126.9872176!16s%2Fg%2F11mq3ghs7v?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=30387b0b-49e9-4ce1-8935-5cc8c400bf7c",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jhope-instagram-namsan-view-photo-location-overpass-recree",
+  "sourceUrl": "https://www.instagram.com/p/Cc0PziBLroE/?img_index=2",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_496",
+  "name": "한강 자전거 도로",
+  "area": "성동구",
+  "region": "서울특별시 성동구",
+  "address": "서울특별시 영등포구 양화동",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, SNS"
+   }
+  ],
+  "openHours": null,
+  "note": "제이홉처럼 한강 야간 라이딩!",
+  "mustTry": "제이홉처럼 한강에서 야간 자전거 타기",
+  "context": "Where j-hope posted a late-night cycling shot on Instagram on August 28, 2022 — the Han River bike path lit up by the city skyline.",
+  "tip": null,
+  "lat": 37.530207,
+  "lng": 127.057213,
+  "naverMapUrl": "https://map.naver.com/p/search/%ED%95%9C%EA%B0%95%20%EC%9E%90%EC%A0%84%EA%B1%B0%20%EB%8F%84%EB%A1%9C",
+  "googleMapUrl": "https://www.google.com/maps/place/%EC%98%81%EB%8F%99%EB%8C%80%EA%B5%90+%EB%B6%81%EB%8B%A8+%EC%8A%B9%EA%B0%95%EA%B8%B0/@37.5331923,127.0587678,17z/data=!3m1!4b1!4m6!3m5!1s0x357ca50040154f97:0x3d3934cab02d857c!8m2!3d37.5331923!4d127.0587678!16s%2Fg%2F11ww0y6xf7?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=f6222366-e576-4783-9f3f-187942b43abc",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jhope-instagram-night-cycling-photo-location-hangang-park-recree",
+  "sourceUrl": "https://www.instagram.com/p/ChzVXQFJ7_Y/?img_index=1",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_497",
+  "name": "롯데월드 옆 마스코트 동상 근처",
+  "area": "송파구",
+  "region": "서울특별시 송파구",
+  "address": "",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "달려라방탄에서 '멤버들과의 꿀잼장소'로 정국이 가장먼저 찾아간 곳",
+  "mustTry": "정국 자리에서 허탈 인증샷 & 어트랙션 즐기기",
+  "context": "BTS가 데뷔 초 단합을 위해 함께 방문한 놀이공원. 달려라방탄 50회 촬영지이기도 하며, 텔레파시 특집에서 정국이 '꿀잼' 키워드로 혼자 찾아간 멤버들과의 추억 장소",
+  "tip": "입장권 사전 예매 필수, 주말 대기 길어요!",
+  "lat": 37.5119231,
+  "lng": 127.100984,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%20%EC%98%86%20%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8%20%EB%8F%99%EC%83%81%20%EA%B7%BC%EC%B2%98",
+  "googleMapUrl": "https://www.google.com/maps/search/37.511798,+127.100947?entry=tts&g_ep=EgoyMDI2MDMxNS4wIPu8ASoASAFQAw%3D%3D&skid=a2342219-cef3-423b-b5b4-fadd40ec4470",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jungkook-run-bts-telepathy-visited-spot-lotte-world-songpa-recree",
+  "sourceUrl": "https://youtu.be/nbRKyymm4Eg?t=205",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_498",
+  "name": "방탄 논현동 첫번째 숙소",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "",
+  "type": "Idol Dorm",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Variety, Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "방탄소년단 첫 숙소: 꿀잼 추억의 장소",
+  "mustTry": "달방처럼 숙소 외관 앞에서 인증샷! 진이 포스트잇을 남겨두고 간 기둥 앞에서 인증샷",
+  "context": "BTS가 연습생 시절부터 데뷔 초까지 살았던 논현동 첫 번째 숙소. 달려라방탄 텔레파시 특집에서 진·뷔·지민·RM이 '꿀잼' 키워드로 네 명 동시에, 제이홉이 '삐짐' 키워드로 선택한 장소",
+  "tip": "외관 촬영만 가능, 내부 출입은 불가해요.",
+  "lat": 37.5179558,
+  "lng": 127.0271005,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%B0%A9%ED%83%84%20%EB%85%BC%ED%98%84%EB%8F%99%20%EC%B2%AB%EB%B2%88%EC%A7%B8%20%EC%88%99%EC%86%8C",
+  "googleMapUrl": null,
+  "recreeUrl": "https://recree.io/posts/kpop-bts-first-dorm-trainee-visited-spot-nonhyeon-gangnam-recree",
+  "sourceUrl": "https://youtu.be/wtVKQDEZoF0?t=2010",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_499",
+  "name": "Former Big Hit Entertainment Bldg",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "Nonhyeon-ro 145-gil, Gangnam District, Seoul, South Korea",
+  "type": "Agency",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Photoshoot, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 땀과 꿈 깃든 빅히트 구사옥",
+  "mustTry": "아미 메시지 벽에서 인증샷 남기기",
+  "context": "2007년부터 2018년까지 빅히트엔터테인먼트 사옥으로 사용된 건물. BTS 멤버들이 연습생 시절부터 데뷔 초기까지 이 건물 연습실에서 훈련한 곳.\n\n 2022년 정국이 구글 BTS x Street Galleries 프로젝트에서 이 건물을 배경으로 직접 등장",
+  "tip": "내부 출입 불가, 외부에서 사진 촬영만 가능",
+  "lat": 37.5176608,
+  "lng": 127.0262844,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/18840281",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=Former%20Big%20Hit%20Entertainment%20Building&query_place_id=ChIJ8WG3X7GjfDURdkxhnIyq3-0",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-trainee-practice-room-bighit-old-hq-gangnam-recree",
+  "sourceUrl": "https://www.hankyung.com/article/202207122497Y",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_500",
+  "name": "국립중앙박물관",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "서울특별시 용산구 서빙고로 137",
+  "type": "전시",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS가 3가지 곡 퍼포먼스를 한 국립중앙박물관",
+  "mustTry": "야외 열린마당에서 멤버들이 섰던 바닥 표시 위에 서서 리크리샷",
+  "context": "2020년 유튜브 가상 졸업식 Dear Class of 2020에서 BTS가 작은 것들을 위한 시, 봄날, 소우주를 공연한 곳. 1층 역사의 길에서 졸업 축사, 야외 열린마당에서 라이브 공연",
+  "tip": "입장료 무료! 멤버들 발자취 표시 확인 필수!",
+  "lat": 37.5238506,
+  "lng": 126.9804702,
+  "naverMapUrl": "https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Korea&query_place_id=ChIJN2x0fu2ifDUR51BupseGYmE",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-dear-class-2020-filming-location-national-museum-yongsan-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=ErTgtL1Tjns",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_501",
+  "name": "방탄이 뮤비에서 달리던 노들섬 스팟",
+  "area": "용산구",
+  "region": "서울특별시 용산구",
+  "address": "",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "MV"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 런 뮤비 속 질주! 노들섬",
+  "mustTry": "'RUN' MV 속 BTS처럼 한강 배경 질주샷!",
+  "context": "BTS 'RUN' MV 속 멤버들의 역동적인 질주씬 촬영지, 한강 노들섬!",
+  "tip": "현재 공사로 일부 구역 입장 제한될 수 있어요.",
+  "lat": 37.5168155,
+  "lng": 126.9579007,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%B0%A9%ED%83%84%EC%9D%B4%20%EB%AE%A4%EB%B9%84%EC%97%90%EC%84%9C%20%EB%8B%AC%EB%A6%AC%EB%8D%98%20%EB%85%B8%EB%93%A4%EC%84%AC%20%EC%8A%A4%ED%8C%9F",
+  "googleMapUrl": "https://www.google.com/maps/search/37.516847,+126.957879?entry=tts&g_ep=EgoyMDI2MDMxMS4wIPu8ASoASAFQAw%3D%3D&skid=f0c044be-1321-4aa7-a40a-6a465901a3a2",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-run-mv-filming-location-nodeul-island-yongsan-recree",
+  "sourceUrl": "https://youtu.be/wKysONrSmew?t=198",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_502",
+  "name": "휴가",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 논현로119길 16",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 네 번째 숙소, 아미 성지순례 카페 휴가",
+  "mustTry": "오전 중 매진되는 까만 소금빵 (BTS 빵), 벽면 포스트잇에 메시지 남기기",
+  "context": "BTS가 살았던 네 번째 숙소가 카페로! 아미라면 꼭 방문해야 할 성지순례 스팟",
+  "tip": "유정식당·학동공원과 묶어 논현동 성지순례 추천, 경사가 가파름 주의",
+  "lat": 37.510287,
+  "lng": 127.0304519,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/1900462991",
+  "googleMapUrl": "https://maps.app.goo.gl/nF5Vr2vidRvMquQk8",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-fourth-dorm-cafe-hyuga-visited-spot-hakdong-gangnam-recree",
+  "sourceUrl": "https://youtu.be/f7AOsE55rtA?t=90",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_503",
+  "name": "방탄 두 번째 숙소 (파란집)GS25 강남영동점 건물",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 논현로149길 50",
+  "type": "Idol Dorm",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 두 번째 숙소: 파란집의 추억",
+  "mustTry": "멤버들이 데뷔 초 시절 간식을 사먹었을 1층 편의점에서 간식 사먹기",
+  "context": "BTS가 데뷔 후 처음으로 이사한 두 번째 숙소. 사무실을 개조해 만든 공간으로 벽지·화장실·베란다가 전부 파란색이라 '파란집'으로 불림. \n\n달려라방탄 텔레파시 특집에서 '삐짐' 키워드로 진·뷔·지민·RM, 정국이 선택한 장소. 바나나 사건의 현장. \n\nBTS 데뷔 1주년 기념 자축 생일파티 영상의 배경. 진과 RM이 잡채·미역국을 만들고, 지민과 슈가가 케이크를 직접 만들어 자축한 곳",
+  "tip": "그때부터 있던 편의점이 1층에 있음, 3층 숙소 내부 출입 불가! 건물 외관만 촬영하세요.",
+  "lat": 37.5173546,
+  "lng": 127.0245014,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%B0%A9%ED%83%84%20%EB%91%90%20%EB%B2%88%EC%A7%B8%20%EC%88%99%EC%86%8C%20%28%ED%8C%8C%EB%9E%80%EC%A7%91%29GS25%20%EA%B0%95%EB%82%A8%EC%98%81%EB%8F%99%EC%A0%90%20%EA%B1%B4%EB%AC%BC",
+  "googleMapUrl": "https://www.google.com/maps/search/?api=1&query=BTS's%20second%20dorm%20(Blue%20House)%20GS25%20Gangnam%20Yeongdong%20Branch%20building&query_place_id=ChIJESzhAuyjfDURchwzmAhwT48",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-second-dorm-blue-house-visited-spot-nonhyeon-gangnam-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=nbRKyymm4Eg&t=1527s",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_504",
+  "name": "방탄이 맨날 걷던 숙소-연습실 루트",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "",
+  "type": "거리",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Variety, Fan Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 멤버들이 연습생 시절 맨날 걸었던 길이라며 RM과 JIMIN이 추억팔이 하는 길",
+  "mustTry": "RM, 지민처럼 골목길 걸으며 추억 인증샷!",
+  "context": "BTS  데뷔초 시절 숙소에서 빅히트 연습실까지 매일 오가던 골목길. 달려라방탄 텔레파시 특집에서 RM과 지민이 \"우리 맨날 이 길 걸었잖아\"라며 추억을 나눈 가로수길 인근 골목",
+  "tip": "논현동 BTS 성지순례 코스로 함께 걸어요!",
+  "lat": 37.517556,
+  "lng": 127.025194,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%B0%A9%ED%83%84%EC%9D%B4%20%EB%A7%A8%EB%82%A0%20%EA%B1%B7%EB%8D%98%20%EC%88%99%EC%86%8C-%EC%97%B0%EC%8A%B5%EC%8B%A4%20%EB%A3%A8%ED%8A%B8",
+  "googleMapUrl": "https://maps.app.goo.gl/DELW2fKfSwTXsr657",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-jimin-trainee-daily-path-photo-location-nonhyeon-gangnam-recree",
+  "sourceUrl": "https://youtu.be/nbRKyymm4Eg?t=245",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_505",
+  "name": "여의도한강공원",
+  "area": "영등포구",
+  "region": "서울특별시 영등포구",
+  "address": "서울특별시 영등포구 여의동로 330",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "Local, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 10주년 보랏빛 감동, 여의도 한강공원",
+  "mustTry": "RM 소통 광장에서 한강 배경 인증샷!",
+  "context": "2023년 6월 17일 BTS 10주년 FESTA 오프라인 행사 장소. RM이 현장에서 팬들과 직접 소통하고, 정국 내레이션의 보랏빛 불꽃쇼로 마무리된 곳",
+  "tip": "일몰 시간대 방문! 63빌딩&한강 뷰 최고. 주말 피크닉 인파 많으니 돗자리 지참 추천",
+  "lat": 37.5267106,
+  "lng": 126.9347112,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+  "googleMapUrl": "https://maps.app.goo.gl/qbnHBGWn6XMcLzRc8",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-10th-anniversary-festa-filming-location-yeouido-hangang-yeongdeungpo-recree",
+  "sourceUrl": "https://www.youtube.com/watch?v=idj4yxzc3W0",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_506",
+  "name": "월드컵대교",
+  "area": "마포구",
+  "region": "서울특별시 마포구",
+  "address": "서울특별시 마포구 상암동 1541",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "MV"
+   }
+  ],
+  "openHours": null,
+  "note": "'버터' 췄던 그 다리! BTS 월드컵대교",
+  "mustTry": "한강 배경 'Butter' 퍼포먼스 구도 전신샷!",
+  "context": "2021년 7월 지미팰런쇼에서 BTS가 개통 전 월드컵대교 위에서 Butter를 공연해 '방탄다리'로 불리게 된 곳",
+  "tip": "보행자 전용 도로로 접근, 야경과 함께 촬영!",
+  "lat": 37.5560169,
+  "lng": 126.885154,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%9B%94%EB%93%9C%EC%BB%B5%EB%8C%80%EA%B5%90",
+  "googleMapUrl": "https://maps.app.goo.gl/VjWfFmwePvzzWCoK7",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-butter-tonight-show-filming-location-worldcup-bridge-mapo-recree",
+  "sourceUrl": "https://youtu.be/xPG0yUm2giQ?t=38",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_507",
+  "name": "경복궁 경회루",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 사직로 161",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 소우주 무대! 경복궁 경회루",
+  "mustTry": "밤에 연못 앞에서 BTS 무대 구도로 리크리샷!",
+  "context": "2020년 지미팰런쇼 BTS 위크, 소우주(Mikrokosmos) 라이브 무대를 꾸민 바로 그곳!",
+  "tip": "경복궁 입장료 ₩3,000. 경회루 내부 관람은 사전 온라인 예약 필수!",
+  "lat": 37.5797094,
+  "lng": 126.9759903,
+  "naverMapUrl": "https://map.naver.com/p/search/%EA%B2%BD%EB%B3%B5%EA%B6%81%20%EA%B2%BD%ED%9A%8C%EB%A3%A8",
+  "googleMapUrl": "https://maps.app.goo.gl/PdUSE2DZnfKtPDqo8",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-mikrokosmos-tonight-show-filming-location-gyeonghoeru-jongno-recree",
+  "sourceUrl": "https://youtu.be/JjyZ3Gnim58?list=RDJjyZ3Gnim58&t=569",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_509",
+  "name": "GS25 강남영동점",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 논현로149길 50",
+  "type": "식당",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "Photo Spot, Variety"
+   },
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "Photo Spot, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "RM과 V가 연습생, 데뷔초 시절 아이스크림 먹다가 들켜서 급하게 숨긴 길목",
+  "mustTry": null,
+  "context": null,
+  "tip": null,
+  "lat": 37.5174255,
+  "lng": 127.0248824,
+  "naverMapUrl": "https://map.naver.com/p/search/GS25%20%EA%B0%95%EB%82%A8%EC%98%81%EB%8F%99%EC%A0%90",
+  "googleMapUrl": "https://maps.app.goo.gl/JMu1CoqqZRHLKHoS6",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-v-trainee-ice-cream-photo-location-second-dorm-gangnam-recree",
+  "sourceUrl": "https://youtu.be/nbRKyymm4Eg?t=252",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_510",
+  "name": "학동공원",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 논현동",
+  "type": "공원",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Variety, Local"
+   }
+  ],
+  "openHours": null,
+  "note": "방탄소년단 연습생 시절, 그네 타면서 인생고민 나누고 꿈을 키운 공원",
+  "mustTry": "멤버들처럼 그네에 앉아 추억 남기기",
+  "context": "방탄소년단 연습생 시절 숙소 인근의 동네 공원., N.O 안무 연습하고 인생 고민 나누던 추억의 장소",
+  "tip": "방문 후 유정식당에서 멤버들 단골 메뉴 맛보기",
+  "lat": 37.5156808,
+  "lng": 127.0254108,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/13491285",
+  "googleMapUrl": "https://maps.app.goo.gl/Y4YZr6mrfFV3xAy5A",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-trainee-practice-visited-spot-hakdong-park-gangnam-recree",
+  "sourceUrl": "https://youtu.be/nbRKyymm4Eg?t=674",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_511",
+  "name": "금홍",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 용산구 서빙고로 17",
+  "type": "Noodles",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "진은 짬뽕, 뷔는 짜장면에 고춧가루 — 맛이 그대로라는 중식당",
+  "mustTry": "진한 차돌짬뽕, 뷔처럼 짜장면에 고춧가루!",
+  "context": "BTS 진뷔가 '달려라 방탄'에서 돈 없이 짜장면, 짬뽕을 먹은 중식당",
+  "tip": "논현동 BTS 성지순례 코스로 함께 방문!",
+  "lat": 37.517557,
+  "lng": 127.02564,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/20897287",
+  "googleMapUrl": "https://maps.app.goo.gl/sgQLgQy6r72g4REYA",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-jin-v-run-bts-restaurant-geumhong-gangnam-recree",
+  "sourceUrl": "https://youtu.be/nbRKyymm4Eg?t=607",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_512",
+  "name": "유정식당",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 도산대로28길 14",
+  "type": "고깃집",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS의 연습실 바로 위층 단골집! 유정식당",
+  "mustTry": "BTS 최애! 방탄 정식 (유정쌈밥+흑돼지돌솥비빔밥)",
+  "context": "빅히트 옛 연습실 위, BTS가 7년 넘게 다닌 추억의 밥집!",
+  "tip": "평일 2~4시 방문 시 대기 없이 식사 가능해요.",
+  "lat": 37.5183879,
+  "lng": 127.0280767,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/31744281",
+  "googleMapUrl": "https://maps.app.goo.gl/ELuAJW6RatG6p8KE6",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-trainee-regular-restaurant-yujeong-sikdang-gangnam-recree",
+  "sourceUrl": "https://youtu.be/0ZQUwhEalRs?t=308",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_513",
+  "name": "스페인해적선",
+  "area": "송파구",
+  "region": "서울특별시 송파구",
+  "address": "서울특별시 송파구 잠실동 40-1",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "달려라방탄 50회 특집에서 BTS가 스피드 퀴즈 미션을 수행한 바이킹 놀이기구",
+  "mustTry": "최고 스릴을 원한다면, 바이킹 뒷자리!",
+  "context": "달려라방탄 50회에서 BTS가 스피드 퀴즈를 풀던 어트랙션. ",
+  "tip": "빠른 탑승은 왼쪽 빈자리 우선 대기줄 이용!",
+  "lat": 37.5113354,
+  "lng": 127.099326,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/1837805742",
+  "googleMapUrl": "https://maps.app.goo.gl/1w48WsmTPXQDn74x8",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-run-bts-ep50-filming-location-lotte-world-viking-songpa-recree",
+  "sourceUrl": "https://youtu.be/d--MDCCJ3jg?t=446",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_514",
+  "name": "롯데월드",
+  "area": "송파구",
+  "region": "서울특별시 송파구",
+  "address": "서울특별시 송파구 올림픽로 240",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "Photo Spot, SNS, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "RM이 #김데일리 태그로 인증샷 올린 그 회전목마 📸",
+  "mustTry": "RM처럼 회전목마 앞에서 인증샷 남기기!",
+  "context": "달방 50회 배경! RM의 #김데일리 회전목마 인증샷 스팟",
+  "tip": "RUN BTS 코스: 회전목마→해적선→후룸라이드→후렌치레볼루션",
+  "lat": 37.5088703,
+  "lng": 127.09996,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/1041036287",
+  "googleMapUrl": "https://maps.app.goo.gl/TuWs3PQn2nZc2FucA",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-kimdaily-carousel-photo-location-lotte-world-songpa-recree",
+  "sourceUrl": "https://x.com/BTS_twt/status/983920832815628288?s=20",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_515",
+  "name": "아트포라이프",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 백석동길 97",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "RM이 입대 전나라 밤 찾은 감성 카페, 아트포라이프",
+  "mustTry": "사장님 시그니처, 샹그리아 또는 뱅쇼",
+  "context": "RM이 입대 전날 지인들과 파티를 열었던, 감성 가득한 부암동 아지트",
+  "tip": "월요일은 휴무, 메뉴판 가격은 부가세 미포함이므로 실결제금액 다름, 아이스 음료는 얼음값 2천원 추가",
+  "lat": 37.5949575,
+  "lng": 126.9695904,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/13548128",
+  "googleMapUrl": "https://maps.app.goo.gl/VZLfk8AY3ePz4Zwr7",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-enlistment-eve-cafe-art-for-life-jongno-recree",
+  "sourceUrl": "https://x.com/msy9333/status/1767782677653119097?s=20",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_516",
+  "name": "경복궁 근정전",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 사직로 161",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 'IDOL' 무대 경복궁 근정전",
+  "mustTry": "한복 입고 BTS 자리에서 리크리샷!",
+  "context": "2020년 지미팰런쇼 BTS Week, 'IDOL' 무대로 궁궐을 보라색으로 물들인 곳.",
+  "tip": "BTS 멤버들이 섰던 정면 구도로 촬영! 경복궁 입장료 ₩3,000",
+  "lat": 37.5786627,
+  "lng": 126.9770495,
+  "naverMapUrl": "https://map.naver.com/p/search/%EA%B2%BD%EB%B3%B5%EA%B6%81%20%EA%B7%BC%EC%A0%95%EC%A0%84",
+  "googleMapUrl": "https://maps.app.goo.gl/NCPcKKMCKS67ueDq8",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-idol-performance-filming-location-gyeongbokgung-jongno-recree",
+  "sourceUrl": "https://youtu.be/MXFkjMNXfpY?t=38",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_517",
+  "name": "숭례문",
+  "area": "중구",
+  "region": "서울특별시 중구",
+  "address": "서울특별시 중구 세종대로 40",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 'Permission to Dance' & 'Butter' 라이브 무대 장소, 숭례문",
+  "mustTry": "야간 조명 켜진 숭례문 배경으로 BTS 리크리샷",
+  "context": "BTS가 글로벌 시티즌 라이브에서 'PTD', 'Butter'를 공연한 역사적인 장소",
+  "tip": "야간 방문 추천! 조명 켜진 숭례문, 주변 차량 통행 많으니 인도에서 촬영",
+  "lat": 37.559984,
+  "lng": 126.9753071,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/13491509",
+  "googleMapUrl": "https://maps.app.goo.gl/fkJUrQYF4AuqjdFQ6",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-global-citizen-live-filming-location-sungnyemun-junggu-recree",
+  "sourceUrl": "https://youtu.be/DYvrG_X5l8k?list=RDDYvrG_X5l8k",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_518",
+  "name": "BTS GangnamDol",
+  "area": "강남구",
+  "region": "서울특별시 강남구",
+  "address": "서울특별시 강남구 청담동 141-14",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, Photoshoot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS 강남돌: 멤버들이 직접 찍은 그 자리!",
+  "mustTry": "멤버들과 같은 구도로 리크리샷 찍기!",
+  "context": "2015년, BTS 멤버들이 직접 제막식에 참석하고 강남돌 옆에서 기념사진을 찍은 곳!",
+  "tip": "야외 상시 개방! 주변 다른 강남돌도 구경하세요.",
+  "lat": 37.5268534,
+  "lng": 127.044853,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/36439651",
+  "googleMapUrl": "https://maps.app.goo.gl/RiSc7pjXgFMVSxqG7",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-gangnamdol-photo-location-kstar-road-gangnam-recree",
+  "sourceUrl": "https://www.enewstoday.co.kr/news/articleView.html?idxno=457107",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_519",
+  "name": "미도파",
+  "area": "서대문구",
+  "region": "서울특별시 서대문구",
+  "address": "서울특별시 서대문구 연희동 420-1 2층",
+  "type": "카페",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "V",
+    "date": null,
+    "context": "Photoshoot, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS V가 솔로앨범 컨셉포토를 찍은 카페",
+  "mustTry": "뷔의 사과주스 & 민트 카운터바",
+  "context": "BTS 뷔 솔로 앨범 Layover 컨셉포토 촬영지! 뷔의 감성 그대로!",
+  "tip": "한산한 낮 방문! 뷔의 자리에서 리크리샷",
+  "lat": 37.5665395,
+  "lng": 126.9253617,
+  "naverMapUrl": "https://map.naver.com/p/search/%EB%AF%B8%EB%8F%84%ED%8C%8C",
+  "googleMapUrl": "https://maps.app.goo.gl/rurCo1NXSUyTc4Mt7",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-v-layover-photo-location-midopa-cafe-seodaemun-recree",
+  "sourceUrl": "https://namu.wiki/jump/vCYtM3axjMmswtH45Ovv90WhwhAji%2FtioUZ%2F7T0m7Opbvcr%2Bl%2Fp4p21LZ1eslFeEI1EJRFvh8b3%2FhbDPXMCp1w%3D%3D",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_520",
+  "name": "어니언 안국점",
+  "area": "종로구",
+  "region": "서울특별시 종로구",
+  "address": "서울특별시 종로구 계동길 5",
+  "type": "디저트",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "RM",
+    "date": null,
+    "context": "SNS, Photo Spot"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS RM 픽! 감성 한옥 카페 어니언 안국",
+  "mustTry": "대표메뉴인 팡도르, 앙버터 먹어보기, 자리 난다면 RM이 찍은 안쪽의 흰색 벽면 배경자리에서 다리꼬고 사진찍기",
+  "context": "RM 인스타 속 그 감성 카페! 운명처럼 만난 어니언 안국",
+  "tip": "RM 좌석 노린다면 평일 오전 방문이 좋아요!",
+  "lat": 37.5776235,
+  "lng": 126.9865541,
+  "naverMapUrl": "https://map.naver.com/p/entry/place/1240190178",
+  "googleMapUrl": "https://maps.app.goo.gl/jf6ocacimjirqga98",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-rm-cafe-photo-location-onion-anguk-jongno-recree",
+  "sourceUrl": "https://x.com/BTStranslation_/status/1500062220901773313",
+  "isFandomSpot": true
+ },
+ {
+  "id": "place_521",
+  "name": "잠실올림픽주경기장",
+  "area": "송파구",
+  "region": "서울특별시 송파구",
+  "address": "서울특별시 송파구 올림픽로 25",
+  "type": "명소",
+  "visits": [
+   {
+    "group": "BTS",
+    "member": "단체",
+    "date": null,
+    "context": "Photo Spot, SNS, Variety"
+   }
+  ],
+  "openHours": null,
+  "note": "BTS의 전설이 새겨진 아미밤 성지",
+  "mustTry": "올림픽 오륜기 앞에서 달방 멤버들처럼 인증샷!",
+  "context": "BTS가 아미와 함께 전설을 쓴 곳. 끝없이 펼쳐진 아미밤 물결의 감동이 서린 성지.",
+  "tip": "경기장 내부는 행사 없을 시 입장 불가해요!",
+  "lat": 37.5158376,
+  "lng": 127.0727986,
+  "naverMapUrl": "https://map.naver.com/p/search/%EC%9E%A0%EC%8B%A4%EC%98%AC%EB%A6%BC%ED%94%BD%EC%A3%BC%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+  "googleMapUrl": "https://maps.app.goo.gl/77N6oEw5qL4GppES8",
+  "recreeUrl": "https://recree.io/posts/kpop-bts-concert-filming-location-jamsil-olympic-stadium-songpa-recree",
+  "sourceUrl": "https://www.instagram.com/p/Cf6HExpBqrl/?img_index=3",
+  "isFandomSpot": true
  }
 ]

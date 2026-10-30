@@ -24,7 +24,7 @@ Env: `NEBIUS_API_KEY` (required), `NEBIUS_MODEL`, `NEBIUS_EMBED_MODEL`, `NEBIUS_
 Deploy: `render.yaml` (Render, Node web service + persistent disk).
 
 ## Data
-> This public repo ships a **sample** (41 items, 41 places) so judges can run it locally. The hosted demo loads the full dataset (600+ items, 500+ places) from a private file on the server via `FANMATE_DATA_DIR` (Render Secret Files → `/etc/secrets`), because the curated fan data is our community's core asset.
+> This public repo ships a **sample** (141 items, 137 places for NCT WISH, aespa and BTS) so judges can run it locally. The hosted demo loads the full dataset (600+ items, 500+ places) from a private file on the server via `FANMATE_DATA_DIR` (Render Secret Files → `/etc/secrets`), because the curated fan data is our community's core asset.
 
 - Items: Sonminsoo Wiki (sonminsoo.kr) fan-verified idol-worn products + clearly labeled unverified fan-account candidates
 - Places: fan "pilgrimage" spots with real coordinates
