@@ -1,0 +1,9 @@
+덕메 부산 성지 오류 수정 패치
+
+제외 항목: place_370 (종합운동장역)
+사유: 장소명/지점 유형은 역(Station)인데 내용은 제이홉 방문 밀면집이라고 기록됨. 원본 출처·reCree URL 없음. 사실 검증 없이 다른 가게로 임의 변경하지 않고 제외.
+
+적용: 서버 종료 후, ~/Downloads/dukme_places_fix.zip 를 ~/dukme 에 unzip -o 로 압축해제
+확인: node -e 'const p=require("./data/places.json"); console.log(p.length, p.some(x=>x.id==="place_370"))'
+기대: 520 false
+그 후 npm start. 이전 채팅에 뜬 카드의 표시 내용은 자동으로 수정되지 않으므로 새로 경로를 질문해야 함.

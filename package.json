@@ -1,0 +1,26 @@
+{
+  "name": "fanmate",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Dukme - a K-pop fan's personal AI that remembers your fandom (Nebius x NVIDIA Global AI Hackathon 2026)",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node --env-file=.env --import tsx src/server.ts",
+    "dev": "node --env-file=.env --import tsx --watch src/server.ts",
+    "start:prod": "node --import tsx src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node scripts/run-tests.mjs"
+  },
+  "dependencies": {
+    "@h1r-ai/croche": "^0.5.4",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}
