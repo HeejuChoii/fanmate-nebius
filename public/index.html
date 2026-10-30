@@ -2,7 +2,7 @@
 <html lang="ko">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>덕메</title>
+<title>FanMate</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -278,7 +278,7 @@
   <header>
     <div class="avatar" id="avatar">🙂</div>
     <div class="head-text">
-      <h1>덕메</h1>
+      <h1>FanMate</h1>
       <div id="avatar-status"></div>
     </div>
     <div class="spacer"></div>
@@ -290,7 +290,7 @@
     <section id="chat-col">
       <div id="log"></div>
       <form id="composer" autocomplete="off">
-        <input id="text" placeholder="덕메에게 말해보세요 (예: 내 최애는 위시 시온이야)">
+        <input id="text" placeholder="FanMate에게 말해보세요 (예: 내 최애는 위시 시온이야)">
         <button type="submit" data-i18n="btn.send">보내기</button>
       </form>
     </section>
@@ -340,7 +340,7 @@
   // 사전에 없는 키는 한국어로 대체한다. 브랜드·상품명·멤버명·장소명(데이터 값)은 번역하지 않는다.
   const I18N = {
     ko: {
-      'status.think': '덕메가 찾는 중…', 'status.happy': '찾았다!', 'status.cheer': '축하해!', 'status.sorry': '음… 잘 모르겠어',
+      'status.think': 'FanMate가 찾는 중…', 'status.happy': '찾았다!', 'status.cheer': '축하해!', 'status.sorry': '음… 잘 모르겠어',
       'note.searching': '찾고 있어요…',
       'note.unverified': '아직 확인되지 않은 정보예요. 손민수위키에 질문을 남겨 보면 다른 팬들이 찾아줄 수 있어요.',
       'badge.original': '원래 제품(검수됨)', 'badge.sample': '예시 대체템', 'badge.similar': '유사 제품(팬 검수)',
@@ -361,8 +361,8 @@
       'owned.already': '이미 보유 중이에요: {name}', 'owned.moved': '보유 아이템으로 옮겼어요: {name} 🎉',
       'visited.marked': '다녀온 걸로 기록했어요: {names}', 'visited.allAlready': '이미 전부 방문 기록에 있었어요.',
       'conn.lost': '연결이 잠깐 끊겼어, 다시 말해줄래?',
-      'placeholder.initial': '덕메에게 말해보세요 (예: 내 최애는 위시 시온이야)', 'placeholder.short': '덕메에게 물어보세요',
-      'btn.restart': '처음부터', 'welcome.title': '이렇게 물어볼 수 있어요', 'limit.user': '이번 대화에서 나눌 수 있는 말을 다 썼어요. "처음부터"를 누르면 새로 시작할 수 있어요.', 'limit.global': '지금 덕메를 찾는 사람이 너무 많아요. 잠시 후에 다시 말 걸어 줘!', 'limit.busy': '지금 자리가 꽉 찼어요. 잠깐 뒤에 다시 시도해 줘!', 'limit.newUser': '잠시 후에 다시 시도해 주세요.',
+      'placeholder.initial': 'FanMate에게 말해보세요 (예: 내 최애는 위시 시온이야)', 'placeholder.short': 'FanMate에게 물어보세요',
+      'btn.restart': '처음부터', 'welcome.title': '이렇게 물어볼 수 있어요', 'limit.user': '이번 대화에서 나눌 수 있는 말을 다 썼어요. "처음부터"를 누르면 새로 시작할 수 있어요.', 'limit.global': '지금 FanMate를 찾는 사람이 너무 많아요. 잠시 후에 다시 말 걸어 줘!', 'limit.busy': '지금 자리가 꽉 찼어요. 잠깐 뒤에 다시 시도해 줘!', 'limit.newUser': '잠시 후에 다시 시도해 주세요.',
       'btn.send': '보내기', 'btn.memory': '덕질 기록', 'btn.close': '닫기', 'btn.newChat': '새 대화', 'btn.resetMemory': '기억 초기화',
       'chat.new': '새 대화를 시작했어요. (기억은 유지돼요)',
       'confirm.reset': '대화와 기억(찜/보유/방문 포함)을 전부 초기화할까요? 시연을 처음부터 다시 할 때 쓰세요.',
@@ -374,7 +374,7 @@
       'profile.mode': '모드 {v}', 'mode.travel': '성지 중심', 'mode.shopping': '쇼핑 중심', 'mode.both': '쇼핑·성지', 'profile.language': '언어 {v}',
     },
     en: {
-      'status.think': 'Dukme is looking…', 'status.happy': 'Found it!', 'status.cheer': 'Congrats!', 'status.sorry': "Hmm… I'm not sure",
+      'status.think': 'FanMate is looking…', 'status.happy': 'Found it!', 'status.cheer': 'Congrats!', 'status.sorry': "Hmm… I'm not sure",
       'note.searching': 'Searching…',
       'note.unverified': "This info hasn't been confirmed yet. Try asking on Sonminsoo Wiki — other fans may be able to find it.",
       'badge.original': 'Original item (verified)', 'badge.sample': 'Sample alternative', 'badge.similar': 'Similar item (fan-checked)',
@@ -395,8 +395,8 @@
       'owned.already': 'Already owned: {name}', 'owned.moved': 'Moved to owned items: {name} 🎉',
       'visited.marked': 'Marked as visited: {names}', 'visited.allAlready': 'All of these were already marked as visited.',
       'conn.lost': 'Lost connection for a moment — could you say that again?',
-      'placeholder.initial': 'Talk to Dukme (e.g. My bias is SION from NCT WISH)', 'placeholder.short': 'Ask Dukme',
-      'btn.restart': 'Start over', 'welcome.title': 'Try asking', 'limit.user': 'You\'ve reached the chat limit for this session. Tap "Start over" to begin again.', 'limit.global': 'Lots of fans are talking to Dukme right now. Please try again in a little while!', 'limit.busy': 'All seats are taken right now. Please try again in a moment!', 'limit.newUser': 'Please try again in a little while.',
+      'placeholder.initial': 'Talk to FanMate (e.g. My bias is SION from NCT WISH)', 'placeholder.short': 'Ask FanMate',
+      'btn.restart': 'Start over', 'welcome.title': 'Try asking', 'limit.user': 'You\'ve reached the chat limit for this session. Tap "Start over" to begin again.', 'limit.global': 'Lots of fans are talking to FanMate right now. Please try again in a little while!', 'limit.busy': 'All seats are taken right now. Please try again in a moment!', 'limit.newUser': 'Please try again in a little while.',
       'btn.send': 'Send', 'btn.memory': 'My Fan Log', 'btn.close': 'Close', 'btn.newChat': 'New chat', 'btn.resetMemory': 'Reset memory',
       'chat.new': 'Started a new chat. (Memory is kept)',
       'confirm.reset': 'Reset the chat and all memory (including wishlist/owned/visited)? Use this to restart the demo.',
@@ -408,7 +408,7 @@
       'profile.mode': 'Mode {v}', 'mode.travel': 'Fan spots', 'mode.shopping': 'Shopping', 'mode.both': 'Shopping & spots', 'profile.language': 'Language {v}',
     },
     ja: {
-      'status.think': 'ドクメが探し中…', 'status.happy': '見つけた!', 'status.cheer': 'おめでとう!', 'status.sorry': 'うーん…よく分からないや',
+      'status.think': 'FanMateが探し中…', 'status.happy': '見つけた!', 'status.cheer': 'おめでとう!', 'status.sorry': 'うーん…よく分からないや',
       'note.searching': '探しています…',
       'note.unverified': 'まだ確認されていない情報です。ソンミンスWikiで質問すると、ほかのファンが見つけてくれるかも。',
       'badge.original': '本物のアイテム(確認済み)', 'badge.sample': '例の代わりアイテム', 'badge.similar': '似ているアイテム(ファン確認)',
@@ -429,8 +429,8 @@
       'owned.already': 'もう持っています: {name}', 'owned.moved': '持っているアイテムに移しました: {name} 🎉',
       'visited.marked': '行った場所として記録しました: {names}', 'visited.allAlready': 'すべてもう訪問済みでした。',
       'conn.lost': '接続が一瞬切れちゃった。もう一度言ってくれる?',
-      'placeholder.initial': 'ドクメに話しかけてね(例: 推しはNCT WISHのSION)', 'placeholder.short': 'ドクメに聞いてみて',
-      'btn.restart': '最初から', 'welcome.title': 'こんなふうに聞いてみて', 'limit.user': 'この会話で話せる回数の上限に達しました。「最初から」を押すと新しく始められます。', 'limit.global': 'いまドクメに話しかけている人がとても多いです。少し時間をおいてもう一度話しかけてね!', 'limit.busy': 'いま満席です。少ししてからもう一度試してね!', 'limit.newUser': 'しばらくしてからもう一度お試しください。',
+      'placeholder.initial': 'FanMateに話しかけてね(例: 推しはNCT WISHのSION)', 'placeholder.short': 'FanMateに聞いてみて',
+      'btn.restart': '最初から', 'welcome.title': 'こんなふうに聞いてみて', 'limit.user': 'この会話で話せる回数の上限に達しました。「最初から」を押すと新しく始められます。', 'limit.global': 'いまFanMateに話しかけている人がとても多いです。少し時間をおいてもう一度話しかけてね!', 'limit.busy': 'いま満席です。少ししてからもう一度試してね!', 'limit.newUser': 'しばらくしてからもう一度お試しください。',
       'btn.send': '送信', 'btn.memory': '推し活記録', 'btn.close': '閉じる', 'btn.newChat': '新しい会話', 'btn.resetMemory': '記憶をリセット',
       'chat.new': '新しい会話を始めました。(記憶はそのまま)',
       'confirm.reset': '会話と記憶(お気に入り・所持・訪問を含む)をすべてリセットしますか?デモを最初からやり直すときに使います。',
@@ -442,7 +442,7 @@
       'profile.mode': 'モード {v}', 'mode.travel': '聖地中心', 'mode.shopping': 'ショッピング中心', 'mode.both': 'ショッピング・聖地', 'profile.language': '言語 {v}',
     },
     'zh-CN': {
-      'status.think': 'Dukme 正在找…', 'status.happy': '找到了!', 'status.cheer': '恭喜!', 'status.sorry': '嗯…我不太确定',
+      'status.think': 'FanMate 正在找…', 'status.happy': '找到了!', 'status.cheer': '恭喜!', 'status.sorry': '嗯…我不太确定',
       'note.searching': '正在查找…',
       'note.unverified': '这是尚未确认的信息。可以去孙敏秀Wiki提问,其他粉丝也许能帮你找到。',
       'badge.original': '原款(已核实)', 'badge.sample': '示例平替', 'badge.similar': '相似款(粉丝核对)',
@@ -463,8 +463,8 @@
       'owned.already': '已经拥有: {name}', 'owned.moved': '已移到已拥有: {name} 🎉',
       'visited.marked': '已记录为去过: {names}', 'visited.allAlready': '这些都已经在到访记录里了。',
       'conn.lost': '连接刚刚断了一下,能再说一次吗?',
-      'placeholder.initial': '和 Dukme 聊聊吧(例: 我的本命是NCT WISH的SION)', 'placeholder.short': '问问 Dukme',
-      'btn.restart': '重新开始', 'welcome.title': '可以这样问', 'limit.user': '本次对话的次数已用完。点“重新开始”就能重新开始。', 'limit.global': '现在找 Dukme 的人太多了，请稍后再试！', 'limit.busy': '现在人满了，请稍等一下再试！', 'limit.newUser': '请稍后再试。',
+      'placeholder.initial': '和 FanMate 聊聊吧(例: 我的本命是NCT WISH的SION)', 'placeholder.short': '问问 FanMate',
+      'btn.restart': '重新开始', 'welcome.title': '可以这样问', 'limit.user': '本次对话的次数已用完。点“重新开始”就能重新开始。', 'limit.global': '现在找 FanMate 的人太多了，请稍后再试！', 'limit.busy': '现在人满了，请稍等一下再试！', 'limit.newUser': '请稍后再试。',
       'btn.send': '发送', 'btn.memory': '追星记录', 'btn.close': '关闭', 'btn.newChat': '新对话', 'btn.resetMemory': '重置记忆',
       'chat.new': '已开始新对话。(记忆会保留)',
       'confirm.reset': '要重置对话和全部记忆(包括心愿单/已拥有/到访)吗?用于从头重新演示。',
@@ -476,7 +476,7 @@
       'profile.mode': '模式 {v}', 'mode.travel': '圣地为主', 'mode.shopping': '购物为主', 'mode.both': '购物·圣地', 'profile.language': '语言 {v}',
     },
     'zh-TW': {
-      'status.think': 'Dukme 正在找…', 'status.happy': '找到了!', 'status.cheer': '恭喜!', 'status.sorry': '嗯…我不太確定',
+      'status.think': 'FanMate 正在找…', 'status.happy': '找到了!', 'status.cheer': '恭喜!', 'status.sorry': '嗯…我不太確定',
       'note.searching': '正在查找…',
       'note.unverified': '這是尚未確認的資訊。可以到孫敏秀Wiki提問,其他粉絲也許能幫你找到。',
       'badge.original': '原款(已核實)', 'badge.sample': '示例平替', 'badge.similar': '相似款(粉絲核對)',
@@ -497,8 +497,8 @@
       'owned.already': '已經擁有: {name}', 'owned.moved': '已移到已擁有: {name} 🎉',
       'visited.marked': '已記錄為去過: {names}', 'visited.allAlready': '這些都已經在到訪紀錄裡了。',
       'conn.lost': '連線剛剛斷了一下,能再說一次嗎?',
-      'placeholder.initial': '和 Dukme 聊聊吧(例: 我的本命是NCT WISH的SION)', 'placeholder.short': '問問 Dukme',
-      'btn.restart': '重新開始', 'welcome.title': '可以這樣問', 'limit.user': '本次對話的次數已用完。點「重新開始」就能重新開始。', 'limit.global': '現在找 Dukme 的人太多了，請稍後再試！', 'limit.busy': '現在人滿了，請稍等一下再試！', 'limit.newUser': '請稍後再試。',
+      'placeholder.initial': '和 FanMate 聊聊吧(例: 我的本命是NCT WISH的SION)', 'placeholder.short': '問問 FanMate',
+      'btn.restart': '重新開始', 'welcome.title': '可以這樣問', 'limit.user': '本次對話的次數已用完。點「重新開始」就能重新開始。', 'limit.global': '現在找 FanMate 的人太多了，請稍後再試！', 'limit.busy': '現在人滿了，請稍等一下再試！', 'limit.newUser': '請稍後再試。',
       'btn.send': '傳送', 'btn.memory': '追星紀錄', 'btn.close': '關閉', 'btn.newChat': '新對話', 'btn.resetMemory': '重置記憶',
       'chat.new': '已開始新對話。(記憶會保留)',
       'confirm.reset': '要重置對話和全部記憶(包括願望清單/已擁有/到訪)嗎?用於從頭重新示範。',

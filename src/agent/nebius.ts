@@ -105,15 +105,17 @@ function trimHistory(history: ChatMessage[], max: number): ChatMessage[] {
 }
 
 async function chat(config: NebiusConfig, messages: ChatMessage[], tools: unknown[]): Promise<{ content: string; toolCalls: ToolCall[] }> {
+  const started = Date.now();
   const response = await fetch(`${config.baseUrl.replace(/\/$/, "")}/chat/completions`, {
     method: "POST",
     headers: { authorization: `Bearer ${config.apiKey}`, "content-type": "application/json" },
-    body: JSON.stringify({ model: config.model, messages, tools, tool_choice: "auto", temperature: 0.4, max_tokens: 2048, ...config.extraBody }),
+    body: JSON.stringify({ model: config.model, messages, tools, tool_choice: "auto", temperature: 0.4, max_tokens: 4096, ...config.extraBody }),
     signal: AbortSignal.timeout(90_000),
   });
   if (!response.ok) throw new Error(`Nebius Token Factory ${response.status}: ${(await response.text()).slice(0, 300)}`);
-  const data = (await response.json()) as { choices?: Array<{ message?: { content?: string | null; tool_calls?: ToolCall[] } }> };
+  const data = (await response.json()) as { choices?: Array<{ finish_reason?: string; message?: { content?: string | null; tool_calls?: ToolCall[] } }>; usage?: { prompt_tokens?: number; completion_tokens?: number } };
   const message = data.choices?.[0]?.message ?? {};
+  console.log(`[nebius] ${config.model} ${Date.now() - started}ms finish=${data.choices?.[0]?.finish_reason} tokens=${data.usage?.prompt_tokens}/${data.usage?.completion_tokens} tools=${(message.tool_calls ?? []).map((c) => c.function.name).join(",") || "-"} content=${JSON.stringify((message.content ?? "").slice(0, 80))}`);
   return { content: stripThinking(message.content ?? ""), toolCalls: message.tool_calls ?? [] };
 }
 
@@ -158,6 +160,7 @@ export function nebiusOpener(config: NebiusConfig, options: { toolCallsPerTurn: 
 
     const handle: AgentHandle = {
       async send(input) {
+        console.log(`[turn] ${userId.slice(0, 8)} ${JSON.stringify(input.text.slice(0, 60))}`);
         running = true;
         emit({ type: "input", kind: "user", id: input.id, text: input.text });
         emit({ type: "state", status: "running" });
