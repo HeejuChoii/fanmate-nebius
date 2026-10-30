@@ -124,7 +124,8 @@ const FINAL_RULES = `[MOST IMPORTANT RULES]
 1. Reply in the language given by context.replyLanguage (en = English, ko = Korean, ja = Japanese, zh-CN/zh-TW = Chinese). Never switch to Korean when replyLanguage is en.
 2. Act first, ask later. If the user asks for a route/course, call planRoute immediately (put the area like "Seoul" in area, group/member if mentioned; leave others empty). If the user asks for items, call searchItem immediately. Do not ask follow-up questions before calling a tool.
 3. Never ask the user for ids (itemId, placeId). Ids come only from tool results. Never mention ids, tool names or field names in replies.
-4. Keep replies short: 2-5 sentences. Cards and maps are shown separately by the app.`;
+4. Only pass search conditions the user actually said. Do not add situation, category or maxPrice on your own.
+5. Keep replies short: 2-5 sentences. Cards and maps are shown separately by the app.`;
 
 export function nebiusOpener(config: NebiusConfig, options: { toolCallsPerTurn: number }): AgentOpener {
   const handlers: Record<string, ToolHandler> = limitToolCallsPerTurn(toolHandlers, options.toolCallsPerTurn);
@@ -157,7 +158,14 @@ export function nebiusOpener(config: NebiusConfig, options: { toolCallsPerTurn: 
       const handler = route && handlers[route.tool];
       if (!route || !handler) return JSON.stringify({ status: "rejected", reason: `없는 도구: ${call.function.name}` });
       try {
-        const result = await handler({ key: route.key, args } as never, { user: userId, causedBy: [inputId] } as never);
+        let result = (await handler({ key: route.key, args } as never, { user: userId, causedBy: [inputId] } as never)) as Record<string, unknown>;
+        // 작은 모델이 사용자가 말하지 않은 조건(상황·카테고리·가격)을 붙여 결과가 0개가 되면, 멤버/그룹만 남기고 한 번 더 찾는다.
+        if (route.tool === "searchItem" && result && result.count === 0 && (args.situation || args.category || args.maxPrice || args.keywords)) {
+          const relaxed = { group: args.group, member: args.member, limit: args.limit ?? 5 };
+          console.log(`[nebius] searchItem relaxed ${JSON.stringify(args)} -> ${JSON.stringify(relaxed)}`);
+          const retry = (await handler({ key: route.key, args: relaxed } as never, { user: userId, causedBy: [inputId, "relaxed"] } as never)) as Record<string, unknown>;
+          if (retry && Number(retry.count) > 0) result = { ...retry, note: "The exact conditions matched nothing, so these are other items this member wore. Say so briefly and show them." };
+        }
         return JSON.stringify(result).slice(0, 12_000);
       } catch (error) {
         console.error(`tool ${call.function.name} failed:`, error);
